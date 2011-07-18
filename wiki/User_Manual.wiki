@@ -1,0 +1,136 @@
+= User Manual =
+
+Placeholder for user manual for OMM Server
+
+<wiki:toc max_depth="4" />
+
+== Permissions ==
+
+OMMServer needs to run in admin mode. Need to elevate the permissions on start up.
+
+== Installation ==
+
+=== Selecting a database ===
+
+Notes between performance differences between SQL Server and SQLite
+
+=== AniDB Details ===
+
+=== Import Folders ===
+
+=== Review Options After Install ===
+
+== Initial Import ==
+
+=== How long will it take? ===
+
+Because OMM needs to hash all your files, a lot will depend on your hard drive and processor speed.<br>
+On average though it will take about 1 hour to process 80GB<br>
+This process will be much faster if you were a user of the !MyAnime 2 plugin for !MediaPortal and uploaded all your associations to the web cache.
+
+==== Hashing benchmarks on External USB 2.0 Drive ====
+
+File Size: 520MB<br>
+
+*Using Hasher.dll*<br>
+ED2k Hash only = 18 seconds <br>
+ED2k+CRC32+MD5+SH1 = 24 seconds<br>
+
+*NOT Using Hasher.dll*<br>
+ED2k Hash only = 20 seconds <br>
+ED2k+CRC32+MD5+SH1 = 28 seconds<br>
+
+==== Hashing benchmarks on Internal Drive ====
+
+File Size: 520MB<br>
+
+*Using Hasher.dll*<br>
+ED2k Hash only = 6 seconds<br>
+ED2k+CRC32+MD5+SH1 = 24 seconds<br>
+
+*NOT Using Hasher.dll*<br>
+ED2k Hash only = 20 seconds<br>
+ED2k+CRC32+MD5+SH1 = 28 seconds<br>
+
+== Options ==
+
+=== AniDB ===
+
+==== Automatically download related anime ====
+
+When selected this option will automatically download information about any related anime for series that you have.<br>
+For example, when importing a file from Naruto, it will also download any informations abou sequels and movies<br>
+This option is required if you want OMM Server to correctly group related series together.
+
+==== !MyList Options ====
+
+!MyList options relate to how file entries are stored on AniDB.
+
+===== Add Files =====
+
+If selected, whenever you add a file to your collection, the information will also be added to AniDB
+
+===== !MyList Sync and Import Options =====
+
+These two options relate to what actions to take whenever a !MyList sync is performed or during an import of new files.<br>
+For example - if you have previously added the file to AniDB, and then import it, these options allow you to control what state the files are set to in your local collection.<br>
+
+===== Local Actions =====
+
+Local actions refer to what happens when you manually mark a file/episode as watched using JMM Client or other clients such as MyAnime3<br>
+By selecting both you can keep your local collection in sync with your AniDB collection<br>
+
+
+=== Web Cache ===
+
+The web cache is an online server which stores data which can help you manage your anime collection. The main goal of this is to store information which is not stored by places like AniDB and TheTvDB.
+
+==== Stay Anonymous ====
+
+For some of the web cache options your AniDB username will be submitted to the web cache, and consequently used in retrieval of data from the web cache. This allow you to retain your own preferences in the case that you ever need to import your database again.<br>
+If you don't want this to happen you can select this option and your username will not be used for the web cache. This means you will get best matches from the web cache instead of what you have selected yourself.<br>
+
+==== Hashes from file names - GET ====
+
+The way OMM typically works is by calculating an ED2K hash on each file in your collection. It then uses this unique hash to find the right file information on AniDB and build your database.<br>
+However this process can take quite a long time, especially if you are sharing files across a network<br>
+Turning this option ON will instead look up the web cache based on a combination of file name and file size. If a hash is found there it will use this instead of hashing the file directly<br>
+This can save a significant amount of time, especially if you have not renamed your files<br>
+
+==== Hashes from file names - SEND ====
+
+This complements the above option. If you hash a file and successfully match it on AniDB, that data will be submitted to the web cache<br>
+This will help out other OMM users, and potentially help you out in the future if you lose your database and need to do an import again<br>
+
+==== Manual file to episode associations - GET / SEND ====
+
+Sometimes you will have files in your collection that are not on AniDB. This can is usually because you have encoded them yourself or various other reasons.<br>
+OMM allows you to manually associate these files against an anime and specific episode<br>
+However if you lose your database or decide to start from scratch, all these associations will be lost and you will need to do them again<br>
+By turning on this option you can submit these details to the web cache and the import process will automatically pick them up for you.<br>
+NOTE - this process is quite specific to each user, so the options will be disabled if you have selected to remain anonymous.
+
+==== AniDB to TvDB associations - GET / SEND ====
+
+AniDB is great for information about everything anime. It also has artwork for anime posters, characters, creators etc.<br>
+TheTvDB doesn't have much information about anime but it does have great fanart, banners and multiple series posters.<br>
+We want to get information/media from both of these sources but neither AniDB or TheTvDB has links to each other<br>
+
+So the web cache fills that gap by creating a cross reference between the two<br>
+In OMM you can select an anime from AniDB and associate it with a series/season on TheTvDB. This information is then submitted to the web cache to make it easier for the next user.
+
+== Frequently Asked Questions ==
+
+=== What are groups? ===
+
+Groups are used to group together related anime series<br>
+Any anime that show up as related series on AniDB will automatically be placed to together in the same group. (eg Naruto and Naruto Shippuden)<br>
+However you are free to create and delete groupings however you want. You can move anime from group to another, and also great sub groups within another group.
+
+=== Banned from AniDB? ===
+
+AniDB will sometimes ban a user if it detects that you are trying to leech data. The algorithm which does this is not perfect, so you may find yourself with a ban every now and then, even if you haven't done anything wrong.<br>
+
+Bans can last anywhere from a few hours to more than a day depending on the severity. If you find yourself with a ban, you should not attempt to run again for at least 12 hours, otherwise you might get a larger ban.<br>
+
+In my experience it only every happens with collections of more than 200 series<br>
