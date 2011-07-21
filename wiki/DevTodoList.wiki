@@ -26,6 +26,8 @@ Web cache - manual associations, cannot be anonymous<br>
 
 == Windows Client ==
 
+When searching for TvDB show links and images as well<br>
+
 Missing relations window<br>
 
 Utility to delete all groups/series where they have no files<br>
