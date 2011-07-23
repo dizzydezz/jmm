@@ -3,6 +3,7 @@
 <wiki:toc max_depth="3" />
 
 == Leo - Current work list ==
+Update anidb info every24 hours - UPDATED<br>
 Bug - CommandRequest_GetReleaseGroupStatus.ProcessCommand => AniDBHelper.GetReleaseGroupStatusUDP => AniDB_GroupStatusRepository.Save Updating group stats by anime from AniDB_GroupStatusRepository.Save updating way too many times for one group>br>
 Option - when importing a file, if the linked episode is already watched set that file as watched as well<br>
 Bug - !VideoInfo not being populated when data is retrieved from web cache<br>
