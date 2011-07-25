@@ -138,6 +138,7 @@ MovieDB - ID<br>
 AnimePlanet - ID<br>
 BakaBT - URL<br>
 AnimeNano - Tag<br>
+Crunchyroll<br>
 
 Support for files on DVD<br>
 
