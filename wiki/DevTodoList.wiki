@@ -15,6 +15,9 @@ Port MAL functionality from MA2<br>
 Show the watched date for each file/episode in client<br>
 Link to add a file to mylist<br>
 Investigate adding generics files for users who manually link files to episodes<br>
+Show series instead of groups, if the group only has one series<br>
+Have a button to show the group when viewing a series (hidden control)<br>
+Add a button to a group so that user can always include/exclude that group from a group filter<br>
 
 == MP2 Plugin ==
 
