@@ -1,4 +1,4 @@
-= Why upgrade to !JMM =
+= Why upgrade to JMM =
 
 <wiki:toc max_depth="3" />
 
