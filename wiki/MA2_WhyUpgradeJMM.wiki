@@ -2,4 +2,15 @@
 
 <wiki:toc max_depth="3" />
 
-== Leo - Current work list ==
+This page is intended for users of MyAnime2<br>
+It will help you decide whether it worth upgrading from MyAnime2 to JMM/MyAnime3<br>
+
+== Generic Files ==
+
+== Multiple Clients ==
+
+== Advanced Group Filters ==
+
+== Advanced File Management ==
+
+== Choice of Database ==
