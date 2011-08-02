@@ -16,6 +16,8 @@ Allow user to randomise or select a default poster from TvDB instead of using An
 Look at using banners in main list instead of posters and text<br>
 Look at performance when showing episode images<br>
 Episode images not working for anything other than season 1<br>
+TvDB switch season form needs to stretch horizontally<br>
+Limit the amount of text shown for episode overview when collapsed<br>
 
 Episode image/overview options<br>
 (1)Show in summary<br>
