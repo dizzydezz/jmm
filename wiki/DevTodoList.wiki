@@ -15,6 +15,13 @@ Display episode images/overview from TvDB for episodes<br>
 Allow user to randomise or select a default poster from TvDB instead of using AniDB<br>
 Look at using banners in main list instead of posters and text<br>
 
+Episode image/overview options<br>
+(1)Show in summary<br>
+(2)Show when episode expanded<br>
+(3)never show<br>
+- Image size<br>
+- Hide when episode is unwatched<br>
+
 == MP2 Plugin ==
 
 allow playlists<br>
