@@ -18,6 +18,7 @@ Look at performance when showing episode images<br>
 Episode images not working for anything other than season 1<br>
 TvDB switch season form needs to stretch horizontally<br>
 Limit the amount of text shown for episode overview when collapsed<br>
+Handle TvDB specials<br>
 
 Episode image/overview options<br>
 (1)Show in summary<br>
