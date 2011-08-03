@@ -19,7 +19,6 @@ Limit the amount of text shown for episode overview when collapsed<br>
 Handle TvDB specials<br>
 Highlight the currently selected series in the tvdb search<br>
 Client - first get new images since last refresh, and then download all images<br>
-Add a force Update TvDB/AniDB button on series screen<br>
 
 Episode image/overview options<br>
 (1)Show in summary<br>
