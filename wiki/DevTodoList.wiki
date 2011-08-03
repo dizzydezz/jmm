@@ -81,6 +81,7 @@ Design for home page<br>
 *Recent Releases* - Show episodes from series that the user is collecting, but the user hasn't downloaded yet (missing episodes) - short cut to download<br>
 *Download Suggestions* - Show related series to to the series the user is collecting (where they have 0 episodes) <br>
 *Mini Calendar* - show anime that have started airing in the last couple of weeks (and week previous<br>
+*Random Series* - picks a random series for you that you havent watched yet but is sitting on your hdd (option to only show complete)<br>
 
 Blank poster image<br>
 
