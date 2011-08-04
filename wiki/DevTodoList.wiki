@@ -14,8 +14,6 @@ Add a button to a group so that user can always include/exclude that group from 
 Display episode images/overview from TvDB for episodes<br>
 Allow user to randomise or select a default poster from TvDB instead of using AniDB<br>
 Look at using banners in main list instead of posters and text<br>
-TvDB switch season form needs to stretch horizontally<br>
-Limit the amount of text shown for episode overview when collapsed<br>
 Highlight the currently selected series in the tvdb search<br>
 Client - first get new images since last refresh, and then download all images<br>
 
