@@ -13,6 +13,7 @@ Investigate adding generics files for users who manually link files to episodes<
 Add a button to a group so that user can always include/exclude that group from a group filter<br>
 Allow user to randomise or select a default poster from TvDB instead of using AniDB<br>
 Client - first get new images since last refresh, and then download all images<br>
+Option to for all downloaded images (except AniDB) to be disabled by default<br>
 Port MovieDB code from MA2<br>
 
 
