@@ -14,7 +14,6 @@ Add a button to a group so that user can always include/exclude that group from 
 Client - first get new images since last refresh, and then download all images<br>
 Option to for all downloaded images (except AniDB) to be disabled by default<br>
 Port MovieDB code from MA2<br>
-When you remove a TvDB or MovieDB link, make sure the anime is not using one of those images as it's default<br>
 
 == MP2 Plugin ==
 
