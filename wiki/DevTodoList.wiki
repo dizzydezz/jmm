@@ -172,3 +172,10 @@ Remove fields which are not displayed in group/series data<br>
 === Import ===
 
 Get awards from http api<br>
+
+== Installer ==
+
+http://jrsoftware.org/is3rdparty.php<br>
+
+In installer, have recommendations on which database to use<br>
+If over 200 series and server has 4GB of memory recommend sql server<br>
