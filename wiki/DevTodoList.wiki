@@ -19,6 +19,7 @@ Add play next episode control to anime group<br>
 == MP2 Plugin ==
 
 allow playlists<br>
+after finishing watching a series, pop a rating dialog - and then ask user if they want to see recommendations for this series<br>
 
 == Web Cache ==
 
