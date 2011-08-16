@@ -62,10 +62,8 @@ Context menu for group link in files - anidb, group page, group irc<br>
 
 Allow multiple users with individual watched status'es<br>
 
-Design for home page<br>
-*Currently watching* - most recently watched series, show shortcut for playing the next episode. Presented as a list of images like a flim strip<br>
+Design for Dashboard<br>
 *Recently Added* - show series/groups that have recently been added to the library<br>
-*Recent Releases* - Show episodes from series that the user is collecting, but the user hasn't downloaded yet (missing episodes) - short cut to download<br>
 *Download Suggestions* - Show related series to to the series the user is collecting (where they have 0 episodes) <br>
 *Mini Calendar* - show anime that have started airing in the last couple of weeks (and week previous<br>
 *Random Series* - picks a random series for you that you havent watched yet but is sitting on your hdd (option to only show complete) You could pick from any genre, or select from a list of genres<br>
