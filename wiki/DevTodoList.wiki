@@ -13,7 +13,6 @@ Investigate adding generics files for users who manually link files to episodes<
 Add a button to a group so that user can always include/exclude that group from a group filter<br>
 Client - first get new images since last refresh, and then download all images<br>
 Option to for all downloaded images (except AniDB) to be disabled by default<br>
-When importing a file and settings status watched using existing episode, make sure to take the watched date from that episode<br>
 Add play next episode control to anime group<br>
 Allow a series to be opened in a new window - needed for the missing episodes widget on the dashboard<br>
 
