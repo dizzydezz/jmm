@@ -15,7 +15,6 @@ Add a button to a group so that user can always include/exclude that group from 
 Client - first get new images since last refresh, and then download all images<br>
 Option to for all downloaded images (except AniDB) to be disabled by default<br>
 Allow a series to be opened in a new window - needed for the missing episodes widget on the dashboard<br>
-Make sure all groups/series/anime are filtered by user<br>
 
 == MP2 Plugin ==
 
