@@ -14,9 +14,8 @@ Investigate adding generics files for users who manually link files to episodes<
 Add a button to a group so that user can always include/exclude that group from a group filter<br>
 Client - first get new images since last refresh, and then download all images<br>
 Option to for all downloaded images (except AniDB) to be disabled by default<br>
-Allow a series to be opened in a new window - needed for the missing episodes widget on the dashboard<br>
 
-== MP2 Plugin ==
+== MP Plugin ==
 
 allow playlists<br>
 after finishing watching a series, pop a rating dialog - and then ask user if they want to see recommendations for this series<br>
@@ -29,8 +28,6 @@ Web cache torrent search - crc, hash, animeid, episodeid, groupid<br>
 Web cache - manual associations, cannot be anonymous<br>
 
 == Windows Client ==
-
-When searching for TvDB show links and images as well<br>
 
 Missing relations window<br>
 
