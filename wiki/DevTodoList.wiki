@@ -29,6 +29,8 @@ Web cache - manual associations, cannot be anonymous<br>
 
 == Windows Client ==
 
+Missing episodes report under file manager, with ability to export it out to a text file<br>
+
 Missing relations window<br>
 
 Utility to delete all groups/series where they have no files<br>
