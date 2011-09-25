@@ -17,6 +17,7 @@ Option to view groups as posters instead of list when looking at group filters<b
 Search from the first collection window/dashboard (search widget)<br>
 User rating less than not working<br>
 Have a filter condition for user rating which also includes temp votes<br>
+Allow user ratings got 10 stars instead of 5<br>
 
 
 == MP Plugin ==
