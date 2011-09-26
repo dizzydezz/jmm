@@ -15,7 +15,7 @@ Add a button to a group so that user can always include/exclude that group from 
 Option to for all downloaded images (except AniDB) to be disabled by default<br>
 Option to view groups as posters instead of list when looking at group filters<br>
 Search from the first collection window/dashboard (search widget)<br>
-Have a filter condition for user rating which also includes temp votes<br>
+
 
 
 == MP Plugin ==
