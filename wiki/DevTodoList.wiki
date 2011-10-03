@@ -17,7 +17,6 @@ Option to view groups as posters instead of list when looking at group filters<b
 Search from the first collection window/dashboard (search widget)<br>
 BUG - Can't create a sub group, where the group only has one series<br>
 Option to update info AniDB_File info from anidb - this is needed because sometimes the abdump data is not populated initially<br>
-Change tab style to look like highlighted buttons<br>
 
 == MP Plugin ==
 
