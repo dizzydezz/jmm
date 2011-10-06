@@ -21,6 +21,7 @@ Move creation of default group filters to the server instead of the client<br>
 On group view add button to series poster to open in pinned window<br>
 Implement search as main tab<br>
 Change the creation of import folders so that the path is first instead of name<br>
+Implement IsTraktUser for JMMUser<br>
 
 == MP Plugin ==
 
