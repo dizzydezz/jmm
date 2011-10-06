@@ -1,13 +1,21 @@
-= Why upgrade to JMM =
+= Why upgrade to JMM and !MyAnime3 =
 
 <wiki:toc max_depth="3" />
 
 This page is intended for users of !MyAnime2<br>
-It will help you decide whether it worth upgrading from !MyAnime2 to !JMM/MyAnime3<br>
+It will help you decide whether it worth upgrading from !MyAnime2 to JMM/!MyAnime3<br>
 
 == Generic Files ==
 
 == Multiple Clients ==
+
+== Multiple Users ==
+
+You can now create multiple users when starting !MyAnime3 / !JMM Client or any other client<br>
+Each individual user provides the following advantages<br>
+- Separated stored episode watched states<br>
+- Separate favorites<br>
+- Filtering on groups by category/genre<br>
 
 == Advanced Group Filters ==
 
