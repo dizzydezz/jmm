@@ -25,6 +25,7 @@ Error when switching Trakt season<br>
 Add functionality to create a series from an anime in the client<br>
 Delete video local records when an import folder is deleted<br>
 On dashboard set up the image size buttons for individual widgets<br>
+Don't retrieve widget on dashboard unless it is expanded<br>
 
 == MP Plugin ==
 
