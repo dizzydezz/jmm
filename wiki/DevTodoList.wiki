@@ -24,6 +24,7 @@ Change the creation of import folders so that the path is first instead of name<
 Implement IsTraktUser for JMMUser<br>
 Error when switching Trakt season<br>
 Add functionality to create a series from an anime in the client<br>
+Delete video local records when an import folder is deleted<br>
 
 == MP Plugin ==
 
