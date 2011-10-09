@@ -21,8 +21,6 @@ Implement search as main tab<br>
 Change the creation of import folders so that the path is first instead of name<br>
 Error when switching Trakt season<br>
 Delete video local records when an import folder is deleted<br>
-On dashboard set up the image size buttons for individual widgets<br>
-Don't retrieve widget on dashboard unless it is expanded<br>
 Create link to TvDB episode page where an episode does not have an screenshot yet<br>
 Create option to download watched states from Trakt, with additional option to sync to AniDB as well<br>
 
