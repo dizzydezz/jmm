@@ -90,9 +90,9 @@ Release Group (Equals, Not Equals)<br>
 === Series Display Ideas ===
 
 Have a new Community tab<br>
- - Show links to discuss/forums on various sites<br>
- - Reviews
- - List of blog posts from Anime Nano<br>
+- Show links to discuss/forums on various sites<br>
+- Reviews<br>
+- List of blog posts from Anime Nano<br>
 
 Other Tabs<br>
 Show sequel and prequel<br>
