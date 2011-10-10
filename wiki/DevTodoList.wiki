@@ -3,8 +3,6 @@
 <wiki:toc max_depth="3" />
 
 == Leo - Current work list ==
-Bug - group filters are added twice to main list<br>
-Bug - !VideoInfo not being populated when data is retrieved from web cache<br>
 Performance - Updating group stats cache and group database stats for one group in sqlite is taking a long time<br>
 Performance - Takes too long to watch 100+ episodes as watched (sqlite)<br>
 Port MAL functionality from MA2<br>
