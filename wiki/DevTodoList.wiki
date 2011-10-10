@@ -22,6 +22,8 @@ Error when switching Trakt season<br>
 Delete video local records when an import folder is deleted<br>
 Create link to TvDB episode page where an episode does not have an screenshot yet<br>
 Create option to download watched states from Trakt, with additional option to sync to AniDB as well<br>
+Toggling watched status not updated episode display when series is pinned<br>
+Need a refresh button for pinned series<br>
 
 == MP Plugin ==
 
