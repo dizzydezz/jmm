@@ -51,11 +51,7 @@ Server function to allow user to change this option, and re-create all groups<br
 
 Allow user to select a default tab, and also default group filter when the client opens<br>
 
-Allow user to set up pass codes to prevent access to certain filters/groups/categories<br>
-
 Add a shortcut on the anime group to allow the user to permanent include/exclude that group from a filter<br>
-
-Show TvDB info in expanded episode detail<br>
 
 When client is busy (e.g. creating a new series from file manager), if you try and move the window it will crash<br>
 
@@ -67,20 +63,15 @@ When an import folder is deleted, all associated file records should also be del
 Ability to search for a file and show attached episode and series<br>
 Context menu for group link in files - anidb, group page, group irc<br>
 
-Allow multiple users with individual watched status'es<br>
-
 Design for Dashboard<br>
 *Recently Added* - show series/groups that have recently been added to the library<br>
 *Download Suggestions* - Show related series to to the series the user is collecting (where they have 0 episodes) <br>
-*Mini Calendar* - show anime that have started airing in the last couple of weeks (and week previous<br>
 *Random Series* - picks a random series for you that you havent watched yet but is sitting on your hdd (option to only show complete) You could pick from any genre, or select from a list of genres<br>
 *Recommended Series* - based on AniDB recommendations, cross matched with your most highly rated series<br>
 
 Blank poster image<br>
 
 Where showing available release groups for an episode, change to a hyperlink, and show group details with website, !IRC links etc<br>
-
-Implement API for playing videos using VLC/MPC, so that we can get the time at which a  video was stopped<br>
 
 Validation on data entry, especially for settings<br>
 http://weblogs.asp.net/monikadyrda/archive/2009/06/24/wpf-textbox-validation.aspx
@@ -92,37 +83,27 @@ http://weblogs.asp.net/monikadyrda/archive/2009/06/24/wpf-textbox-validation.asp
 
 Series Count<br>
 Studio (Equals, Not Equals)<br>
-Assigned TvDB Info(Include, Exclude)<br>
 Release Group (Equals, Not Equals)<br>
 <br>
 
 
-=== Group Display Ideas ===
-
-Shortcut for playing the next unwatched episode<br>
-
-
 === Series Display Ideas ===
 
-Should be display in an MDI container, and open up new tabs/documents<br>
+Have a new Community tab<br>
+ - Show links to discuss/forums on various sites<br>
+ - Reviews
+ - List of blog posts from Anime Nano<br>
 
-Show last played episode<br>
-Shortcut for playing the next unwatched episode<br>
-List of blog posts from Anime Nano<br>
-Show TvDB and Season number associations<br>
-Show suggestions for TvDB associations from web cache<br>
+Other Tabs<br>
 Show sequel and prequel<br>
 Show awards< br>
 Tab for characters<br>
 Tab for related anime<br>
 Tab for similar anime<br>
-Tab for Reviews<br>
-Show links to discuss/forums on various sites<br>
+
 
  
 == JMM Server ==
-
-If an !AnimeGroup record is deleted we should also delete and !GroupFilterCondition records which look at that group<br>
 
 With language preferences, allow the user to do a mass rename of groups based on their language preferences. However any groups which have been renamed manually should be excluded<br>
 
@@ -130,19 +111,12 @@ After hashing a file save the filename, size and hash to a new FilenameHash tabl
 For users with capable systems, allow them to populate this from the web cache<br>
 
 
-Move TvDB association to a new table, so that we can more easily show it when displaying details about an anime, not just a series.<br>
-AssociatianTvDB<br>
-- AssociationSource (int) (WebCache/Personal/TvDB Search - Auto)<br>
-- TvDBID (string)<br>
-- TvDBSeasonNumber (string)<br>
-
 Move other types of association as well (MAL and MovieDB)<br>
 - AssociationType (int)<br>
 - AssociationSource (int) (WebCache/Personal)<br>
 - AssociationID (string)<br>
 
 MAL - ID<br>
-MovieDB - ID<br>
 AnimePlanet - ID<br>
 BakaBT - URL<br>
 AnimeNano - Tag<br>
@@ -166,10 +140,6 @@ Have a general file manager tab where the user can see all the episodes where th
 
 Support for techmasterjoe's signatures<br>
 http://www.otakumm.com/forums/viewtopic.php/f,6/t,132/<br>
-
-Support for Trakt API and also the Trakt plugin for MP<br>
-http://forum.team-mediaportal.com/mediaportal-plugins-47/0-9-3-0-trakt-mediaportal-94872/<br>
-http://trakt.tv/<br>
 
 Investigate UPNP/DLNA support<br>
 http://www.otakumm.com/forums/viewtopic.php/p,544/#p544<br>
