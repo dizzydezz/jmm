@@ -17,6 +17,8 @@ Delete video local records when an import folder is deleted<br>
 Need a refresh button for pinned series<br>
 Open pinned series from multiple files tab in file manager<br>
 Investigate getting "what my friends are watching" from Trakt for usage in dash widget<br>
+Investigate getting news from anime nano and showing on anime series tab<br>
+
 
 == MP Plugin ==
 
