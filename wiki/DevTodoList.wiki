@@ -16,7 +16,6 @@ Move creation of default group filters to the server instead of the client<br>
 Change the creation of import folders so that the path is first instead of name<br>
 Error when switching Trakt season<br>
 Delete video local records when an import folder is deleted<br>
-Create option to download watched states from Trakt, with additional option to sync to AniDB as well<br>
 Need a refresh button for pinned series<br>
 
 == MP Plugin ==
@@ -35,6 +34,8 @@ Web cache torrent search - crc, hash, animeid, episodeid, groupid<br>
 Web cache - manual associations, cannot be anonymous<br>
 
 == Windows Client ==
+
+Create option to download watched states from Trakt, with additional option to sync to AniDB as well<br>
 
 Missing episodes report under file manager, with ability to export it out to a text file<br>
 
