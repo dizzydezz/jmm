@@ -16,7 +16,6 @@ Move creation of default group filters to the server instead of the client<br>
 Change the creation of import folders so that the path is first instead of name<br>
 Error when switching Trakt season<br>
 Delete video local records when an import folder is deleted<br>
-Create link to TvDB episode page where an episode does not have an screenshot yet<br>
 Create option to download watched states from Trakt, with additional option to sync to AniDB as well<br>
 Need a refresh button for pinned series<br>
 
@@ -27,6 +26,7 @@ after finishing watching a series, pop a rating dialog - and then ask user if th
 Pressing the play button, when highlighting a group/series should play the next episode<br>
 Visual indicators for whether a series has a tvdb/mal/trakt link<br>
 Continue Watching - new window  which is the same as the "Watch Next Ep" widget<br>
+MPI installer<br>
 
 == Web Cache ==
 
