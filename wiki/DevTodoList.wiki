@@ -12,7 +12,6 @@ Investigate adding generics files for users who manually link files to episodes<
 Add a button to a group so that user can always include/exclude that group from a group filter<br>
 Option to for all downloaded images (except AniDB) to be disabled by default<br>
 BUG - Can't create a sub group, where the group only has one series<br>
-Move creation of default group filters to the server instead of the client<br>
 Change the creation of import folders so that the path is first instead of name<br>
 Error when switching Trakt season<br>
 Delete video local records when an import folder is deleted<br>
