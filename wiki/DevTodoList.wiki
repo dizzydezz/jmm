@@ -36,6 +36,8 @@ Web cache - manual associations, cannot be anonymous<br>
 
 == Windows Client ==
 
+File manager - file renamer utility<br>
+
 Create option to download watched states from Trakt, with additional option to sync to AniDB as well<br>
 
 Missing episodes report under file manager, with ability to export it out to a text file<br>
