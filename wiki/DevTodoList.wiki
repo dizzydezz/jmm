@@ -20,6 +20,8 @@ Investigate getting news from anime nano and showing on anime series tab<br>
 Folders being created within drop folder<br>
 Creating a new group is not working<br>
 option to not auto group series<br>
+mylist delete command not working - causing ban<br>
+
 == MP Plugin ==
 
 allow playlists<br>
