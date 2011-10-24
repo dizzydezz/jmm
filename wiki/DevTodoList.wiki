@@ -18,7 +18,7 @@ Need a refresh button for pinned series<br>
 Investigate getting "what my friends are watching" from Trakt for usage in dash widget<br>
 Investigate getting news from anime nano and showing on anime series tab<br>
 Folders being created within drop folder<br>
-
+Creating a new group is not working<br>
 == MP Plugin ==
 
 allow playlists<br>
