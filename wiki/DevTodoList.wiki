@@ -17,7 +17,7 @@ Delete video local records when an import folder is deleted<br>
 Need a refresh button for pinned series<br>
 Investigate getting "what my friends are watching" from Trakt for usage in dash widget<br>
 Investigate getting news from anime nano and showing on anime series tab<br>
-Creating a new group is not working<br>
+Viewing group from pinned series not working<br>
 option to not auto group series<br>
 mylist delete command not working - causing ban<br>
 
