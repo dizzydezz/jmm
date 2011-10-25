@@ -18,6 +18,15 @@ mylist delete command not working - causing ban<br>
 
 == MP Plugin ==
 
+Remove Notifications<br>
+Implement find features<br>
+Black Glass skin<br>
+Musty skin<br>
+Calendar window<br>
+Relations window<br>
+Chars window<br>
+Downloads window<br>
+
 allow playlists<br>
 after finishing watching a series, pop a rating dialog - and then ask user if they want to see recommendations for this series<br>
 Pressing the play button, when highlighting a group/series should play the next episode<br>
