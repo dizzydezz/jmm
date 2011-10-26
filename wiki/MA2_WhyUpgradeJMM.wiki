@@ -10,7 +10,7 @@ It will help you decide whether it worth upgrading from !MyAnime2 to JMM/!MyAnim
 == Multiple Clients ==
 
 JMM has a central server component which manages a shared database (and also does all the hashing of files etc).<br>
-MyAnime3 and JMM clients connect to this server to get all information. This means that you can run more than one instance of !MediaPortal/!MyAnime3 without needing to double up on databases or hash files on each instance<br>
+!MyAnime3 and JMM clients connect to this server to get all information. This means that you can run more than one instance of !MediaPortal/!MyAnime3 without needing to double up on databases or hash files on each instance<br>
 
 == Multiple Users ==
 
@@ -21,6 +21,8 @@ Each individual user provides the following advantages<br>
 - Filtering on groups by category/genre<br>
 
 == Advanced Group Filters ==
+
+
 
 == Advanced File Management ==
 
