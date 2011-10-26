@@ -15,6 +15,8 @@ Need a refresh button for pinned series<br>
 Investigate getting "what my friends are watching" from Trakt for usage in dash widget<br>
 Investigate getting news from anime nano and showing on anime series tab<br>
 mylist delete command not working - causing ban<br>
+Play Random Episode Widget - for group filters, groups, series<br>
+Add play next episode widget to group filters<br>
 
 == MP Plugin ==
 
@@ -27,6 +29,8 @@ Calendar window<br>
 Relations window<br>
 Chars window<br>
 Downloads window<br>
+
+From context menu add functions to play random episode/ play next unwatched episode - on group filters, groups and series<br>
 
 allow playlists<br>
 after finishing watching a series, pop a rating dialog - and then ask user if they want to see recommendations for this series<br>
