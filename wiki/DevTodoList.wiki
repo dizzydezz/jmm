@@ -20,7 +20,6 @@ Add play next episode widget to group filters<br>
 
 == MP Plugin ==
 
-Implement find features<br>
 Black Glass skin<br>
 Queue status<br>
 Calendar window<br>
