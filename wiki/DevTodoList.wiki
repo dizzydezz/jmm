@@ -22,7 +22,6 @@ Add play next episode widget to group filters<br>
 
 Implement find features<br>
 Black Glass skin<br>
-Musty skin<br>
 Queue status<br>
 Calendar window<br>
 Relations window<br>
