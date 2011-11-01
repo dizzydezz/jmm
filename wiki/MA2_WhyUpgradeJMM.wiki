@@ -30,4 +30,6 @@ Each individual user provides the following advantages<br>
 
 == Minor Changes ==
 
-More flexible import options<br>
+- More flexible import options<br>
+- Support for NyaaTorrents in torrent searches<br>
+- Preference for torrents by your groups when searching for episodes<br>
