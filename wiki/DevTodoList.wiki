@@ -22,10 +22,8 @@ Add play next episode widget to group filters<br>
 
 Black Glass skin<br>
 Queue status<br>
-Calendar window<br>
-Relations window<br>
-Chars window<br>
-Downloads window<br>
+Recommendations window<br>
+Similar Anime window<br>
 
 From context menu add functions to play random episode/ play next unwatched episode - on group filters, groups and series<br>
 
