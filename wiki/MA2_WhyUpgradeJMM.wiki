@@ -22,7 +22,11 @@ Each individual user provides the following advantages<br>
 
 == Advanced Group Filters ==
 
+== New Features in MyAnime3 ==
 
+- Continue Watching Window
+- Recommendations Window
+- Similar Anime Window
 
 == Advanced File Management ==
 
