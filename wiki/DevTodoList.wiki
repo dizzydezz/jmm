@@ -18,6 +18,7 @@ mylist delete command not working - causing ban<br>
 Play Random Episode Widget - for group filters, groups, series<br>
 Add play next episode widget to group filters<br>
 Add group filter - Has Watched episodes<br>
+Add field to series for - Watch Priority (out of 10) - per user<br>
 
 == MP Plugin ==
 
