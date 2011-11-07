@@ -33,7 +33,6 @@ allow playlists<br>
 after finishing watching a series, pop a rating dialog - and then ask user if they want to see recommendations for this series<br>
 Pressing the play button, when highlighting a group/series should play the next episode<br>
 Visual indicators for whether a series has a tvdb/mal/trakt link<br>
-Continue Watching - new window  which is the same as the "Watch Next Ep" widget<br>
 MPI installer<br>
 
 == Web Cache ==
