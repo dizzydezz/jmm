@@ -13,11 +13,11 @@ Option to for all downloaded images (except AniDB) to be disabled by default<br>
 Delete video local records when an import folder is deleted<br>
 Investigate getting "what my friends are watching" from Trakt for usage in dash widget<br>
 Investigate getting news from anime nano and showing on anime series tab<br>
-mylist delete command not working - causing ban<br>
 Play Random Episode Widget - for group filters, groups, series<br>
 Add play next episode widget to group filters<br>
 Add field to series for - Watch Priority (out of 10) - per user<br>
 Favour BakaBT when downloading from calendar or recommendations window<br>
+Utility to delete all series/groups without any files<br>
 
 == MP Plugin ==
 
