@@ -10,7 +10,6 @@ Link to add a file to mylist<br>
 Investigate adding generics files for users who manually link files to episodes<br>
 Add a button to a group so that user can always include/exclude that group from a group filter<br>
 Option to for all downloaded images (except AniDB) to be disabled by default<br>
-Delete video local records when an import folder is deleted<br>
 Investigate getting "what my friends are watching" from Trakt for usage in dash widget<br>
 Investigate getting news from anime nano and showing on anime series tab<br>
 Play Random Episode Widget - for group filters, groups, series<br>
