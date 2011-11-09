@@ -15,7 +15,7 @@ Add play next episode widget to group filters<br>
 Add field to series for - Watch Priority (out of 10) - per user<br>
 Favour BakaBT when downloading from calendar or recommendations window<br>
 Utility to delete all series/groups without any files<br>
-Option in mylist sync to remove any files which are not found locally<br>
+Option in mylist sync to remove any files which are not found locally - this should be done separately with a confirmation screen which shows which files will be removed<br>
 Missing relations group filter<br>
 On relations window have an option to look for torrents<br>
 
