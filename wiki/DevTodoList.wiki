@@ -52,8 +52,6 @@ Missing episodes report under file manager, with ability to export it out to a t
 
 Missing relations window<br>
 
-Utility to delete all groups/series where they have no files<br>
-
 Show detailed file information from MediaInfo such as frame rate, audio and subtitle tracks<br>
 
 On an anime series, show all the folders where this anime is kept, and possibly a summary of file count and size for each folder<br>
