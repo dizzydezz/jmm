@@ -62,8 +62,6 @@ When client is busy (e.g. creating a new series from file manager), if you try a
 Handle folders being moves from one import folder to another as per mpiva's suggestion
 http://www.otakumm.com/forums/viewtopic.php?f=11&t=130&start=10<br>
 
-When an import folder is deleted, all associated file records should also be deleted<br>
-
 Ability to search for a file and show attached episode and series<br>
 Context menu for group link in files - anidb, group page, group irc<br>
 
@@ -135,7 +133,6 @@ Add a Drop/move LQ ver if HQ is found option
 Tie this is with version 2's of files as well<br>
 Suggested by techmasterjoe
 http://www.otakumm.com/forums/viewtopic.php?t=144<br>
-Have a general file manager tab where the user can see all the episodes where they have multiple files, and allow them to delete the ones from disk and database that they no longer want.<br>
 
 Support for techmasterjoe's signatures<br>
 http://www.otakumm.com/forums/viewtopic.php/f,6/t,132/<br>
