@@ -44,8 +44,6 @@ File manager - file renamer utility<br>
 
 Create option to download watched states from Trakt, with additional option to sync to AniDB as well<br>
 
-Missing episodes report under file manager, with ability to export it out to a text file<br>
-
 Missing relations window<br>
 
 Show detailed file information from MediaInfo such as frame rate, audio and subtitle tracks<br>
