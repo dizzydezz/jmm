@@ -16,8 +16,9 @@ Add field to series for - Watch Priority (out of 10) - per user<br>
 Favour BakaBT when downloading from calendar or recommendations window<br>
 Missing relations group filter<br>
 On relations window have an option to look for torrents<br>
-Add an option to ignore a recommendation<br>
+Add an option to ignore a recommendation in MA3<br>
 Refresh button on pinned series for file summary<br>
+Utility to removed ignored flags for recommendations<br>
 
 
 == MP Plugin ==
