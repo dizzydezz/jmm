@@ -8,7 +8,6 @@ Performance - Takes too long to watch 100+ episodes as watched (sqlite)<br>
 Port MAL functionality from MA2<br>
 Add a button to a group so that user can always include/exclude that group from a group filter<br>
 Option to for all downloaded images (except AniDB) to be disabled by default<br>
-Investigate getting "what my friends are watching" from Trakt for usage in dash widget<br>
 Investigate getting news from anime nano and showing on anime series tab<br>
 Play Random Episode Widget - for group filters, groups, series<br>
 Add play next episode widget to group filters<br>
@@ -20,6 +19,7 @@ Add an option to ignore a recommendation in MA3<br>
 Refresh button on pinned series for file summary<br>
 Utility to removed ignored flags for recommendations<br>
 Store a local variable in !StatsCache so we don't update Trakt twice for every episode watched<br>
+Cache Trakt friend images in the client<br>
 
 == MP Plugin ==
 
