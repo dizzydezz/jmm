@@ -18,7 +18,6 @@ On relations window have an option to look for torrents<br>
 Add an option to ignore a recommendation in MA3<br>
 Refresh button on pinned series for file summary<br>
 Utility to removed ignored flags for recommendations<br>
-Cache Trakt friend images in the client<br>
 
 == MP Plugin ==
 
