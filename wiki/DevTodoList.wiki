@@ -42,7 +42,7 @@ Web cache - manual associations, cannot be anonymous<br>
 
 == Windows Client ==
 
-File manager - file renamer utility<br>
+File manager - file renamer utility, use WebAOM as a basis<br>
 
 Create option to download watched states from Trakt, with additional option to sync to AniDB as well<br>
 
