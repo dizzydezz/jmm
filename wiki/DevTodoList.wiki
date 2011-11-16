@@ -19,6 +19,7 @@ Refresh button on pinned series for file summary<br>
 Utility to removed ignored flags for recommendations<br>
 
 == MP Plugin ==
+Implement Trakt menu in the same was as The TvDB<br>
 
 Black Glass skin<br>
 Similar Anime window<br>
