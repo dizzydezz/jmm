@@ -31,6 +31,8 @@ Pressing the play button, when highlighting a group/series should play the next 
 Visual indicators for whether a series has a tvdb/mal/trakt link<br>
 MPI installer<br>
 
+Reinstate the FFDShow Helper and post processing options from MA2<br>
+
 == Web Cache ==
 
 Allow anonymous submissions<br>
