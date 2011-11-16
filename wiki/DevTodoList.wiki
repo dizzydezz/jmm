@@ -21,9 +21,7 @@ Utility to removed ignored flags for recommendations<br>
 == MP Plugin ==
 
 Black Glass skin<br>
-Queue status<br>
 Similar Anime window<br>
-
 
 From context menu add functions to play random episode/ play next unwatched episode - on group filters, groups and series<br>
 
