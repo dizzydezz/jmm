@@ -30,10 +30,12 @@ Each individual user provides the following advantages<br>
 
 == Advanced File Management ==
 
+Support for AVDump2 from JMM Desktop for Unlinked and Manually Linked files<br>
+
 == Choice of Database ==
 
 == Minor Changes ==
 
 - More flexible import options<br>
-- Support for NyaaTorrents in torrent searches<br>
+- Support for !NyaaTorrents in torrent searches<br>
 - Preference for torrents by your groups when searching for episodes<br>
