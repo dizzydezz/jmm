@@ -10,38 +10,14 @@
 
 == Windows Client ==
 
-File manager - file renamer utility, use WebAOM as a basis<br>
-
-Create option to download watched states from Trakt, with additional option to sync to AniDB as well<br>
-
-Missing relations window<br>
-
-Show detailed file information from MediaInfo such as frame rate, audio and subtitle tracks<br>
-
-On an anime series, show all the folders where this anime is kept, and possibly a summary of file count and size for each folder<br>
-
-Import option to allow user to select whether they want to group related series automatically or not<br>
-Server function to allow user to change this option, and re-create all groups<br>
-
-Allow user to select a default tab, and also default group filter when the client opens<br>
-
-Add a shortcut on the anime group to allow the user to permanent include/exclude that group from a filter<br>
-
-When client is busy (e.g. creating a new series from file manager), if you try and move the window it will crash<br>
-
 Handle folders being moves from one import folder to another as per mpiva's suggestion
 http://www.otakumm.com/forums/viewtopic.php?f=11&t=130&start=10<br>
-
-Ability to search for a file and show attached episode and series<br>
-Context menu for group link in files - anidb, group page, group irc<br>
 
 Design for Dashboard<br>
 *Recently Added* - show series/groups that have recently been added to the library<br>
 *Random Series* - picks a random series for you that you havent watched yet but is sitting on your hdd (option to only show complete) You could pick from any genre, or select from a list of genres<br>
 
 Blank poster image<br>
-
-Where showing available release groups for an episode, change to a hyperlink, and show group details with website, !IRC links etc<br>
 
 Validation on data entry, especially for settings<br>
 http://weblogs.asp.net/monikadyrda/archive/2009/06/24/wpf-textbox-validation.aspx
@@ -72,8 +48,6 @@ Tab for characters<br>
  
 == JMM Server ==
 
-With language preferences, allow the user to do a mass rename of groups based on their language preferences. However any groups which have been renamed manually should be excluded<br>
-
 After hashing a file save the filename, size and hash to a new FilenameHash table instead of just sending to the web cache. This should make moving files around a lot less painful.<br>
 For users with capable systems, allow them to populate this from the web cache<br>
 
@@ -95,8 +69,6 @@ Check whether it is possible to create a report which checks to see if we have v
 
 Enable logging of sql commands for trace statements<br>
 http://devio.wordpress.com/2010/04/14/logging-sql-statements-generated-by-nhibernate/<br><br>
-
-Support for avdump<br>
 
 Add a Drop/move LQ ver if HQ is found option
 (if 2 of EP is found keep the bigger / 720P / 1080P ver and trash the LQ "require conformation")<br>
