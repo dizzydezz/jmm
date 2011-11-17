@@ -7,6 +7,9 @@ It will help you decide whether it worth upgrading from !MyAnime2 to JMM/!MyAnim
 
 == Generic Files ==
 
+Now when a file does not exist on AniDB, and you manually link it to an episode it will add a generic file on AniDB<br>
+This means when you watch that file locally status is maiantained on AniDB<br>
+
 == Multiple Clients ==
 
 JMM has a central server component which manages a shared database (and also does all the hashing of files etc).<br>
