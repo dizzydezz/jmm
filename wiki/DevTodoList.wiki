@@ -4,17 +4,6 @@
 
 == Leo - Current work list ==
 
-Option to for all downloaded images (except AniDB) to be disabled by default<br>
-Investigate getting news from anime nano and showing on anime series tab<br>
-Play Random Episode Widget - for group filters, groups, series<br>
-Add play next episode widget to group filters<br>
-Add field to series for - Watch Priority (out of 10) - per user<br>
-Favour BakaBT when downloading from calendar or recommendations window<br>
-Missing relations group filter<br>
-On relations window have an option to look for torrents<br>
-Refresh button on pinned series for file summary<br>
-Utility to removed ignored flags for recommendations<br>
-
 == MP Plugin ==
 Implement Trakt menu in the same was as The TvDB<br>
 
