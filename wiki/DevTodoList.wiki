@@ -5,28 +5,8 @@
 == Leo - Current work list ==
 
 == MP Plugin ==
-Implement Trakt menu in the same was as The TvDB<br>
-
-Black Glass skin<br>
-Similar Anime window<br>
-
-From context menu add functions to play random episode/ play next unwatched episode - on group filters, groups and series<br>
-
-allow playlists<br>
-after finishing watching a series, pop a rating dialog - and then ask user if they want to see recommendations for this series<br>
-Pressing the play button, when highlighting a group/series should play the next episode<br>
-Visual indicators for whether a series has a tvdb/mal/trakt link<br>
-MPI installer<br>
-
-Look at default audio and sub-title languages per series<br>
-Reinstate the FFDShow Helper and post processing options from MA2<br>
-Do a youtube demo video<br>
 
 == Web Cache ==
-
-Allow anonymous submissions<br>
-Web cache torrent search - crc, hash, animeid, episodeid, groupid<br>
-Web cache - manual associations, cannot be anonymous<br>
 
 == Windows Client ==
 
