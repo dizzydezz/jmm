@@ -44,14 +44,41 @@ The relations windows shows you all the anime that is related to another anime<b
 
 ==Calendar==
 
-The calendar windows will show you a summary of release dats for Anime, so you can see what has recently started airing or what is upcoming<br>
+The calendar window will show you a summary of release dats for Anime, so you can see what has recently started airing or what is upcoming<br>
 
 <a href="http://jmm.googlecode.com/svn/trunk/Screenshots/MA3/Avalon/Window_Calendar.jpg">
 <img src="http://jmm.googlecode.com/svn/trunk/Screenshots/MA3/Avalon/Window_Calendar.jpg" width=800/></a>
 
 ==Continue Watching==
 
+The 'Continue Watching' window is designed to make your viewing experience a bit easier. It will only show you series that you have already started watching, and where you have unwatched episodes.<br>
+So when the latest episode of your favorite show is added to your collection it will automatically appear here<br>
+
+<a href="http://jmm.googlecode.com/svn/trunk/Screenshots/MA3/Avalon/Wwindows willindow_ContinueWatching.jpg">
+<img src="http://jmm.googlecode.com/svn/trunk/Screenshots/MA3/Avalon/Window_ContinueWatching.jpg" width=800/></a>
+
 ==Recommendations==
+
+The recommendations windows does two things<br>
+*Recommendations to Download* - anime that you don't have in your collection<br> 
+*Recommendations to Watch* - anime that you have in your collection but haven't started watching<br>
+
+Both types are based on how you have voted/rating your existing series on AniDB. It then takes suggestions by other AniDB users and compiles a list for you<br>
+
+<table>
+<tr>
+<td>
+<a href="http://jmm.googlecode.com/svn/trunk/Screenshots/MA3/Avalon/Window_RecDownload.jpg">
+<img src="http://jmm.googlecode.com/svn/trunk/Screenshots/MA3/Avalon/Window_RecDownload.jpg" width=500 />
+</a>
+</td>
+<td>
+<a href="http://jmm.googlecode.com/svn/trunk/Screenshots/MA3/Avalon/Window_RecWatch.jpg">
+<img src="http://jmm.googlecode.com/svn/trunk/Screenshots/MA3/Avalon/Window_RecWatch.jpg" width=500 />
+</a>
+</td>
+</tr>
+</table>
 
 ==Downloads==
 
