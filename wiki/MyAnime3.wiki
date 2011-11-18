@@ -82,6 +82,32 @@ Both types are based on how you have voted/rating your existing series on AniDB.
 
 ==Downloads==
 
+My Anime 3 provides an interface to uTorrent, even if uTorrent is running on a different machine<br>
+You can monitor and administer your torrents as well searching for new torrents (currently supporting Nyaa, Tokyo Toshokan and !AnimeSuki)<br>
+MA3 also tries to make it easier to find your missing episodes by integrating search directly from your episodes list<br>
+
+<table>
+<tr>
+<td>
+<a href="http://jmm.googlecode.com/svn/trunk/Screenshots/MA3/Avalon/Window_DownloadsMonitor.jpg">
+<img src="http://jmm.googlecode.com/svn/trunk/Screenshots/MA3/Avalon/Window_DownloadsMonitor_sm.jpg" width=500 />
+</a>
+</td>
+<td>
+<a href="http://jmm.googlecode.com/svn/trunk/Screenshots/MA3/Avalon/Window_DownloadsSearch.jpg">
+<img src="http://jmm.googlecode.com/svn/trunk/Screenshots/MA3/Avalon/Window_DownloadsSearch_sm.jpg" width=500 />
+</a>
+</td>
+</tr>
+<tr>
+<td>
+<a href="http://jmm.googlecode.com/svn/trunk/Screenshots/MA3/Avalon/Window_DownloadsBrowse.jpg">
+<img src="http://jmm.googlecode.com/svn/trunk/Screenshots/MA3/Avalon/Window_DownloadsBrowse_sm.jpg" width=500 />
+</a>
+</td>
+</tr>
+</table>
+
 ==Fanart, Posters and Wide Banners==
 
 =Skins =
