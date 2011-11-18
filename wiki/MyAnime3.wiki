@@ -139,6 +139,9 @@ These windows allow you to select whether you want to enable/disable any of thes
 
 ==Avalon==
 
+In the above screenshots Avalon was used<br>
+You can download Avalon here http://www.team-mediaportal.com/extensions/widescreen/avalon-skin<br>
+
 ==StreamedMP==
 
 ==aMPed==
