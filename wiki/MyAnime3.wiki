@@ -4,6 +4,23 @@
 
 ==Layouts==
 
+When viewing your list of anime series, you can choose to see them in various ways. List, Wide Banners, Filmstrip and Coverflow.<br>
+
+<table>
+<tr>
+<td>
+<a href="http://jmm.googlecode.com/svn/trunk/Screenshots/MA3/Avalon/Facade_ListFanart.jpg">
+<img src="http://jmm.googlecode.com/svn/trunk/Screenshots/MA3/Avalon/Facade_ListFanart.jpg" width=500 />
+</a>
+</td>
+<td>
+<a href="http://jmm.googlecode.com/svn/trunk/Screenshots/MA3/Avalon/Facade_Filmstrip.jpg">
+<img src="http://jmm.googlecode.com/svn/trunk/Screenshots/MA3/Avalon/Facade_Filmstrip.jpg" width=500 />
+</a>
+</td>
+</tr>
+</table>
+
 ==Series Info==
 
 ==Calendar==
