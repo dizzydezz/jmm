@@ -23,11 +23,31 @@ When viewing your list of anime series, you can choose to see them in various wa
 
 ==Series Info==
 
-==Calendar==
+The series info window will show you some basic information about an anime, and also provide you access to links to other related windows such Characters, Related Anime, Fanart, Posters and Wide Banners<br>
+
+<a href="http://jmm.googlecode.com/svn/trunk/Screenshots/MA3/Avalon/Anime_SeriesInfo.jpg">
+<img src="http://jmm.googlecode.com/svn/trunk/Screenshots/MA3/Avalon/Anime_SeriesInfo.jpg" width=800/></a>
+
+==Characters==
+
+As the title says, the Characters screen will show information about all the characters for anime including the seiyuus (voice actors)<br>
+
+<a href="http://jmm.googlecode.com/svn/trunk/Screenshots/MA3/Avalon/Anime_Characters.jpg">
+<img src="http://jmm.googlecode.com/svn/trunk/Screenshots/MA3/Avalon/Anime_Characters.jpg" width=800/></a>
 
 ==Relations==
 
-==Characters==
+The relations windows shows you all the anime that is related to another anime<br>
+
+<a href="http://jmm.googlecode.com/svn/trunk/Screenshots/MA3/Avalon/Anime_Relations.jpg">
+<img src="http://jmm.googlecode.com/svn/trunk/Screenshots/MA3/Avalon/Anime_Relations.jpg" width=800/></a>
+
+==Calendar==
+
+The calendar windows will show you a summary of release dats for Anime, so you can see what has recently started airing or what is upcoming<br>
+
+<a href="http://jmm.googlecode.com/svn/trunk/Screenshots/MA3/Avalon/Window_Calendar.jpg">
+<img src="http://jmm.googlecode.com/svn/trunk/Screenshots/MA3/Avalon/Window_Calendar.jpg" width=800/></a>
 
 ==Continue Watching==
 
