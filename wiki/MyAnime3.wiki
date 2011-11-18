@@ -110,6 +110,31 @@ MA3 also tries to make it easier to find your missing episodes by integrating se
 
 ==Fanart, Posters and Wide Banners==
 
+Fanart, Posters and Wide Banners are downloaded from a variety of sources including AniDB, TheTvDB, MovieDB and Trakt.tv<br>
+These windows allow you to select whether you want to enable/disable any of these images, or just select one as the default whenever you look at that series<br>
+
+<table>
+<tr>
+<td>
+<a href="http://jmm.googlecode.com/svn/trunk/Screenshots/MA3/Avalon/Anime_Fanart.jpg">
+<img src="http://jmm.googlecode.com/svn/trunk/Screenshots/MA3/Avalon/Anime_Fanart_sm.jpg" width=500 />
+</a>
+</td>
+<td>
+<a href="http://jmm.googlecode.com/svn/trunk/Screenshots/MA3/Avalon/Anime_Posters.jpg">
+<img src="http://jmm.googlecode.com/svn/trunk/Screenshots/MA3/Avalon/Anime_Posters_sm.jpg" width=500 />
+</a>
+</td>
+</tr>
+<tr>
+<td>
+<a href="http://jmm.googlecode.com/svn/trunk/Screenshots/MA3/Avalon/Anime_WideBanners.jpg">
+<img src="http://jmm.googlecode.com/svn/trunk/Screenshots/MA3/Avalon/Anime_WideBanners_sm.jpg" width=500 />
+</a>
+</td>
+</tr>
+</table>
+
 =Skins =
 
 ==Avalon==
