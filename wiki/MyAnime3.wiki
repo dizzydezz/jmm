@@ -10,12 +10,12 @@ When viewing your list of anime series, you can choose to see them in various wa
 <tr>
 <td>
 <a href="http://jmm.googlecode.com/svn/trunk/Screenshots/MA3/Avalon/Facade_ListFanart.jpg">
-<img src="http://jmm.googlecode.com/svn/trunk/Screenshots/MA3/Avalon/Facade_ListFanart.jpg" width=500 />
+<img src="http://jmm.googlecode.com/svn/trunk/Screenshots/MA3/Avalon/Facade_ListFanart_sm.jpg" width=500 />
 </a>
 </td>
 <td>
 <a href="http://jmm.googlecode.com/svn/trunk/Screenshots/MA3/Avalon/Facade_Filmstrip.jpg">
-<img src="http://jmm.googlecode.com/svn/trunk/Screenshots/MA3/Avalon/Facade_Filmstrip.jpg" width=500 />
+<img src="http://jmm.googlecode.com/svn/trunk/Screenshots/MA3/Avalon/Facade_Filmstrip_sm.jpg" width=500 />
 </a>
 </td>
 </tr>
@@ -26,28 +26,28 @@ When viewing your list of anime series, you can choose to see them in various wa
 The series info window will show you some basic information about an anime, and also provide you access to links to other related windows such Characters, Related Anime, Fanart, Posters and Wide Banners<br>
 
 <a href="http://jmm.googlecode.com/svn/trunk/Screenshots/MA3/Avalon/Anime_SeriesInfo.jpg">
-<img src="http://jmm.googlecode.com/svn/trunk/Screenshots/MA3/Avalon/Anime_SeriesInfo.jpg" width=800/></a>
+<img src="http://jmm.googlecode.com/svn/trunk/Screenshots/MA3/Avalon/Anime_SeriesInfo_sm.jpg" width=800/></a>
 
 ==Characters==
 
 As the title says, the Characters screen will show information about all the characters for anime including the seiyuus (voice actors)<br>
 
 <a href="http://jmm.googlecode.com/svn/trunk/Screenshots/MA3/Avalon/Anime_Characters.jpg">
-<img src="http://jmm.googlecode.com/svn/trunk/Screenshots/MA3/Avalon/Anime_Characters.jpg" width=800/></a>
+<img src="http://jmm.googlecode.com/svn/trunk/Screenshots/MA3/Avalon/Anime_Characters_sm.jpg" width=800/></a>
 
 ==Relations==
 
 The relations windows shows you all the anime that is related to another anime<br>
 
 <a href="http://jmm.googlecode.com/svn/trunk/Screenshots/MA3/Avalon/Anime_Relations.jpg">
-<img src="http://jmm.googlecode.com/svn/trunk/Screenshots/MA3/Avalon/Anime_Relations.jpg" width=800/></a>
+<img src="http://jmm.googlecode.com/svn/trunk/Screenshots/MA3/Avalon/Anime_Relations_sm.jpg" width=800/></a>
 
 ==Calendar==
 
 The calendar window will show you a summary of release dats for Anime, so you can see what has recently started airing or what is upcoming<br>
 
 <a href="http://jmm.googlecode.com/svn/trunk/Screenshots/MA3/Avalon/Window_Calendar.jpg">
-<img src="http://jmm.googlecode.com/svn/trunk/Screenshots/MA3/Avalon/Window_Calendar.jpg" width=800/></a>
+<img src="http://jmm.googlecode.com/svn/trunk/Screenshots/MA3/Avalon/Window_Calendar_sm.jpg" width=800/></a>
 
 ==Continue Watching==
 
@@ -55,7 +55,7 @@ The 'Continue Watching' window is designed to make your viewing experience a bit
 So when the latest episode of your favorite show is added to your collection it will automatically appear here<br>
 
 <a href="http://jmm.googlecode.com/svn/trunk/Screenshots/MA3/Avalon/Wwindows willindow_ContinueWatching.jpg">
-<img src="http://jmm.googlecode.com/svn/trunk/Screenshots/MA3/Avalon/Window_ContinueWatching.jpg" width=800/></a>
+<img src="http://jmm.googlecode.com/svn/trunk/Screenshots/MA3/Avalon/Window_ContinueWatching_sm.jpg" width=800/></a>
 
 ==Recommendations==
 
@@ -69,12 +69,12 @@ Both types are based on how you have voted/rating your existing series on AniDB.
 <tr>
 <td>
 <a href="http://jmm.googlecode.com/svn/trunk/Screenshots/MA3/Avalon/Window_RecDownload.jpg">
-<img src="http://jmm.googlecode.com/svn/trunk/Screenshots/MA3/Avalon/Window_RecDownload.jpg" width=500 />
+<img src="http://jmm.googlecode.com/svn/trunk/Screenshots/MA3/Avalon/Window_RecDownload_sm.jpg" width=500 />
 </a>
 </td>
 <td>
 <a href="http://jmm.googlecode.com/svn/trunk/Screenshots/MA3/Avalon/Window_RecWatch.jpg">
-<img src="http://jmm.googlecode.com/svn/trunk/Screenshots/MA3/Avalon/Window_RecWatch.jpg" width=500 />
+<img src="http://jmm.googlecode.com/svn/trunk/Screenshots/MA3/Avalon/Window_RecWatch_sm.jpg" width=500 />
 </a>
 </td>
 </tr>
