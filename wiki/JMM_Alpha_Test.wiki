@@ -136,3 +136,7 @@ This is so the client will know how to access the remote files<br>
 
 Once you have finished importing your collection, you can optionally choose to download your votes from AniDB<br>
 This is available from the Actions tab on the JMM Srver, or the Server tab on JMM Desktop<br>
+
+== Reporting Bugs ==
+
+When you find a bug you or have a feature request, please enter them in the Issues section<br>
