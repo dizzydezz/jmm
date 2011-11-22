@@ -1,0 +1,71 @@
+= JMM Alpha Test Notes and Instructions =
+
+<wiki:toc max_depth="3" />
+
+This page contains notes and instructs for those participating in the JMM Alpha test<br>
+
+== Download ==
+
+Download the Alpha Here<br>
+
+== Using !MyAnime3 and !MyAnime2 ==
+
+I recommend that you disable the !MyAnime2 plugin if you are also running JMM Server. Having both running at the same time may cause bans from AniDB<br>
+
+== Skin Support for !MyAnime3 ==
+
+The alpha current only supports the Avalon skin (http://www.team-mediaportal.com/extensions/widescreen/avalon-skin). If you don't want to use this skin you should wait for the beta instead<br>
+
+== Installation Instructions ==
+
+Current there is no installer, instead you will need to copy the files manually<br>
+
+*Step 1* - Copy the JMMDesktop and JMMServer folder to a choice of your location.<br>
+
+*Step 2* - Copy the JMMDesktop.exe.config file to the JMMDesktop folder.<br>
+
+*Step 3* - Copy the JMMServer .exe.config file to the JMMServer folder.<br>
+
+*Step 4* - Copy the `MyAnime3\skin\[ Media ]\MyAnime3` folder do your Avalon skin folder Media<br>
+`C:\ProgramData\Team MediaPortal\MediaPortal\skin\Avalon\Media`<br>
+
+*Step 5* - Copy the `MyAnime3\skin\Avalon` folder do your Avalon skin folder <br>
+`C:\ProgramData\Team MediaPortal\MediaPortal\skin\Avalon`
+
+*Step 6* - Copy the `MyAnime3\plugins\Windows` folder do your MP windows plugins folder <br>
+`C:\Program Files (x86)\Team MediaPortal\MediaPortal\plugins\Windows`
+
+NOTE - Step 2 and 3 only need to be done the first time. If there are any updates to the alpha, you can cover the folders without the configs<br>
+
+== Running JMM ==
+
+*Step 1* - Run JMM Server (You can minimize this if you want)<br>
+
+*Step 2* - Run JMM Desktop
+
+*Step 3* - Go to the settings tab in JMM Desktop and edit the essential settings<br>
+
+*Step 4* - Have a look around and edit any other settings you want to<br>
+
+*Step 5* - Go to the server tab in JMM Desktop, add at least one import folder and then press "Run Import". Note the path must be a valid path on the server<br>
+
+After this you can go to the collection tab, and push the Refresh button. Your series should start appearing after a few minutes<br> 
+
+== Running !MyAnime3 ==
+
+*Step 1* - Run !MediaPortal configuration and go the plugins section<br>
+
+*Step 2* - Optionally list !MyAnime3 in the home screen<br>
+
+*Step 3* - Right Click on !MyAnime and select Configuration<br>
+
+*Step 4* - Test that your connection to JMM Server is working<br>
+
+*Step 5* - Close the config and start !MediaPortal<br>
+
+== Mapping Import Folders on Remote Clients ==
+
+If JMM Desktop or !MyAnime3 is running on a different machine to JMM Server you will need to map share the folders on the server and map them on the client<br>
+
+This is so the client will know how to access the remote files<br>
+
