@@ -48,3 +48,4 @@ JMM Desktop and !MyAnime3 allow the selection of preferred languages from both A
 - More flexible import options<br>
 - Support for !NyaaTorrents in torrent searches<br>
 - Preference for torrents by your groups when searching for episodes<br>
+- Support for Trakt.tv - http://trakt.tv/<br>
