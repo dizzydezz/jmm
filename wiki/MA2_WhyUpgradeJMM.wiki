@@ -37,6 +37,12 @@ Support for AVDump2 from JMM Desktop for Unlinked and Manually Linked files<br>
 
 == Choice of Database ==
 
+You can select MS SQL Server 2008 for greater speed, or stay with sqlite for ease of use and portability<br>
+
+== Language Support ==
+
+JMM Desktop and !MyAnime3 allow the selection of preferred languages from both AniDB and TvDB data<br>
+
 == Minor Changes ==
 
 - More flexible import options<br>
