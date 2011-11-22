@@ -1,0 +1,11 @@
+<wiki:toc max_depth="2" />
+
+=JMM Desktop Information =
+
+==Dashboard==
+
+==Collection==
+
+==Utilities==
+
+==Settings==
