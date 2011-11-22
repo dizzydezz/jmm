@@ -14,7 +14,7 @@ Download the Alpha Here<br>
 
 We will be making an attempt so that the database you used in this Alpha, will also work through to beta until the final release<br>
 So hopefully if you will not need to re-import your collection in the future<br>
-However this is an Alpha, so no guaranatees can be given at this stage<br>
+However this is an Alpha, so no guarantees can be given at this stage<br>
 
 === Using !MyAnime3 and !MyAnime2 ===
 
@@ -126,7 +126,7 @@ This is so the client will know how to access the remote files<br>
 <tr>
 <td>
 <a href="http://jmm.googlecode.com/svn/trunk/Screenshots/Instructions/MA3_Mappings_01.jpg">
-<img src="http://jmm.googlecode.com/svn/trunk/Screenshots/Instructions/MA3_Mappings_01.jpg" width=800 />
+<img src="http://jmm.googlecode.com/svn/trunk/Screenshots/Instructions/MA3_Mappings_01.jpg" width=400 />
 </a>
 </td>
 </tr>
