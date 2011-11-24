@@ -141,3 +141,7 @@ This is available from the Actions tab on the JMM Srver, or the Server tab on JM
 == Reporting Bugs ==
 
 When you find a bug you or have a feature request, please enter them in the Issues section<br>
+
+== Common Issues ==
+
+ * You may have problems with JMM Desktop if windows firewall is turned on
