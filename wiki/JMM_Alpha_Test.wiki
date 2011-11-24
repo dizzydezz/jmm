@@ -7,6 +7,7 @@ This page contains notes and instructs for those participating in the JMM Alpha 
 == Download ==
 
 Download the Alpha Here<br>
+http://code.google.com/p/jmm/downloads/list<br>
 
 == Important Notes ==
 
