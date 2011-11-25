@@ -145,3 +145,9 @@ When you find a bug you or have a feature request, please enter them in the Issu
 == Common Issues ==
 
  * You may have problems with JMM Desktop if windows firewall is turned on
+
+== Change Log ==
+
+=== Version 3.0.3 ===
+
+* Issue #49 - Add quick sorting options in MA3
