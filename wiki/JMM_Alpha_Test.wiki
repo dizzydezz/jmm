@@ -152,3 +152,7 @@ When you find a bug you or have a feature request, please enter them in the Issu
 
  * Issue #49 - Add quick sorting options in MA3
  * Fix watched stats always showing as 1
+
+=== Version 3.0.4 ===
+
+ * Fixed issue with JMM Desktop not working on some PC's
