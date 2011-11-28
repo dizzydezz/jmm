@@ -156,3 +156,7 @@ When you find a bug you or have a feature request, please enter them in the Issu
 === Version 3.0.4 ===
 
  * Fixed issue with JMM Desktop not working on some PC's
+
+=== Version 3.0.5 ===
+
+ * Issue #55: Allow user to configure ports on JMM Server
