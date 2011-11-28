@@ -150,4 +150,5 @@ When you find a bug you or have a feature request, please enter them in the Issu
 
 === Version 3.0.3 ===
 
-* Issue #49 - Add quick sorting options in MA3
+ * Issue #49 - Add quick sorting options in MA3
+ * Fix watched sstats always showing as 1
