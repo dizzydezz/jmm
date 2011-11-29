@@ -160,3 +160,4 @@ When you find a bug you or have a feature request, please enter them in the Issu
 === Version 3.0.5 ===
 
  * Issue #55: Allow user to configure ports on JMM Server
+ * Issue #56: Allow quick sort in MA3 to ascending or descending
