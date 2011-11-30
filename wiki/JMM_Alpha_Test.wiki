@@ -164,3 +164,4 @@ When you find a bug you or have a feature request, please enter them in the Issu
 
 === Version 3.0.6 ===
  * Issue #54: New files being added as in DVD always
+ * Issue #57: Trakt should only scrobble not mark as seen as well.
