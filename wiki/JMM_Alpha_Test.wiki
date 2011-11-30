@@ -161,3 +161,6 @@ When you find a bug you or have a feature request, please enter them in the Issu
 
  * Issue #55: Allow user to configure ports on JMM Server
  * Issue #56: Allow quick sort in MA3 to ascending or descending
+
+=== Version 3.0.6 ===
+ * Issue #54: New files being added as in DVD always
