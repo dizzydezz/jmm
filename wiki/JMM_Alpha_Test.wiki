@@ -163,5 +163,11 @@ When you find a bug you or have a feature request, please enter them in the Issu
  * Issue #56: Allow quick sort in MA3 to ascending or descending
 
 === Version 3.0.6 ===
+
  * Issue #54: New files being added as in DVD always
  * Issue #57: Trakt should only scrobble not mark as seen as well.
+
+=== Version 3.0.7 ===
+
+ * Make sure to include missing hasher.dll for much faster hashing
+ * Queue status counts/icons were not showing in MyAnime3
