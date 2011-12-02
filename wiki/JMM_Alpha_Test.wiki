@@ -171,3 +171,4 @@ When you find a bug you or have a feature request, please enter them in the Issu
 
  * Make sure to include missing hasher.dll for much faster hashing
  * Queue status counts/icons were not showing in MyAnime3
+ * Issue #62: Continue watching, long series name, overlaps the Ep n - Ep title
