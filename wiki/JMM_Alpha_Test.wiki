@@ -175,4 +175,6 @@ When you find a bug you or have a feature request, please enter them in the Issu
  * Finished StreamedMP skin
 
 === Version 3.0.8 ===
+
  * Issue #64: Allow import of manually linked files from MA2
+ * Issue #65: User permissions to include settings editing
