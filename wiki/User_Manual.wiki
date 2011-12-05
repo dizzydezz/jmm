@@ -135,7 +135,7 @@ Bans can last anywhere from a few hours to more than a day depending on the seve
 
 In my experience it only every happens with collections of more than 200 series<br>
 
-=== Do i need to manually link/associate files again that I did in !MyAnime2 ===
+=== Do i need to manually link files again that I did in !MyAnime2 ===
 
 You can do this if you want and it should be much easier in JMM<br>
 However you can import all your manual links from !MyAnime2 to JMM using the *!MyAnime2 Migration* tab in JMM Server<br>
