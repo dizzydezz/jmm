@@ -178,3 +178,4 @@ When you find a bug you or have a feature request, please enter them in the Issu
 
  * Issue #64: Allow import of manually linked files from MA2
  * Issue #65: User permissions to include settings editing
+ * Issue #66: Show fanart for trakt activity where the episode screenshot is not available
