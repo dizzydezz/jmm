@@ -1,5 +1,7 @@
 = Frequently Asked Questions =
 
+<wiki:toc max_depth="4" />
+
 == What are groups? ==
 
 Groups are used to group together related anime series<br>
