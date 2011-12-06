@@ -183,3 +183,5 @@ When you find a bug you or have a feature request, please enter them in the Issu
 === Version 3.0.9 ===
 
  * Allow user to customise the delay time when display group info and fanart in MA3
+ * Prevent updating of stats twice when a user marks an episode as Watched
+ * Prevent all episodes being updated when the using the "Mark all previous episodes as watched"
