@@ -187,3 +187,4 @@ When you find a bug you or have a feature request, please enter them in the Issu
  * Prevent all episodes being updated when the using the "Mark all previous episodes as watched"
  * Issue #2: Performance - Takes too long to watch 100+ episodes as watched
  * Issue #63: Scan drop folder from Uitlities in MA3
+ * Get Bit Depth (8/10 bit) when reading media info
