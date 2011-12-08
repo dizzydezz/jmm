@@ -195,3 +195,4 @@ When you find a bug you or have a feature request, please enter them in the Issu
  * Make sure that pressing the "Sync Trakt" button on JMM Server always runs rgeardless of scheduled sync settings
  * Display an indicator when a file is 10bit/Hi10P
  * Sort videos by best video quality when viewing files for an episode on episode list and multiple files utility.
+ * Fixed bug in display of file summary where episode number list was not showing some times
