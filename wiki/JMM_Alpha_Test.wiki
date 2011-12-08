@@ -192,3 +192,4 @@ When you find a bug you or have a feature request, please enter them in the Issu
 === Version 3.0.10 ===
 
  * Added utility so that user can re-read the media information for all video files
+ * Make sure that pressing the "Sync Trakt" button on JMM Server always runs rgeardless of scheduled sync settings
