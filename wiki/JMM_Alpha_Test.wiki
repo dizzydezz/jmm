@@ -196,3 +196,6 @@ When you find a bug you or have a feature request, please enter them in the Issu
  * Display an indicator when a file is 10bit/Hi10P
  * Sort videos by best video quality when viewing files for an episode on episode list and multiple files utility.
  * Fixed bug in display of file summary where episode number list was not showing some times
+ * Display video bit depth in the following places
+  * File summary on downloads window when searching for an Episode
+  * File prompt when playing an episode with more than one file
