@@ -204,3 +204,4 @@ When you find a bug you or have a feature request, please enter them in the Issu
 
  * Fixed issue when switching Trakt season in JMM Desktop
  * Fixed issue with errors in getting Trakt friend activity
+ * Issue #60 - Allow user to view friend requests, approve or deny in Trakt activity feed
