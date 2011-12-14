@@ -48,13 +48,25 @@ NOTE - Step 2 and 3 only need to be done the first time. If there are any update
 
 == Running JMM ==
 
-JMM supports both Microsoft SQL Server 2008 and sqlite as the database back-ends<br>
+JMM supports Microsoft SQL Server 2008, MySQL and sqlite as the database back-ends<br>
 In this alpha not much effort has been put into optimising the sqlite database (this will come later)<br>
 Even after sqlite has been improved we recommend that you use SQL server instead (especially if you have over 200 series in your collection)<br>
 You can get the free version here  http://www.microsoft.com/download/en/details.aspx?id=1695<br>
 
-However by default JMM Server is configured to use *sqlite* and will automaticall create the database the first time you start it<br>
-If you want to use SQL Server 2008 you will need to do the following
+However by default JMM Server is configured to use *sqlite* and will automatically create the database the first time you start it<br>
+If you want to use SQL Server 2008 or MySQL you will need to do the following
+
+=== Setting up MySQL ==
+
+*Step 1* - Install MySQL - http://www.mysql.com/downloads/mysql/<br>
+
+*Step 2* - Fill out the following settings in `JMMServer.exe.config`<br>
+
+ * `DatabaseType` ('MySQL')
+ * `MySQL_Hostname` (e.g. 'localhost')
+ * `MySQL_SchemaName` (e.g. 'JMMServer')
+ * `MySQL_Username` (e.g. 'root')
+ * `MySQL_Password` (e.g. 'password')
 
 === Setting up SQL Server 2008 ==
 
