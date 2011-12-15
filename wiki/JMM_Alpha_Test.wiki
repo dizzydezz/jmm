@@ -2,7 +2,7 @@
 
 <wiki:toc max_depth="3" />
 
-This page contains notes and instructs for those participating in the JMM Alpha test<br>
+This page contains notes and instructions for those participating in the JMM Alpha test<br>
 
 This page has been moved to the new site
 
