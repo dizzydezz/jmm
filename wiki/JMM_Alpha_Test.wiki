@@ -75,3 +75,4 @@ http://jmmanager.wordpress.com/support/installation-and-setup-2/
 === Version 3.0.12 ===
 
  * On starting JMM Server the first the time, the user is prompted to select a database type
+ * Issue #82 - JMM Desktop Password on login is now hidden
