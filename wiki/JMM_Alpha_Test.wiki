@@ -71,3 +71,7 @@ http://jmmanager.wordpress.com/support/installation-and-setup-2/
  * Issue #60 - Allow user to view friend requests, approve or deny in Trakt activity feed
  * Make sure user cannot link more than anime to a Trakt or TvDB identifier (show id and season number)
  * Issue #68 - Now supporting MySQL databases
+
+=== Version 3.0.12 ===
+
+ * On starting JMM Server the first the time, the user is prompted to select a database type
