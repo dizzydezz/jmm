@@ -77,3 +77,5 @@ http://jmmanager.wordpress.com/support/installation-and-setup-2/
  * On starting JMM Server the first the time, the user is prompted to select a database type
  * Issue #82 - JMM Desktop Password on login is now hidden
  * Issue #82: Hide all passwords on screen, and hash/encrypt them when storing in the database
+ * Issue #79: Allow user to choose root folder for storage of images
+ * Issue #79: JMM Desktop and JMM Server can now point to the same images folder so that separate copies are no longer needed.
