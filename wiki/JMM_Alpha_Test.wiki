@@ -86,3 +86,4 @@ http://jmmanager.wordpress.com/support/installation-and-setup-2/
  * Allow user to update all AniDB series information from the Server window
  * JMM Server will now automatically create the database as in line with other database types
  * Provide a browse for folder prompt when adding/editing import folders in JMM Server
+ * Fix issue where Trakt friend avatars were being deleted when JMM desktop and server shared the same base image path
