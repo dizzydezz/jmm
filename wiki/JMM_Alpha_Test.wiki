@@ -79,3 +79,7 @@ http://jmmanager.wordpress.com/support/installation-and-setup-2/
  * Issue #82: Hide all passwords on screen, and hash/encrypt them when storing in the database
  * Issue #79: Allow user to choose root folder for storage of images
  * Issue #79: JMM Desktop and JMM Server can now point to the same images folder so that separate copies are no longer needed.
+
+=== Version 3.0.13 ===
+
+Issue #75: TvDB data is not being downloaded when an anime is first linked to a TvDB show
