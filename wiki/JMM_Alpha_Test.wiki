@@ -84,4 +84,5 @@ http://jmmanager.wordpress.com/support/installation-and-setup-2/
 
  * Issue #75: TvDB data is not being downloaded when an anime is first linked to a TvDB show
  * Allow user to update all AniDB series information from the Server window
-* JMM Server will now automatically create the database as in line with other database types
+ * JMM Server will now automatically create the database as in line with other database types
+ * Provide a browse for folder prompt when adding/editing import folders in JMM Server
