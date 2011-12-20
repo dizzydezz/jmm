@@ -82,4 +82,5 @@ http://jmmanager.wordpress.com/support/installation-and-setup-2/
 
 === Version 3.0.13 ===
 
-Issue #75: TvDB data is not being downloaded when an anime is first linked to a TvDB show
+ * Issue #75: TvDB data is not being downloaded when an anime is first linked to a TvDB show
+ * Allow user to update all AniDB series information from the Server window
