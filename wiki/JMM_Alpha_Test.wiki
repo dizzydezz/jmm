@@ -96,3 +96,7 @@ http://jmmanager.wordpress.com/support/installation-and-setup-2/
  * Shouts from friends are now shown in the trakt activity widget
  * Disabled download of reviews until they are ready to be displayed
  * Don't try to get Trakt friend info, if the user hasn't entered any credentials
+
+=== Version 3.0.15 ===
+
+ * Make sure episodes are only scrobbled on Trakt when the user manually marks an episode/file as watched in JMM Desktop
