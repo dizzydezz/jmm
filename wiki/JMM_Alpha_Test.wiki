@@ -94,3 +94,4 @@ http://jmmanager.wordpress.com/support/installation-and-setup-2/
  * Logging errors properly on !MyAnime2 migration
  * Change the trakt activity widget to show all activity rather than just the last action for a friend
  * Shouts from friends are now shown in the trakt activity widget
+ * Disabled download of reviews until they are ready to be displayed
