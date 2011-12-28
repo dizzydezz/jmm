@@ -101,3 +101,4 @@ http://jmmanager.wordpress.com/support/installation-and-setup-2/
 
  * Make sure episodes are only scrobbled on Trakt when the user manually marks an episode/file as watched in JMM Desktop
  * Issue #99: Watch for files picks up non video files
+ * Issue #96: If you add a file to your collection, where the episode has been watched before, the series watched date still gets updated
