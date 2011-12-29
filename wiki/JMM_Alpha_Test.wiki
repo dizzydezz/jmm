@@ -109,3 +109,5 @@ http://jmmanager.wordpress.com/support/installation-and-setup-2/
 
  * Issue #101 - Get user to select the season when searching for a TvDB or Trakt link 
  * Show Trakt shouts on a series, and allow the user to post a shout.
+ * Issue #100 - Shows series link in Trakt activity
+ * Show shouts on shows in Trakt activity
