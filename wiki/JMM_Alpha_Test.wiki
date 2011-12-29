@@ -104,3 +104,7 @@ http://jmmanager.wordpress.com/support/installation-and-setup-2/
  * Issue #96: If you add a file to your collection, where the episode has been watched before, the series watched date still gets updated
  * Show shouts from Trakt in a new tab on the Series view in JMM Desktop
  * Various MySQL Schema fixes
+
+=== Version 3.0.16 ===
+
+ * Issue #101 - Get user to select the season when searching for a TvDB or Trakt link 
