@@ -115,3 +115,5 @@ http://jmmanager.wordpress.com/support/installation-and-setup-2/
 === Version 3.0.17 ===
 
  * Issue #102: Deleting files from series view picking up wrong files
+ * Issue #92: Log settings and version in JMM Server
+ * Issue #93: Log settings and version in JMM Desktop
