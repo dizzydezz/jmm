@@ -111,3 +111,7 @@ http://jmmanager.wordpress.com/support/installation-and-setup-2/
  * Show Trakt shouts on a series, and allow the user to post a shout.
  * Issue #100 - Shows series link in Trakt activity
  * Show shouts on shows in Trakt activity
+
+=== Version 3.0.17 ===
+
+ * Issue #102: Deleting files from series view picking up wrong files
