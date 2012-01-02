@@ -117,3 +117,4 @@ http://jmmanager.wordpress.com/support/installation-and-setup-2/
  * Issue #102: Deleting files from series view picking up wrong files
  * Issue #92: Log settings and version in JMM Server
  * Issue #93: Log settings and version in JMM Desktop
+ * Fix issue where files had { or } in them
