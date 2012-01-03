@@ -119,4 +119,4 @@ http://jmmanager.wordpress.com/support/installation-and-setup-2/
  * Issue #93: Log settings and version in JMM Desktop
  * Fix issue where files had { or } in them
  * Issue #115: Make sure all text stays visible when item is selected on any of the dashboard widgets
- * Show links to Trakt for shows and episodes int the Trakt activity widget on the dashboard
+ * Show links to Trakt for shows and episodes in the Trakt activity widget on the dashboard
