@@ -127,3 +127,4 @@ http://jmmanager.wordpress.com/support/installation-and-setup-2/
  * Issue #113 - Make voting default to permanent for completed series and user has watched all the episodes
  * Issue #112: In MyAnime3 when a group has a default series it will now also use the description as well as the images
  * Issue #97: Remove URLs from anidb series descriptions
+ * Issue #103: Log database version to jmm server log file
