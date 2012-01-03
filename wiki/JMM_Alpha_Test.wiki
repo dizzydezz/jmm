@@ -121,3 +121,5 @@ http://jmmanager.wordpress.com/support/installation-and-setup-2/
  * Issue #115: Make sure all text stays visible when item is selected on any of the dashboard widgets
  * Show links to Trakt for shows and episodes in the Trakt activity widget on the dashboard
  * Issue #110: add mpeg, mpeg to default supported videos
+ * Issue #106: After accepting Trakt friend request it doesn't vanish
+ * Allow the user to force refresh the Trakt activity widget on the Dashboard
