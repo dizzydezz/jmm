@@ -133,3 +133,4 @@ http://jmmanager.wordpress.com/support/installation-and-setup-2/
 
  * Issue #90: Add a JMM widget to view watched history
  * Show tooltips on dashboard widgets for longer
+ * Issue #114: Suggest to use to download votes if recommendations is empty
