@@ -137,3 +137,4 @@ http://jmmanager.wordpress.com/support/installation-and-setup-2/
  * When sync'ing votes from AniDB, download the anime information if the user doesn't have it yet
  * Issue #86: Allow watching for new files to be set on specific folders
  * Issue #28 - (JMM/MA3) After finishing watching a series, pop a rating dialog
+ * Include an MPEI file (MP installer) for MyAnime3
