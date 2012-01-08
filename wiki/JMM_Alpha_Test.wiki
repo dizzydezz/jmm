@@ -138,3 +138,7 @@ http://jmmanager.wordpress.com/support/installation-and-setup-2/
  * Issue #86: Allow watching for new files to be set on specific folders
  * Issue #28 - (JMM/MA3) After finishing watching a series, pop a rating dialog
  * Include an MPEI file (MP installer) for MyAnime3
+
+=== Version 3.0.19 ===
+
+ * Issue #119: jmm desktop crash on dashboard
