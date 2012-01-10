@@ -19,6 +19,8 @@ namespace JMMWebCache.Mappings
 			Map(x => x.CrossRefSource).Not.Nullable();
 			Map(x => x.Username);
 			Map(x => x.MALTitle);
+			Map(x => x.StartEpisodeType).Not.Nullable();
+			Map(x => x.StartEpisodeNumber).Not.Nullable();
 		}
 	}
 }
