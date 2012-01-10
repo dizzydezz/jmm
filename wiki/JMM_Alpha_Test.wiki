@@ -142,4 +142,5 @@ http://jmmanager.wordpress.com/support/installation-and-setup-2/
 === Version 3.0.19 ===
 
  * Issue #119: jmm desktop crash on dashboard
- * Search and link AniDB to MyAnimeList
+ * Search and link AniDB to !MyAnimeList
+ * New group filter - !MyAnimeList Link Missing
