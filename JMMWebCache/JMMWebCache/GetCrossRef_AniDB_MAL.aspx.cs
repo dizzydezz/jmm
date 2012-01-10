@@ -37,64 +37,38 @@ namespace JMMWebCache
 				}
 
 				CrossRef_AniDB_MALRepository repCrossRef = new CrossRef_AniDB_MALRepository();
-				CrossRef_AniDB_MAL xref = null;
+
+				List<CrossRef_AniDB_MALResult> results = new List<CrossRef_AniDB_MALResult>();
 
 				// check for user specific
 				List<CrossRef_AniDB_MAL> recs = repCrossRef.GetByAnimeIDUser(animeid, uname);
-				if (recs.Count > 0) xref = recs[0]; // should only be one
-
-				// check for other users (anonymous)
-				if (xref == null)
+				// check for other users
+				if (recs.Count == 0)
 				{
-					// check for other users (anonymous)
-					recs = repCrossRef.GetByAnimeID(animeid);
+					// try user lwerndly
+					recs = repCrossRef.GetByAnimeIDUser(animeid, "lwerndly");
 					if (recs.Count == 0)
 					{
-						Response.Write(Constants.ERROR_XML);
-						return;
+						// try user jmediamanager
+						recs = repCrossRef.GetByAnimeIDUser(animeid, "jmediamanager");
 					}
-
-					// find the most popular result
-
-					List<CrossRefStat> results = new List<CrossRefStat>();
-					foreach (CrossRef_AniDB_MAL xrefloc in recs)
-					{
-						bool found = false;
-						foreach (CrossRefStat stat in results)
-						{
-							if (stat.MALID == xrefloc.MALID)
-							{
-								found = true;
-								stat.ResultCount++;
-							}
-						}
-						if (!found)
-						{
-							CrossRefStat stat = new CrossRefStat();
-							stat.ResultCount = 1;
-							stat.MALID = xrefloc.MALID;
-							stat.CrossRef = xrefloc;
-							results.Add(stat);
-						}
-					}
-
-					CrossRefStat mostPopular = null;
-					foreach (CrossRefStat stat in results)
-					{
-						if (mostPopular == null)
-							mostPopular = stat;
-						else
-						{
-							if (stat.ResultCount > mostPopular.ResultCount) mostPopular = stat;
-						}
-					}
-
-					xref = mostPopular.CrossRef;
 				}
 
-				CrossRef_AniDB_MALResult result = new CrossRef_AniDB_MALResult(xref);
-				string ret = Utils.ConvertToXML(result, typeof(CrossRef_AniDB_MALResult));
-				Response.Write(ret);
+				if (recs.Count == 0)
+				{
+					Response.Write(Constants.ERROR_XML);
+					return;
+				}
+				else
+				{
+					foreach (CrossRef_AniDB_MAL rec in recs)
+					{
+						CrossRef_AniDB_MALResult result = new CrossRef_AniDB_MALResult(rec);
+						results.Add(result);
+					}
+					string ret = Utils.ConvertToXML(results, typeof(List<CrossRef_AniDB_MALResult>));
+					Response.Write(ret);
+				}
 			}
 			catch (Exception ex)
 			{
@@ -102,13 +76,5 @@ namespace JMMWebCache
 				return;
 			}
 		}
-	}
-
-	public class CrossRefStat
-	{
-		public int AnimeID { get; set; }
-		public int MALID { get; set; }
-		public int ResultCount { get; set; }
-		public CrossRef_AniDB_MAL CrossRef { get; set; }
 	}
 }

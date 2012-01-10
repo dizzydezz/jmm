@@ -57,6 +57,22 @@ namespace JMMWebCache.Repositories
 			}
 		}
 
+		public List<CrossRef_AniDB_MAL> GetByAnimeIDUser(int animeID, string username, int epType, int epNumber)
+		{
+			using (var session = WebCache.SessionFactory.OpenSession())
+			{
+				var xrefs = session
+					.CreateCriteria(typeof(CrossRef_AniDB_MAL))
+					.Add(Restrictions.Eq("AnimeID", animeID))
+					.Add(Restrictions.Eq("Username", username))
+					.Add(Restrictions.Eq("StartEpisodeType", epType))
+					.Add(Restrictions.Eq("StartEpisodeNumber", epNumber))
+					.List<CrossRef_AniDB_MAL>();
+
+				return new List<CrossRef_AniDB_MAL>(xrefs);
+			}
+		}
+
 		public List<CrossRef_AniDB_MAL> GetByAnimeIDUser(int animeID, string username)
 		{
 			using (var session = WebCache.SessionFactory.OpenSession())

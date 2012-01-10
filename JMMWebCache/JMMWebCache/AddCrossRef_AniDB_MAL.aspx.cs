@@ -39,15 +39,23 @@ namespace JMMWebCache
 				int malID = 0;
 				int.TryParse(mID, out malID);
 
+				string sepType = Utils.TryGetProperty("AddCrossRef_AniDB_MAL_Request", docXRef, "StartEpisodeType");
+				int epType = 0;
+				int.TryParse(sepType, out epType);
 
-				if (string.IsNullOrEmpty(uname) || animeid <= 0 || malID <= 0)
+				string sepNumber = Utils.TryGetProperty("AddCrossRef_AniDB_MAL_Request", docXRef, "StartEpisodeNumber");
+				int epNumber = 0;
+				int.TryParse(sepNumber, out epNumber);
+
+
+				if (string.IsNullOrEmpty(uname) || animeid <= 0 || malID <= 0 || epType <= 0 || epNumber <= 0)
 				{
 					Response.Write(Constants.ERROR_XML);
 					return;
 				}
 
 				CrossRef_AniDB_MAL xref = null;
-				List<CrossRef_AniDB_MAL> recs = repCrossRef.GetByAnimeIDUser(animeid, uname);
+				List<CrossRef_AniDB_MAL> recs = repCrossRef.GetByAnimeIDUser(animeid, uname, epType, epNumber);
 				if (recs.Count == 1)
 					xref = recs[0];
 
@@ -61,6 +69,8 @@ namespace JMMWebCache
 				xref.MALID = malID;
 				xref.MALTitle = malTitle;
 				xref.Username = uname;
+				xref.StartEpisodeType = epType;
+				xref.StartEpisodeNumber = epNumber;
 				repCrossRef.Save(xref);
 
 			}

@@ -34,13 +34,21 @@ namespace JMMWebCache
 				int animeid = 0;
 				int.TryParse(aid, out animeid);
 
-				if (string.IsNullOrEmpty(uname) || animeid <= 0)
+				string sepType = Utils.TryGetProperty("DeleteCrossRef_AniDB_MALRequest", docXRef, "StartEpisodeType");
+				int epType = 0;
+				int.TryParse(sepType, out epType);
+
+				string sepNumber = Utils.TryGetProperty("DeleteCrossRef_AniDB_MALRequest", docXRef, "StartEpisodeNumber");
+				int epNumber = 0;
+				int.TryParse(sepNumber, out epNumber);
+
+				if (string.IsNullOrEmpty(uname) || animeid <= 0 || epType <= 0 || epNumber <= 0)
 				{
 					Response.Write(Constants.ERROR_XML);
 					return;
 				}
 
-				List<CrossRef_AniDB_MAL> recs = repCrossRef.GetByAnimeIDUser(animeid, uname);
+				List<CrossRef_AniDB_MAL> recs = repCrossRef.GetByAnimeIDUser(animeid, uname, epType, epNumber);
 				foreach (CrossRef_AniDB_MAL xref in recs)
 				{
 					repCrossRef.Delete(xref.CrossRef_AniDB_MALID);
