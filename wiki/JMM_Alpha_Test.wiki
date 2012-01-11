@@ -151,3 +151,4 @@ http://jmmanager.wordpress.com/support/installation-and-setup-2/
  * Layout changes to viewing a series
  * Add a link to MAL fro external series links
  * Issue #125: Trakt shouts not refreshing properly
+ * Issue #122: Allow user to modify episode type and number on MAL link
