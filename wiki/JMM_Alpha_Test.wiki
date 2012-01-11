@@ -150,3 +150,4 @@ http://jmmanager.wordpress.com/support/installation-and-setup-2/
  * Issue #120: File Sizes are Not Updated on Re-Scan
  * Layout changes to viewing a series
  * Add a link to MAL fro external series links
+ * Issue #125: Trakt shouts not refreshing properly
