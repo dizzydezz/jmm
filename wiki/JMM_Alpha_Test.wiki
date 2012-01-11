@@ -144,3 +144,5 @@ http://jmmanager.wordpress.com/support/installation-and-setup-2/
  * Issue #119: jmm desktop crash on dashboard
  * Search and link AniDB to !MyAnimeList
  * New group filter - !MyAnimeList Link Missing
+ * Option to display fanart image instead of posters on a series
+ * Episode overviews and Series descriptions are now expanded by directly clicking on them
