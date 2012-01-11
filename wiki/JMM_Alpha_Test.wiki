@@ -147,3 +147,4 @@ http://jmmanager.wordpress.com/support/installation-and-setup-2/
  * Option to display fanart image instead of posters on a series
  * Episode overviews and Series descriptions are now expanded by directly clicking on them
  * Issue #124: Shorten episode names in Trakt activity to max 30 characters
+ * Issue #120: File Sizes are Not Updated on Re-Scan
