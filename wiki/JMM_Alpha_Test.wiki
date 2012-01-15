@@ -25,6 +25,7 @@ http://jmmanager.wordpress.com/support/installation-and-setup-2/
  * Issue #125: Trakt shouts not refreshing properly
  * Issue #122: Allow user to modify episode type and number on MAL link
  * Force re-connection to AniDB on "598 Unknown Command" to prevent being banned
+ * Issue #129 - Disable Trakt images by default since they are exactly the same as TvDB
 
 === Version 3.0.18 ===
 
