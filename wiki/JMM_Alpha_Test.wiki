@@ -24,6 +24,7 @@ http://jmmanager.wordpress.com/support/installation-and-setup-2/
  * Add a link to MAL fro external series links
  * Issue #125: Trakt shouts not refreshing properly
  * Issue #122: Allow user to modify episode type and number on MAL link
+ * Force re-connection to AniDB on "598 Unknown Command" to prevent being banned
 
 === Version 3.0.18 ===
 
