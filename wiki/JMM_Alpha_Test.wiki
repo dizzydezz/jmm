@@ -27,6 +27,7 @@ http://jmmanager.wordpress.com/support/installation-and-setup-2/
  * Force re-connection to AniDB on "598 Unknown Command" to prevent being banned
  * Issue #129 - Disable Trakt images by default since they are exactly the same as TvDB
  * Change logging of image download fails to warnings instead of errors
+ * Issue #126: Show Fanart/Poster on group view
 
 === Version 3.0.18 ===
 
