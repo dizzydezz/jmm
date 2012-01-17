@@ -11,6 +11,10 @@ http://jmmanager.wordpress.com/support/installation-and-setup-2/
 
 == Change Log ==
 
+=== Version 3.0.20 ===
+
+ * Allow use to adjust the size of fanart/poster on series/group view
+
 === Version 3.0.19 ===
 
  * Issue #119: jmm desktop crash on dashboard
