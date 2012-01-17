@@ -13,10 +13,11 @@ http://jmmanager.wordpress.com/support/installation-and-setup-2/
 
 === Version 3.0.20 ===
 
- * Allow use to adjust the size of fanart/poster on series/group view
+ * Allow user to adjust the size of fanart/poster on series/group view
  * Swap position of overview and play next episode on series display
  * Can now upload/download watched states to/from !MyAnimeList
  * Issue #117: new group filter: number of episodes
+ * Issue #27: Pressing the play button in MA3, when highlighting a group/series should play the next episode
 
 === Version 3.0.19 ===
 
