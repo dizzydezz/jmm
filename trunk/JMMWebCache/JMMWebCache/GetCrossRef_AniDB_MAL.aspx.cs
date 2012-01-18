@@ -46,7 +46,7 @@ namespace JMMWebCache
 				if (recs.Count == 0)
 				{
 					// try user lwerndly
-					recs = repCrossRef.GetByAnimeIDUser(animeid, "lwerndly");
+					recs = repCrossRef.GetByAnimeIDUser(animeid, "jonbaby");
 					if (recs.Count == 0)
 					{
 						// try user jmediamanager
