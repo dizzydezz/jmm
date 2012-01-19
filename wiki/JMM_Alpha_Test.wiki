@@ -18,6 +18,7 @@ http://jmmanager.wordpress.com/support/installation-and-setup-2/
  * Can now upload/download watched states to/from !MyAnimeList
  * Issue #117: new group filter: number of episodes
  * Issue #27: Pressing the play button in MA3, when highlighting a group/series should play the next episode
+ * Add option to get AniDB file data from web cache
 
 === Version 3.0.19 ===
 
