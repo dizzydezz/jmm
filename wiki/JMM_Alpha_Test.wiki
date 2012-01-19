@@ -11,6 +11,10 @@ http://jmmanager.wordpress.com/support/installation-and-setup-2/
 
 == Change Log ==
 
+=== Version 3.0.22 ===
+
+ * Issue #135: Update MAL when the user creates a link
+
 === Version 3.0.21 ===
 
  * Issue #34: Re-grouping of series utility
