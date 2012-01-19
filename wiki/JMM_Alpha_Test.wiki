@@ -14,6 +14,7 @@ http://jmmanager.wordpress.com/support/installation-and-setup-2/
 === Version 3.0.21 ===
 
  * Issue #34: Re-grouping of series utility
+ * Issue #132: Options to show shouts/scrobbles in Trakt Activity widget
 
 === Version 3.0.20 ===
 
