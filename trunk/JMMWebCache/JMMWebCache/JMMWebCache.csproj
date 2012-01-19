@@ -64,6 +64,7 @@
     <Reference Include="System.EnterpriseServices" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="AddAniDB_File.aspx" />
     <Content Include="AddCrossRef_AniDB_MAL.aspx" />
     <Content Include="AddCrossRef_AniDB_Other.aspx" />
     <Content Include="AddCrossRef_AniDB_Trakt.aspx" />
@@ -77,6 +78,7 @@
     <Content Include="DeleteCrossRef_AniDB_Trakt.aspx" />
     <Content Include="DeleteCrossRef_AniDB_TvDB.aspx" />
     <Content Include="DeleteCrossRef_File_Episode.aspx" />
+    <Content Include="GetAniDB_File.aspx" />
     <Content Include="GetCrossRef_AniDB_MAL.aspx" />
     <Content Include="GetCrossRef_AniDB_Other.aspx" />
     <Content Include="GetCrossRef_AniDB_Trakt.aspx" />
@@ -94,6 +96,13 @@
     </Content>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="AddAniDB_File.aspx.cs">
+      <DependentUpon>AddAniDB_File.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="AddAniDB_File.aspx.designer.cs">
+      <DependentUpon>AddAniDB_File.aspx</DependentUpon>
+    </Compile>
     <Compile Include="AddCrossRef_AniDB_MAL.aspx.cs">
       <DependentUpon>AddCrossRef_AniDB_MAL.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
@@ -144,6 +153,7 @@
       <DependentUpon>AddUpdatedList.aspx</DependentUpon>
     </Compile>
     <Compile Include="Constants.cs" />
+    <Compile Include="Contracts\AniDB_FileRequest.cs" />
     <Compile Include="Contracts\CrossRef_AniDB_MALResult.cs" />
     <Compile Include="Contracts\CrossRef_AniDB_OtherResult.cs" />
     <Compile Include="Contracts\CrossRef_AniDB_TraktResult.cs" />
@@ -195,6 +205,7 @@
     <Compile Include="DeleteCrossRef_File_Episode.aspx.designer.cs">
       <DependentUpon>DeleteCrossRef_File_Episode.aspx</DependentUpon>
     </Compile>
+    <Compile Include="Entities\AniDB_File.cs" />
     <Compile Include="Entities\AniDB_Updated.cs" />
     <Compile Include="Entities\CrossRef_AniDB_MAL.cs" />
     <Compile Include="Entities\CrossRef_AniDB_Other.cs" />
@@ -203,6 +214,13 @@
     <Compile Include="Entities\CrossRef_File_Episode.cs" />
     <Compile Include="Entities\FileNameHash.cs" />
     <Compile Include="Enums.cs" />
+    <Compile Include="GetAniDB_File.aspx.cs">
+      <DependentUpon>GetAniDB_File.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="GetAniDB_File.aspx.designer.cs">
+      <DependentUpon>GetAniDB_File.aspx</DependentUpon>
+    </Compile>
     <Compile Include="GetCrossRef_AniDB_MAL.aspx.cs">
       <DependentUpon>GetCrossRef_AniDB_MAL.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
@@ -259,6 +277,7 @@
     <Compile Include="GetUpdates.aspx.designer.cs">
       <DependentUpon>GetUpdates.aspx</DependentUpon>
     </Compile>
+    <Compile Include="Mappings\AniDB_FileMap.cs" />
     <Compile Include="Mappings\AniDB_UpdatedMap.cs" />
     <Compile Include="Mappings\CrossRef_AniDB_MALMap.cs" />
     <Compile Include="Mappings\CrossRef_AniDB_OtherMap.cs" />
@@ -267,6 +286,7 @@
     <Compile Include="Mappings\CrossRef_File_EpisodeMap.cs" />
     <Compile Include="Mappings\FileNameHashMap.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Repositories\AniDB_FileRepository.cs" />
     <Compile Include="Repositories\AniDB_UpdatedRepository.cs" />
     <Compile Include="Repositories\CrossRef_AniDB_MALRepository.cs" />
     <Compile Include="Repositories\CrossRef_AniDB_OtherRepository.cs" />
