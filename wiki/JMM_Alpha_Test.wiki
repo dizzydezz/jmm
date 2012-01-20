@@ -15,6 +15,7 @@ http://jmmanager.wordpress.com/support/installation-and-setup-2/
 
  * Issue #135: Update MAL when the user creates a link
  * Issue #134: Avalon skin - only show unwatched counts in lists
+ * Issue #133: Avalon skin - option in installer to use same layout as mp-tvseries
 
 === Version 3.0.21 ===
 
