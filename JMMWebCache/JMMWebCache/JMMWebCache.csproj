@@ -79,6 +79,7 @@
     <Content Include="DeleteCrossRef_AniDB_TvDB.aspx" />
     <Content Include="DeleteCrossRef_File_Episode.aspx" />
     <Content Include="GetAniDB_File.aspx" />
+    <Content Include="GetAppVersions.aspx" />
     <Content Include="GetCrossRef_AniDB_MAL.aspx" />
     <Content Include="GetCrossRef_AniDB_Other.aspx" />
     <Content Include="GetCrossRef_AniDB_Trakt.aspx" />
@@ -154,6 +155,7 @@
     </Compile>
     <Compile Include="Constants.cs" />
     <Compile Include="Contracts\AniDB_FileRequest.cs" />
+    <Compile Include="Contracts\AppVersionsResult.cs" />
     <Compile Include="Contracts\CrossRef_AniDB_MALResult.cs" />
     <Compile Include="Contracts\CrossRef_AniDB_OtherResult.cs" />
     <Compile Include="Contracts\CrossRef_AniDB_TraktResult.cs" />
@@ -220,6 +222,13 @@
     </Compile>
     <Compile Include="GetAniDB_File.aspx.designer.cs">
       <DependentUpon>GetAniDB_File.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="GetAppVersions.aspx.cs">
+      <DependentUpon>GetAppVersions.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="GetAppVersions.aspx.designer.cs">
+      <DependentUpon>GetAppVersions.aspx</DependentUpon>
     </Compile>
     <Compile Include="GetCrossRef_AniDB_MAL.aspx.cs">
       <DependentUpon>GetCrossRef_AniDB_MAL.aspx</DependentUpon>
