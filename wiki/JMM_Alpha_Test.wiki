@@ -13,6 +13,12 @@ http://jmmanager.wordpress.com/support/installation-and-setup-2/
 
 === Version 3.0.22 ===
 
+ * Playlists support for SQLite and MySQL
+ * Fixed bug when filtering by video quality
+ * JMM Desktop and Server now display when a new version is available
+
+=== Version 3.0.22 ===
+
  * New Playlists tab in JMM Desktop
  * Issue #135: Update MAL when the user creates a link
  * Issue #134: Avalon skin - only show unwatched counts in lists
