@@ -14,6 +14,7 @@ http://jmmanager.wordpress.com/support/installation-and-setup-2/
 === Version 3.0.24 ===
 
  * Issue #145: Show more details for queues on server tab in JMM desktop
+ * Make sure vote is updated on MAL when the user votes.
 
 === Version 3.0.23 ===
 
