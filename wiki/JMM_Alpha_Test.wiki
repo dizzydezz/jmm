@@ -13,7 +13,7 @@ http://jmmanager.wordpress.com/support/installation-and-setup-2/
 
 === Version 3.0.24 ===
 
-Issue #145: Show more details for queues on server tab in JMM desktop
+ * Issue #145: Show more details for queues on server tab in JMM desktop
 
 === Version 3.0.23 ===
 
