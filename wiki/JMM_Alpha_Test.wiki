@@ -18,6 +18,9 @@ http://jmmanager.wordpress.com/support/installation-and-setup-2/
  * Issue #144: Manual linking bug
  * Issue #145: Show more details for queues on server tab in JMM desktop
  * Make sure vote is updated on MAL when the user votes.
+ * Reduce the number of calls to the MAL api
+ * Make sure all series are reflected on MAL anime list, not just the series where an episode has been watched
+ * Update MAL anime status any time a new file has been added
 
 === Version 3.0.23 ===
 
