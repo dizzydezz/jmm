@@ -21,6 +21,7 @@ http://jmmanager.wordpress.com/support/installation-and-setup-2/
  * Reduce the number of calls to the MAL api
  * Make sure all series are reflected on MAL anime list, not just the series where an episode has been watched
  * Update MAL anime status any time a new file has been added
+ * Make sure MAL statuses of On Hold and Dropped are not over-written
 
 === Version 3.0.23 ===
 
