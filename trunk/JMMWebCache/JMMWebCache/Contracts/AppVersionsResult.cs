@@ -21,9 +21,9 @@ namespace JMMWebCache.Contracts
 		// default constructor
 		public AppVersionsResult()
 		{
-			JMMServerVersion = "3.0.23";
-			JMMDesktopVersion = "3.0.23";
-			MyAnime3Version = "3.0.23";
+			JMMServerVersion = "3.0.24";
+			JMMDesktopVersion = "3.0.24";
+			MyAnime3Version = "3.0.24";
 
 			JMMServerDownload = @"http://code.google.com/p/jmm/downloads/list";
 			JMMDesktopDownload = @"http://code.google.com/p/jmm/downloads/list";
