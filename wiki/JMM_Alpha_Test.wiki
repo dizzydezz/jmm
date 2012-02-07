@@ -11,7 +11,7 @@ http://jmmanager.wordpress.com/support/installation-and-setup-2/
 
 == Change Log ==
 
-=== Version 3.0.24 ===
+=== Version 3.0.24 (Feb 7 2012) ===
 
  * View Random series from group filters in the collection tab
  * Issue #146: Only refresh continue watching widget when marking an episode watched on Dashboard
