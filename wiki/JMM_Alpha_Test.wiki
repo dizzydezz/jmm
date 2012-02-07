@@ -13,6 +13,7 @@ http://jmmanager.wordpress.com/support/installation-and-setup-2/
 
 === Version 3.0.24 ===
 
+ * View Random series from group filters in the collection tab
  * Issue #146: Only refresh continue watching widget when marking an episode watched on Dashboard
  * Issue #139: Option to update AniDB file info. Useful when a file is moved from one series/episode to another on AniDB
  * Issue #144: Manual linking bug
