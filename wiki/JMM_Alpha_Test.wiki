@@ -13,7 +13,7 @@ http://jmmanager.wordpress.com/support/installation-and-setup-2/
 
 === Version 3.0.24 (Feb 10 2012) ===
 
- * Handle corrupt data during MyAnime2 migration properly
+ * Handle corrupt data during !MyAnime2 migration properly
  * Add button to play a random episode from group filter, group and series
 
 === Version 3.0.24 (Feb 7 2012) ===
