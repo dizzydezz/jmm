@@ -11,6 +11,10 @@ http://jmmanager.wordpress.com/support/installation-and-setup-2/
 
 == Change Log ==
 
+=== Version 3.0.25 (Feb 10 2012) ===
+
+Issue #104: Per Series Option of Title in Romanji/English regardless of defaults
+
 === Version 3.0.24 (Feb 8 2012) ===
 
  * Handle corrupt data during !MyAnime2 migration properly
