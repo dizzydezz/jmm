@@ -13,7 +13,8 @@ http://jmmanager.wordpress.com/support/installation-and-setup-2/
 
 === Version 3.0.25 (Feb 10 2012) ===
 
-Issue #104: Per Series Option of Title in Romanji/English regardless of defaults
+ * Issue #104: Per Series Option of Title in Romanji/English regardless of defaults
+ * Automatically select the "All" group filter the first time you go to the Collection tab
 
 === Version 3.0.24 (Feb 8 2012) ===
 
