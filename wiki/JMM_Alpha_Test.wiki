@@ -15,6 +15,7 @@ http://jmmanager.wordpress.com/support/installation-and-setup-2/
 
  * Issue #104: Per Series Option of Title in Romanji/English regardless of defaults
  * Automatically select the "All" group filter the first time you go to the Collection tab
+ * Issue #136: Mass avdump utility
 
 === Version 3.0.24 (Feb 8 2012) ===
 
