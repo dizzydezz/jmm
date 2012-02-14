@@ -11,6 +11,12 @@ http://jmmanager.wordpress.com/support/installation-and-setup-2/
 
 == Change Log ==
 
+=== Version 3.0.27 () ===
+
+ * Fix show pinned series button on related series
+ * Issue #149: Allow double clicking on series for a group
+
+
 === Version 3.0.26 (Feb 14 2012) ===
 
  * Issue #104: Per Series Option of Title in Romanji/English regardless of defaults
