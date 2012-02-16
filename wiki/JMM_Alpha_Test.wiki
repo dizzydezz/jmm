@@ -11,12 +11,13 @@ http://jmmanager.wordpress.com/support/installation-and-setup-2/
 
 == Change Log ==
 
-=== Version 3.0.27 () ===
+=== Version 3.0.27 (Feb 17 2012) ===
 
  * Fix show pinned series button on related series
  * Issue #149: Allow double clicking on series for a group
  * Reduce delay for AniDB FILE command from 2 seconds to 1 second.
  * Issue #111: To download list / bookmark list
+ * Make sure scanning an import folder only processes new files
 
 === Version 3.0.26 (Feb 14 2012) ===
 
