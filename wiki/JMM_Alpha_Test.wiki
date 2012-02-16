@@ -16,6 +16,7 @@ http://jmmanager.wordpress.com/support/installation-and-setup-2/
  * Fix show pinned series button on related series
  * Issue #149: Allow double clicking on series for a group
  * Reduce delay for AniDB FILE command from 2 seconds to 1 second.
+ * Issue #111: To download list / bookmark list
 
 === Version 3.0.26 (Feb 14 2012) ===
 
