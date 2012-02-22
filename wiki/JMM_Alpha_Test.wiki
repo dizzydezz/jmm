@@ -16,6 +16,7 @@ http://jmmanager.wordpress.com/support/installation-and-setup-2/
  * Make sure that the collection tab is highlighted when the user clicks on a tag or category
  * Marking episodes and files as watched, where multiple files make up one episode now works
  * Make the search bar available from main collection tab - searching will auto navigate to ALL filter and perform search
+ * Issue #151: New JMM Desktop widget for latest additions
 
 === Version 3.0.27 (Feb 17 2012) ===
 
