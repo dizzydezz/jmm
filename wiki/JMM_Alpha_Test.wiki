@@ -11,7 +11,7 @@ http://jmmanager.wordpress.com/support/installation-and-setup-2/
 
 == Change Log ==
 
-=== Version 3.0.29 () ===
+=== Version 3.0.29 (Feb 23 2012) ===
 
  * Make sure to really handle imports from a root drive
  * Allow the user to select the columns available in the missing episodes export
