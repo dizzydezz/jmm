@@ -15,6 +15,7 @@ http://jmmanager.wordpress.com/support/installation-and-setup-2/
 
  * Ask user for confirmation before running the "Remove Missing Files" process.
  * Don't show the missing episode icon in the episode list, if the episode hasn't aired yet
+ * Performance improvements for MySQL
 
 === Version 3.0.29 (Feb 23 2012) ===
 
