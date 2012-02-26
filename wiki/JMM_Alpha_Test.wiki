@@ -11,7 +11,11 @@ http://jmmanager.wordpress.com/support/installation-and-setup-2/
 
 == Change Log ==
 
-=== Version 3.0.30 () ===
+=== Version 3.0.31 () ===
+
+ * Fix the broken refresh button on the JMM Desktop dashboard
+
+=== Version 3.0.30 (Feb 24 2012) ===
 
  * Ask user for confirmation before running the "Remove Missing Files" process.
  * Don't show the missing episode icon in the episode list, if the episode hasn't aired yet
