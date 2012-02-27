@@ -11,10 +11,11 @@ http://jmmanager.wordpress.com/support/installation-and-setup-2/
 
 == Change Log ==
 
-=== Version 3.0.31 () ===
+=== Version 3.0.31 (Feb 27 2012) ===
 
  * Fix the broken refresh button on the JMM Desktop dashboard
  * Issue #51: Link individual episodes to TvDB episodes
+ * Fix issue with wrong TvDB details being displayed for some series, due to episodes being deleted from TvDB, but not locally
 
 === Version 3.0.30 (Feb 24 2012) ===
 
