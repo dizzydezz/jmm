@@ -11,6 +11,11 @@ http://jmmanager.wordpress.com/support/installation-and-setup-2/
 
 == Change Log ==
 
+=== Version 3.0.33 (Mar 05 2012) ===
+
+ * Revert back to 1 FILE command every 2 seconds to prevent bans
+ * Only download information about related anime during import if the user has chosen to group related series (to prevent bans)
+
 === Version 3.0.32 (Mar 01 2012) ===
 
  * Issue #16: MyAnime3 - From context menu add functions to play random episode/ play next unwatched episode - on group filters, groups and series
