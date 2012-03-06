@@ -14,6 +14,7 @@ http://jmmanager.wordpress.com/support/installation-and-setup-2/
 === Version 3.0.34 () ===
 
  * Do not show episodes as missing in the report if they have not aired yet
+ * JMM Desktop: remember whether episodes or series was selected in Recent Additions widget
 
 === Version 3.0.33 (Mar 05 2012) ===
 
