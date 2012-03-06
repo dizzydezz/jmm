@@ -11,6 +11,10 @@ http://jmmanager.wordpress.com/support/installation-and-setup-2/
 
 == Change Log ==
 
+=== Version 3.0.34 () ===
+
+ * Do not show episodes as missing in the report if they have not aired yet
+
 === Version 3.0.33 (Mar 05 2012) ===
 
  * Revert back to 1 FILE command every 2 seconds to prevent bans
