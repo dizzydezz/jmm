@@ -16,6 +16,7 @@ http://jmmanager.wordpress.com/support/installation-and-setup-2/
  * Do not show episodes as missing in the report if they have not aired yet
  * JMM Desktop: remember whether episodes or series was selected in Recent Additions widget
  * Make sure to check if a file record exists before creating another one with the same hash
+ * Issue #140: Seiyuu window in MyAnime3
 
 
 === Version 3.0.33 (Mar 05 2012) ===
