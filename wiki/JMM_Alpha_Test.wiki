@@ -11,6 +11,10 @@ http://jmmanager.wordpress.com/support/installation-and-setup-2/
 
 == Change Log ==
 
+=== Version 3.0.35 (Mar 09 2012) ===
+
+ * Fix bug where file information was not saved properly for double episodes, causing bans
+
 === Version 3.0.34 (Mar 08 2012) ===
 
  * Do not show episodes as missing in the report if they have not aired yet
