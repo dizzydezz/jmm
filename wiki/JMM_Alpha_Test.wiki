@@ -14,6 +14,7 @@ http://jmmanager.wordpress.com/support/installation-and-setup-2/
 === Version 3.0.36 () ===
 
  * Issue #157: End date on anime not populated properly
+ * Issue #155: MA3: not marking episode as watched unless you press the stop button
 
 === Version 3.0.35 (Mar 09 2012) ===
 
