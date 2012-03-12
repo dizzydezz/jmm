@@ -11,6 +11,10 @@ http://jmmanager.wordpress.com/support/installation-and-setup-2/
 
 == Change Log ==
 
+=== Version 3.0.36 () ===
+
+ * Issue #157: End date on anime not populated properly
+
 === Version 3.0.35 (Mar 09 2012) ===
 
  * Fix bug where file information was not saved properly for double episodes, causing bans
