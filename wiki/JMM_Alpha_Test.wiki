@@ -11,7 +11,7 @@ http://jmmanager.wordpress.com/support/installation-and-setup-2/
 
 == Change Log ==
 
-=== Version 3.0.37 () ===
+=== Version 3.0.37 (Mar 16 2012) ===
 
  * Prevent bans by not allowing the same http call to be made more than once every 4 hours
  * Small performance improvements by reducing number of database calls
