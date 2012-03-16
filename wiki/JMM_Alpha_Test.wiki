@@ -15,6 +15,7 @@ http://jmmanager.wordpress.com/support/installation-and-setup-2/
 
  * Prevent bans by not allowing the same http call to be made more than once every 4 hours
  * Small performance improvements by reducing number of database calls
+ * Make sure the series count only shows the amount of series which actually meet the filter criteria
 
 === Version 3.0.36 (Mar 13 2012) ===
 
