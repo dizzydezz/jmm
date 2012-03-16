@@ -11,6 +11,10 @@ http://jmmanager.wordpress.com/support/installation-and-setup-2/
 
 == Change Log ==
 
+=== Version 3.0.38 () ===
+
+ * Add the following option on the MyAnime3 - Continue Watching window - Play previous episode, View Episode List, View Series Info
+
 === Version 3.0.37 (Mar 16 2012) ===
 
  * Prevent bans by not allowing the same http call to be made more than once every 4 hours
