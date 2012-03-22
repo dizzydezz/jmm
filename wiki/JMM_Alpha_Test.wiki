@@ -11,6 +11,11 @@ http://jmmanager.wordpress.com/support/installation-and-setup-2/
 
 == Change Log ==
 
+=== Version 3.0.39 (Mar 22 2012) ===
+
+ * Download packages now include an automatic installer (manual install option still available)
+ * Automatic updating is available in JMM Server and Desktop
+
 === Version 3.0.38 () ===
 
  * Add the following option on the MyAnime3 - Continue Watching window - Play previous episode, View Episode List, View Series Info
