@@ -13,6 +13,7 @@ http://jmmanager.wordpress.com/support/installation-and-setup-2/
 
 === Version 3.0.40 () ===
 
+ * Fix automatic creation of SQL Server 2008 database
  * Handle errors properly when downloading images (causing occasional crash in JMM Desktop)
 
 === Version 3.0.39 (Mar 22 2012) ===
