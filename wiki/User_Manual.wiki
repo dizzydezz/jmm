@@ -18,6 +18,18 @@ Notes between performance differences between SQL Server and SQLite
 
 === Import Folders ===
 
+Import folders are the the base locations where you keep your anime. You will need to add at least one folder before you can start cataloguing your collection<br>
+
+If you plan to run clients such as JMM Desktop or MyAnime3, you will also need to share out these folders on your network.<br>
+
+Each Import Folder has a few options available<br>
+
+*Drop Source* - If you put any files here they will be moved to either the Drop Destination or an existing folder. If you have files for that series, they will be moved to that existing folder. If it is the first file in a new series, a folder will be created in the Drop Destination and moved there.<br>
+
+*Drop Destination* - Files for new series will be moved here. You can have only one folder as the Drop destination<br>
+
+*Watch For New Files* - If selected JMM Server will detect when new files ase added to this folder, and automatically add them to your collection<br>
+
 === Review Options After Install ===
 
 == Initial Import ==
