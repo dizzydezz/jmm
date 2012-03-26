@@ -17,6 +17,7 @@ http://jmmanager.wordpress.com/support/installation-and-setup-2/
  * Issue #164: Avalon skin error - Anime3_Notification.xml
  * Issue #163: Incorrect behaviour when marking all as watched
  * Stop the login window from being top most in JMM Desktop when the app doesn't have focus.
+ * Issue #167: About screen for JMM Desktop and Server
 
 === Version 3.0.40 (Mar 23 2012) ===
 
