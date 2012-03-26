@@ -15,6 +15,7 @@ http://jmmanager.wordpress.com/support/installation-and-setup-2/
 
  * Fix sorting by AniDB Rating in MA3
  * Issue #164: Avalon skin error - Anime3_Notification.xml
+ * Issue #163: Incorrect behaviour when marking all as watched
 
 === Version 3.0.40 (Mar 23 2012) ===
 
