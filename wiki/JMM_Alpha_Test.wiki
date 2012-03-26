@@ -79,12 +79,14 @@ http://jmmanager.wordpress.com/support/installation-and-setup-2/
  * Don't show the missing episode icon in the episode list, if the episode hasn't aired yet
  * Performance improvements for MySQL
 
-=== Version 3.0.29 (Feb 23 2012) ===
+=== Older Updates ===
+
+==== Version 3.0.29 (Feb 23 2012) ====
 
  * Make sure to really handle imports from a root drive
  * Allow the user to select the columns available in the missing episodes export
 
-=== Version 3.0.28 (Feb 22 2012) ===
+==== Version 3.0.28 (Feb 22 2012) ====
 
  * Make sure that the collection tab is highlighted when the user clicks on a tag or category
  * Marking episodes and files as watched, where multiple files make up one episode now works
@@ -92,7 +94,7 @@ http://jmmanager.wordpress.com/support/installation-and-setup-2/
  * Issue #151: New JMM Desktop widget for latest additions
  * Handle access permission errors when importing files, common when an import folder is the root drive
 
-=== Version 3.0.27 (Feb 17 2012) ===
+==== Version 3.0.27 (Feb 17 2012) ====
 
  * Fix show pinned series button on related series
  * Issue #149: Allow double clicking on series for a group
@@ -100,18 +102,18 @@ http://jmmanager.wordpress.com/support/installation-and-setup-2/
  * Issue #111: To download list / bookmark list
  * Make sure scanning an import folder only processes new files
 
-=== Version 3.0.26 (Feb 14 2012) ===
+==== Version 3.0.26 (Feb 14 2012) ====
 
  * Issue #104: Per Series Option of Title in Romanji/English regardless of defaults
  * Automatically select the "All" group filter the first time you go to the Collection tab
  * Issue #136: Mass avdump utility
 
-=== Version 3.0.24 (Feb 8 2012) ===
+==== Version 3.0.24 (Feb 8 2012) ====
 
  * Handle corrupt data during !MyAnime2 migration properly
  * Add button to play a random episode from group filter, group and series
 
-=== Version 3.0.24 (Feb 7 2012) ===
+==== Version 3.0.24 (Feb 7 2012) ====
 
  * View Random series from group filters in the collection tab
  * Issue #146: Only refresh continue watching widget when marking an episode watched on Dashboard
@@ -124,13 +126,13 @@ http://jmmanager.wordpress.com/support/installation-and-setup-2/
  * Update MAL anime status any time a new file has been added
  * Make sure MAL statuses of On Hold and Dropped are not over-written
 
-=== Version 3.0.23 ===
+==== Version 3.0.23 ====
 
  * Playlists support for SQLite and MySQL
  * Fixed bug when filtering by video quality
  * JMM Desktop and Server now display when a new version is available
 
-=== Version 3.0.22 ===
+==== Version 3.0.22 ====
 
  * New Playlists tab in JMM Desktop
  * Issue #135: Update MAL when the user creates a link
@@ -139,13 +141,13 @@ http://jmmanager.wordpress.com/support/installation-and-setup-2/
  * Issue #137: Group filters which sort by AniDB Rating cause MP to crash
  * Issue #20: Default Wide skin
 
-=== Version 3.0.21 ===
+==== Version 3.0.21 ====
 
  * Issue #34: Re-grouping of series utility
  * Issue #132: Options to show shouts/scrobbles in Trakt Activity widget
  * Attempt to fix incorrect values in voting
 
-=== Version 3.0.20 ===
+==== Version 3.0.20 ====
 
  * Allow user to adjust the size of fanart/poster on series/group view
  * Swap position of overview and play next episode on series display
@@ -154,7 +156,7 @@ http://jmmanager.wordpress.com/support/installation-and-setup-2/
  * Issue #27: Pressing the play button in MA3, when highlighting a group/series should play the next episode
  * Add option to get AniDB file data from web cache
 
-=== Version 3.0.19 ===
+==== Version 3.0.19 ====
 
  * Issue #119: jmm desktop crash on dashboard
  * Search and link AniDB to !MyAnimeList
@@ -172,7 +174,7 @@ http://jmmanager.wordpress.com/support/installation-and-setup-2/
  * Change logging of image download fails to warnings instead of errors
  * Issue #126: Show Fanart/Poster on group view
 
-=== Version 3.0.18 ===
+==== Version 3.0.18 ====
 
  * Issue #90: Add a JMM widget to view watched history
  * Show tooltips on dashboard widgets for longer
@@ -182,7 +184,7 @@ http://jmmanager.wordpress.com/support/installation-and-setup-2/
  * Issue #28 - (JMM/MA3) After finishing watching a series, pop a rating dialog
  * Include an MPEI file (MP installer) for MyAnime3
 
-=== Version 3.0.17 ===
+==== Version 3.0.17 ====
 
  * Issue #102: Deleting files from series view picking up wrong files
  * Issue #92: Log settings and version in JMM Server
@@ -199,14 +201,14 @@ http://jmmanager.wordpress.com/support/installation-and-setup-2/
  * Issue #97: Remove URLs from anidb series descriptions
  * Issue #103: Log database version to jmm server log file
 
-=== Version 3.0.16 ===
+==== Version 3.0.16 ====
 
  * Issue #101 - Get user to select the season when searching for a TvDB or Trakt link 
  * Show Trakt shouts on a series, and allow the user to post a shout.
  * Issue #100 - Shows series link in Trakt activity
  * Show shouts on shows in Trakt activity
 
-=== Version 3.0.15 ===
+==== Version 3.0.15 ====
 
  * Make sure episodes are only scrobbled on Trakt when the user manually marks an episode/file as watched in JMM Desktop
  * Issue #99: Watch for files picks up non video files
@@ -214,7 +216,7 @@ http://jmmanager.wordpress.com/support/installation-and-setup-2/
  * Show shouts from Trakt in a new tab on the Series view in JMM Desktop
  * Various MySQL Schema fixes
 
-=== Version 3.0.14 ===
+==== Version 3.0.14 ====
 
  * Logging errors properly on !MyAnime2 migration
  * Change the trakt activity widget to show all activity rather than just the last action for a friend
@@ -222,7 +224,7 @@ http://jmmanager.wordpress.com/support/installation-and-setup-2/
  * Disabled download of reviews until they are ready to be displayed
  * Don't try to get Trakt friend info, if the user hasn't entered any credentials
 
-=== Version 3.0.13 ===
+==== Version 3.0.13 ====
 
  * Issue #75: TvDB data is not being downloaded when an anime is first linked to a TvDB show
  * Allow user to update all AniDB series information from the Server window
@@ -231,7 +233,7 @@ http://jmmanager.wordpress.com/support/installation-and-setup-2/
  * Fix issue where Trakt friend avatars were being deleted when JMM desktop and server shared the same base image path
  * Issue #76: Categories/Genres not scrolling in StreamedMP
 
-=== Version 3.0.12 ===
+==== Version 3.0.12 ====
 
  * On starting JMM Server the first the time, the user is prompted to select a database type
  * Issue #82 - JMM Desktop Password on login is now hidden
@@ -239,7 +241,7 @@ http://jmmanager.wordpress.com/support/installation-and-setup-2/
  * Issue #79: Allow user to choose root folder for storage of images
  * Issue #79: JMM Desktop and JMM Server can now point to the same images folder so that separate copies are no longer needed.
 
-=== Version 3.0.11 ===
+==== Version 3.0.11 ====
 
  * Fixed issue when switching Trakt season in JMM Desktop
  * Fixed issue with errors in getting Trakt friend activity
@@ -248,7 +250,7 @@ http://jmmanager.wordpress.com/support/installation-and-setup-2/
  * Make sure user cannot link more than anime to a Trakt or TvDB identifier (show id and season number)
  * Issue #68 - Now supporting MySQL databases
 
-=== Version 3.0.10 ===
+==== Version 3.0.10 ====
 
  * Added utility so that user can re-read the media information for all video files
  * Make sure that pressing the "Sync Trakt" button on JMM Server always runs rgeardless of scheduled sync settings
@@ -259,7 +261,7 @@ http://jmmanager.wordpress.com/support/installation-and-setup-2/
   * File summary on downloads window when searching for an Episode
   * File prompt when playing an episode with more than one file
 
-=== Version 3.0.9 ===
+==== Version 3.0.9 ====
 
  * Allow user to customise the delay time when display group info and fanart in MA3
  * Prevent updating of stats twice when a user marks an episode as Watched
@@ -268,34 +270,34 @@ http://jmmanager.wordpress.com/support/installation-and-setup-2/
  * Issue #63: Scan drop folder from Uitlities in MA3
  * Get Bit Depth (8/10 bit) when reading media info
 
-=== Version 3.0.8 ===
+==== Version 3.0.8 ====
 
  * Issue #64: Allow import of manually linked files from MA2
  * Issue #65: User permissions to include settings editing
  * Issue #66: Show fanart for trakt activity where the episode screenshot is not available
 
-=== Version 3.0.7 ===
+==== Version 3.0.7 ====
 
  * Make sure to include missing hasher.dll for much faster hashing
  * Queue status counts/icons were not showing in MyAnime3
  * Issue #62: Continue watching, long series name, overlaps the Ep n - Ep title
  * Finished StreamedMP skin
 
-=== Version 3.0.6 ===
+==== Version 3.0.6 ====
 
  * Issue #54: New files being added as in DVD always
  * Issue #57: Trakt should only scrobble not mark as seen as well.
 
-=== Version 3.0.5 ===
+==== Version 3.0.5 ====
 
  * Issue #55: Allow user to configure ports on JMM Server
  * Issue #56: Allow quick sort in MA3 to ascending or descending
 
-=== Version 3.0.4 ===
+==== Version 3.0.4 ====
 
  * Fixed issue with JMM Desktop not working on some PC's
 
-=== Version 3.0.3 ===
+==== Version 3.0.3 ====
 
  * Issue #49 - Add quick sorting options in MA3
  * Fix watched stats always showing as 1
