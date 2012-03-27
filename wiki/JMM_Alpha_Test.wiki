@@ -11,7 +11,7 @@ http://jmmanager.wordpress.com/support/installation-and-setup-2/
 
 == Change Log ==
 
-=== Version 3.0.41 () ===
+=== Version 3.0.41 (Mar 27 2012) ===
 
  * Fix sorting by AniDB Rating in MA3
  * Issue #164: Avalon skin error - Anime3_Notification.xml
