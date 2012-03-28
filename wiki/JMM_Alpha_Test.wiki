@@ -14,6 +14,7 @@ http://jmmanager.wordpress.com/support/installation-and-setup-2/
 === Version 3.0.42 () ===
 
  * Issue #158: New special predefined group filter in JMM/MA3 allowing the user to browse by Year and Category
+ * Issue #160: Allow Missing Episodes Output to be added to Bookmarks list
 
 === Version 3.0.41 (Mar 27 2012) ===
 
