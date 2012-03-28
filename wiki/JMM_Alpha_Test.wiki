@@ -11,6 +11,10 @@ http://jmmanager.wordpress.com/support/installation-and-setup-2/
 
 == Change Log ==
 
+=== Version 3.0.42 () ===
+
+ * Issue #158: New special predefined group filter in JMM/MA3 allowing the user to browse by Year and Category
+
 === Version 3.0.41 (Mar 27 2012) ===
 
  * Fix sorting by AniDB Rating in MA3
