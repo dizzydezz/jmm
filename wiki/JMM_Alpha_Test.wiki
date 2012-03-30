@@ -19,6 +19,7 @@ http://jmmanager.wordpress.com/support/installation-and-setup-2/
  * Issue #169: Support Avallonis skin for !MediaPortal
  * Fix the searching text, descriptions in StreamedMP skin
  * Issue #118: Fanart version of StreamedMP skin
+ * Big performance improvements when using MySQL or Sqlite during imports, or downloading anime information by using bulk inserts
 
 === Version 3.0.41 (Mar 27 2012) ===
 
