@@ -16,7 +16,8 @@ http://jmmanager.wordpress.com/support/installation-and-setup-2/
  * Issue #158: New special predefined group filter in JMM/MA3 allowing the user to browse by Year and Category
  * Issue #160: Allow Missing Episodes Output to be added to Bookmarks list
  * Fix position of the find text in Avalon skin for MyAnime3
- * Issue #169: Support Avallonis skin for MediaPortal
+ * Issue #169: Support Avallonis skin for !MediaPortal
+ * Fix the searching text, descriptions in StreamedMP skin
 
 === Version 3.0.41 (Mar 27 2012) ===
 
