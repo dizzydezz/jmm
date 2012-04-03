@@ -23,6 +23,7 @@ http://jmmanager.wordpress.com/support/installation-and-setup-2/
  * Add ability to create series from Calendar in MA3
  * Add ability to bookmark anime from Calendar in MA3 and JMM Desktop
  * Add ability to bookmark anime from Recommended Anime in MA3 
+ * Issue #171: Remove option to download Related and similar anime, they were disabled in the code behind due to potential banning issues
 
 === Version 3.0.41 (Mar 27 2012) ===
 
