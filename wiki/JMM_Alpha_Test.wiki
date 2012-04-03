@@ -20,6 +20,9 @@ http://jmmanager.wordpress.com/support/installation-and-setup-2/
  * Fix the searching text, descriptions in StreamedMP skin
  * Issue #118: Fanart version of StreamedMP skin
  * Big performance improvements when using MySQL or Sqlite during imports, or downloading anime information by using bulk inserts
+ * Add ability to create series from Calendar in MA3
+ * Add ability to bookmark anime from Calendar in MA3 and JMM Desktop
+ * Add ability to bookmark anime from Recommended Anime in MA3 
 
 === Version 3.0.41 (Mar 27 2012) ===
 
