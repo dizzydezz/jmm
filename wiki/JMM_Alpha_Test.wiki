@@ -24,6 +24,7 @@ http://jmmanager.wordpress.com/support/installation-and-setup-2/
  * Add ability to bookmark anime from Calendar in MA3 and JMM Desktop
  * Add ability to bookmark anime from Recommended Anime in MA3 
  * Issue #171: Remove option to download Related and similar anime, they were disabled in the code behind due to potential banning issues
+ * Make sure that individual links for an AniDB episode to a TvDB episode are shown in MA3
 
 === Version 3.0.41 (Mar 27 2012) ===
 
