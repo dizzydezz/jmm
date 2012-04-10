@@ -11,6 +11,10 @@ http://jmmanager.wordpress.com/support/installation-and-setup-2/
 
 == Change Log ==
 
+=== Version 3.0.43 () ===
+
+ * Issue #175: Link to web platform installer for MSSQL on JMM Server setup to make it easier to install
+
 === Version 3.0.42 (Apr 10 2012) ===
 
  * Issue #158: New special predefined group filter in JMM/MA3 allowing the user to browse by Year and Category
