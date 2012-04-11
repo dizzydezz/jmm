@@ -14,6 +14,7 @@ http://jmmanager.wordpress.com/support/installation-and-setup-2/
 === Version 3.0.43 () ===
 
  * Issue #175: Link to web platform installer for MSSQL on JMM Server setup to make it easier to install
+ * Move some code from JMM Desktop start up, to a separate thread after the main window has loaded for slightly better performance
 
 === Version 3.0.42 (Apr 10 2012) ===
 
