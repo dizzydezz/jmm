@@ -1,0 +1,11 @@
+= User Manual - Downloads =
+
+Guide on the Downloads tab in JMM Desktop
+
+<wiki:toc max_depth="4" />
+
+== Introduction ==
+
+The Downloads tab, helps you to search and browse torrents from multiple sites, and also to add and manage torrents in uTorrent<br>
+
+=== Settings ===
