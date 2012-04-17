@@ -1,4 +1,4 @@
-= User Manual - File Manager =
+= User Manual - Utilities =
 
 Guide on the File Manager tab in JMM Client
 
