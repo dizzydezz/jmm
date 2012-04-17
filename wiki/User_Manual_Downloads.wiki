@@ -16,6 +16,6 @@ NOTE - current the only torrent client supported is uTorrent.<br>
 
 For uTorrent integration to work you must enable the Web UI in your client. It should look something like the following.<br>
 
-<a href="http://jmm.googlecode.com/svn/trunk/Screenshots/Instructions/Downloads/Download_01.jpg">
+<a href="http://jmm.googlecode.com/svn/trunk/Screenshots/Instructions/Downloads/Downloads_01.jpg">
 
 Use the same details as you entered in uTorrent to populate the settings in JMM Desktop
