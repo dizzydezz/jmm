@@ -15,6 +15,7 @@ http://jmmanager.wordpress.com/support/installation-and-setup-2/
 
  * Issue #177: Port uTorrent functionality from MA3 to JMM Desktop
  * Issue #175: Link to web platform installer for MSSQL on JMM Server setup to make it easier to install
+ * Issue #173: JMM Server not working when firewall is enabled (add firewall exception to installer)
  * Move some code from JMM Desktop start up, to a separate thread after the main window has loaded for slightly better performance
  * Minor performance improvements on dashboard
  * Add buttons to bookmark related and similar anime
