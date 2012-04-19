@@ -11,14 +11,14 @@ http://jmmanager.wordpress.com/support/installation-and-setup-2/
 
 == Change Log ==
 
-=== Version 3.0.44 () ===
+=== Version 3.0.44 (Apr 19 2012) ===
 
  * Fixed toggling of watched status on Random Episode window
  * Fixed bug which stopped user being able to create new group filters
  * Issue #180: Support for BakaBT as a torrent source (authenticated)
  * Add support to remove torrents from torrent monitor
  * Allow easier toggling of torrent sources when searching for a torrent
- * Allow user to select multiple torrents in uTorrent monitor to perform actions on
+ * Allow user to select multiple torrents in uTorrent monitor to perform actions on.
 
 === Version 3.0.43 (Apr 17 2012) ===
 
