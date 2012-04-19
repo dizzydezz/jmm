@@ -14,6 +14,7 @@ http://jmmanager.wordpress.com/support/installation-and-setup-2/
 === Version 3.0.44 () ===
 
  * Fixed toggling of watched status on Random Episode window
+ * Fixed bug which stopped user being able to create new group filters
 
 === Version 3.0.43 (Apr 17 2012) ===
 
