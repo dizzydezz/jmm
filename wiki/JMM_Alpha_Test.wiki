@@ -11,6 +11,10 @@ http://jmmanager.wordpress.com/support/installation-and-setup-2/
 
 == Change Log ==
 
+=== Version 3.0.44 () ===
+
+ * Fixed toggling of watched status on Random Episode window
+
 === Version 3.0.43 (Apr 17 2012) ===
 
  * Issue #177: Port uTorrent functionality from MA3 to JMM Desktop
