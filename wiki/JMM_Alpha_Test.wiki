@@ -18,6 +18,7 @@ http://jmmanager.wordpress.com/support/installation-and-setup-2/
  * Issue #180: Support for BakaBT as a torrent source (authenticated)
  * Add support to remove torrents from torrent monitor
  * Allow easier toggling of torrent sources when searching for a torrent
+ * Allow user to select multiple torrents in uTorrent monitor to perform actions on
 
 === Version 3.0.43 (Apr 17 2012) ===
 
