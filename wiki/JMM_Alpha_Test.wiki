@@ -14,6 +14,7 @@ http://jmmanager.wordpress.com/support/installation-and-setup-2/
 === Version 3.0.45 () ===
 
  * Issue #182: Video not showing in skins when not full screen
+ * Add support for BakaBT in MyAnime3
 
 === Version 3.0.44 (Apr 19 2012) ===
 
