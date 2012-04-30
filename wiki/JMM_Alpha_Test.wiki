@@ -1,15 +1,16 @@
-= JMM Alpha Test Notes and Instructions =
+= JMM Release Notes and Instructions =
 
 <wiki:toc max_depth="3" />
 
-This page contains notes and instructions for those participating in the JMM Alpha test<br>
-
-This page has been moved to the new site
 
 http://jmmanager.wordpress.com/support/installation-and-setup-2/
 
 
 == Change Log ==
+
+=== Version 3.1.0 (Apr 30 2012) ===
+
+ * Fix bug in the importer integrity check
 
 === Version 3.0.45 (Apr 24 2012) ===
 
