@@ -8,6 +8,10 @@ http://jmmanager.wordpress.com/support/installation-and-setup-2/
 
 == Change Log ==
 
+=== Version 3.1.2 (May 1 2012) ===
+
+ * Remove any VideoLocal records which don't have a valid import folder during the import
+
 === Version 3.1.0 (Apr 30 2012) ===
 
  * Fix bug in the importer integrity check
