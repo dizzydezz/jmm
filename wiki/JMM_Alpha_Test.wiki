@@ -10,7 +10,7 @@ http://jmmanager.wordpress.com/support/installation-and-setup-2/
 
 === Version 3.1.2 (May 1 2012) ===
 
- * Remove any VideoLocal records which don't have a valid import folder during the import
+ * Remove any !VideoLocal records which don't have a valid import folder during the import
 
 === Version 3.1.0 (Apr 30 2012) ===
 
