@@ -11,6 +11,8 @@ http://jmmanager.wordpress.com/support/installation-and-setup-2/
 === Version 3.1.3 () ===
 
  * Issue #184: Only download images for clients as they are needed
+ * Issue #189: Incorrect hash calculations
+ * Added ability to view hash/crc/sha/md5 information for a file in the episode list and re-hash the file
 
 === Version 3.1.2 (May 1 2012) ===
 
