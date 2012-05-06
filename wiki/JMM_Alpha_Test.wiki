@@ -13,6 +13,7 @@ http://jmmanager.wordpress.com/support/installation-and-setup-2/
  * Issue #184: Only download images for clients as they are needed
  * Issue #189: Incorrect hash calculations
  * Added ability to view hash/crc/sha/md5 information for a file in the episode list and re-hash the file
+ * Added exception handling to start up of MA3 to log errors
 
 === Version 3.1.2 (May 1 2012) ===
 
