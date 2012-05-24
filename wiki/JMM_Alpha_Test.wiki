@@ -16,6 +16,7 @@ http://jmmanager.wordpress.com/support/installation-and-setup-2/
  * Add a global exception handler to log unexpected exceptions
  * Issue #201: JMM Server ignoring maximum amount of fanarts set by user
  * Issue #25: Reinstate the FFDShow Helper and post processing options from MA2
+ * Issue #190: Option to minimize JMM Server to tray on start up
 
 === Version 3.1.3 (May 7 2012) ===
 
