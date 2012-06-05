@@ -12,6 +12,7 @@ http://jmmanager.wordpress.com/support/installation-and-setup-2/
 
  * Issue #215: Hover info for related or similar anime goes away.
  * Issue #220: Show a tooltip to explain the anime details shown in the downloads tab
+ * Fix issue with parsing of torrents from BakaBT
 
 === Version 3.1.5 (June 4 2012) ===
 
