@@ -14,6 +14,7 @@ http://jmmanager.wordpress.com/support/installation-and-setup-2/
  * Issue #220: Show a tooltip to explain the anime details shown in the downloads tab
  * Fix issue with parsing of torrents from BakaBT
  * Issue #207: Double clicking on an episode in the episode tab should play the episode.
+ * Issue #188: Make download button on episodes optional
 
 === Version 3.1.5 (June 4 2012) ===
 
