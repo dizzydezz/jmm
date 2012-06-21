@@ -8,7 +8,7 @@ http://jmmanager.wordpress.com/support/installation-and-setup-2/
 
 == Change Log ==
 
-=== Version 3.1.6 () ===
+=== Version 3.1.6 (June 21 2012) ===
 
  * Issue #215: Hover info for related or similar anime goes away.
  * Issue #220: Show a tooltip to explain the anime details shown in the downloads tab
