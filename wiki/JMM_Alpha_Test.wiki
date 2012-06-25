@@ -8,6 +8,10 @@ http://jmmanager.wordpress.com/support/installation-and-setup-2/
 
 == Change Log ==
 
+=== Version 3.1.7 () ===
+
+ * Issue #123: Button to view log file directory
+
 === Version 3.1.6 (June 21 2012) ===
 
  * Issue #215: Hover info for related or similar anime goes away.
