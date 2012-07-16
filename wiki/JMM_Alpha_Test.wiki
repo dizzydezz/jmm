@@ -13,6 +13,9 @@ http://jmmanager.wordpress.com/support/installation-and-setup-2/
  * Issue #123: Button to view log file directory
  * Issue #229: JMM Server : bad link in MyAnime2 Migration tab
  * Issue #228: Option to scan drop folders on startup
+ * Get and store FileVersion for files from AniDB e.g. v1 or v2
+ * Show File Version in information for files in JMM Desktop
+ * Issue #233: When renaming a series make sure that the new name shows up in searches in JMM Desktop
 
 === Version 3.1.6 (June 21 2012) ===
 
