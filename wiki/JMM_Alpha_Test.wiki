@@ -16,6 +16,7 @@ http://jmmanager.wordpress.com/support/installation-and-setup-2/
  * Get and store FileVersion for files from AniDB e.g. v1 or v2
  * Show File Version in information for files in JMM Desktop
  * Issue #233: When renaming a series make sure that the new name shows up in searches in JMM Desktop
+ * Issue #210: New utility in JMM Desktop to allow the search of files by Hash, File Name or simply Last 100 files added to collection
 
 === Version 3.1.6 (June 21 2012) ===
 
