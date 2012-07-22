@@ -8,7 +8,7 @@ http://jmmanager.wordpress.com/support/installation-and-setup-2/
 
 == Change Log ==
 
-=== Version 3.1.7 () ===
+=== Version 3.1.8 () ===
 
  * Issue #123: Button to view log file directory
  * Issue #229: JMM Server : bad link in MyAnime2 Migration tab
