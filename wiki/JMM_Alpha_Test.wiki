@@ -10,6 +10,10 @@ http://jmmanager.wordpress.com/support/installation-and-setup-2/
 
 === Version 3.1.8 () ===
 
+Issue #238: Year isn't always shown correctly in !MyAnime3 and JMM Desktop
+
+=== Version 3.1.8 (July 23 2012) ===
+
  * Issue #123: Button to view log file directory
  * Issue #229: JMM Server : bad link in MyAnime2 Migration tab
  * Issue #228: Option to scan drop folders on startup
