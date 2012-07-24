@@ -1,6 +1,6 @@
 = User Manual - Utilities =
 
-Guide on the File Manager tab in JMM Client
+Guide on the File Manager tab in JMM Desktop
 
 <wiki:toc max_depth="4" />
 
