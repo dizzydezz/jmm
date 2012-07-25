@@ -11,6 +11,66 @@ The File Renaming tab allows you to configure how you would like to rename your 
 It allows you to set up a profile to automatically rename your files as they are imported into your collection, or rename files already in your collection<br>
 
 The renaming functionality provided is a subset of the functionality provided by WebAOM, with some modifications
-http://wiki.anidb.net/w/WebAOM#Move.2Frename_system
+http://wiki.anidb.net/w/WebAOM#Move.2Frename_system<br>
 
-=== Unrecognized Files ===
+Renaming works by taking the metadata provided by AniDB, and then using this information to rename your files<br>
+
+=== Scripting ===
+
+You will need to create a script which contains a series of rules, tests and replacement tags which determines how your file will be renamed<br>
+
+Use the tests to create a string of tags and other text which will be used ro rename the file.<br>
+
+==== Tests ====
+
+For most tests you can insert '!' inside the brackets to indicate NOT<br>
+For example <br>
+{{{
+IF A(69) DO FAIL // If the anime id is 69 (Naruto) then don't rename the file
+IF A(!69) DO FAIL // If the anime id is NOT 69 (Naruto) then don't rename the file
+}}}
+
+For some tests it will also allow the following operators. These will be referred to as *numerical operators* below<br>
+{{{
+> // Greater Than
+>= // Greater Than or Equal To
+< // Less Than
+<= // Less Than or Equal To
+}}}
+
+You can have multiple tests on one line by using the AND and OR operators
+
+|| *Test* || *Example* || *Explanation** ||
+|| A || A(69) || Test if the anime for the file has the specified Anime ID ||
+|| G || G(1012)|| Group id or 'unknown' ||
+|| E || E(67987)|| Episode number ||
+|| X || X(13) ,  X(<100) || Total number of episodes, Numerical operators allowed ||
+|| G || G(1012)|| Group id or 'unknown' ||
+|| G || G(1012)|| Group id or 'unknown' ||
+|| G || G(1012)|| Group id or 'unknown' ||
+
+==== Scripting Basics ====
+
+|| *Syntax* || *Example* || *Explanation** ||
+|| // || // This is a comment || This is used to indicate a comment, and everything after this willl be ignored ||
+|| Syntax || Example || Explanation ||
+
+==== Scripting Rules ====
+
+ * Scripts are not validated so you must make sure they conform to the rules
+ * You can only have one action `DO ADD` per line
+
+==== Sample Script ====
+{{{
+IF A(69),A(1),A(2) DO FAIL //Do not rename file if it is Naruto
+DO ADD '[%grp] ' //sub group name short
+IF I(eng) DO ADD '%eng - ' // if the anime has an official/main title english add it to the string
+IF I(ann);I(!eng) DO ADD '%ann - ' //If the anime has a romaji title but not an english title add the romaji anime title
+DO ADD '%enr - ' //Add the base, same for all files
+IF I(epr) DO ADD '%epr' //If the episode has an english title add to string
+IF I(epn);I(!epr) DO ADD '%epn' //If the episode has an romaji title but not an english title add the romaji episode title
+IF I(sub) DO ADD ' (SUB:%sub)'
+IF I(dub) DO ADD ' (LAN:%dub)'
+// FILE Version
+IF F(!1) DO ADD ' [v%ver]' //If the episode has an english title add to string
+}}}
