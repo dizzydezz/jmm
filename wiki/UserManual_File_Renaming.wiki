@@ -61,6 +61,33 @@ IF I(epn);I(!epr) DO ADD '%epn' //If the episode has an romaji title but not an 
 || I || I(ann)|| Tag is defined. Do not use %, i.e. I(eng) [eng, kan, rom, ann, ...] ||
 || C || C(H264)|| Codec (one of the audio/video tracks) [H264, XviD, MP3 CBR, ...] ||
 
+==== Tags ====
+
+Tags are always inside single quotes, preceded by a % and three letters long<br>
+Tags will be replaced with the metadata from AniDB
+
+|| *Tag* || *Replaced With**  ||
+|| %ann || Anime Name - Romaji ||
+|| %ann ||  ||
+|| %ann ||  ||
+|| %ann ||  ||
+|| %ann ||  ||
+|| %ann ||  ||
+|| %ann ||  ||
+|| %ann ||  ||
+|| %ann ||  ||
+|| %ann ||  ||
+|| %ann ||  ||
+|| %ann ||  ||
+|| %ann ||  ||
+|| %ann ||  ||
+|| %ann ||  ||
+|| %ann ||  ||
+|| %ann ||  ||
+|| %ann ||  ||
+|| %ann ||  ||
+|| %ann ||  ||
+
 ==== Scripting Basics ====
 
 || *Syntax* || *Example* || *Explanation** ||
