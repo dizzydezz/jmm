@@ -1,0 +1,16 @@
+= User Manual - File Renaming =
+
+Guide on the File Renaming tab in JMM Desktop
+
+<wiki:toc max_depth="4" />
+
+== Introduction ==
+
+The File Renaming tab allows you to configure how you would like to rename your files (optional of course)<br>
+
+It allows you to set up a profile to automatically rename your files as they are imported into your collection, or rename files already in your collection<br>
+
+The renaming functionality provided is a subset of the functionality provided by WebAOM, with some modifications
+http://wiki.anidb.net/w/WebAOM#Move.2Frename_system
+
+=== Unrecognized Files ===
