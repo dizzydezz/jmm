@@ -60,6 +60,7 @@ IF I(epn);I(!epr) DO ADD '%epn' //If the episode has an romaji title but not an 
 || S || S(english)|| Sub language (one of the subtitle tracks) [japanese, english, ...] ||
 || I || I(ann)|| Tag is defined. Do not use %, i.e. I(eng) [eng, kan, rom, ann, ...] ||
 || C || C(H264)|| Codec (one of the audio/video tracks) [H264, XviD, MP3 CBR, ...] ||
+|| Z || Z(10)|| Video Bit Depth, Numerical operators allowed [8,10] ||
 
 ==== Tags ====
 
@@ -92,6 +93,7 @@ Tags will be replaced with the metadata from AniDB
 || %sub || Sub Language ||
 || %vid || Video codec (tracks separated with ' ||
 || %aud || Audio codec (tracks separated with ' ||
+|| %bit || Video Bit Depth (8bit, 10bit) ||
 
 ==== Scripting Basics ====
 
