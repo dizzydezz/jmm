@@ -38,22 +38,35 @@ For some tests it will also allow the following operators. These will be referre
 <= // Less Than or Equal To
 }}}
 
-You can have multiple tests on one line by using the AND and OR operators
+You can have multiple tests on one line by using the AND and OR operators<br>
+However you cannot have both an AND and an OR on the same line<br>
+{{{
+, // OR
+; // AND
+IF A(69),A(1),A(2) DO FAIL // If Anime ID is 69 or 1 or 2, do not rename the file
+IF I(epn);I(!epr) DO ADD '%epn' //If the episode has an romaji title but not an english title add the romaji episode title
+}}}
 
 || *Test* || *Example* || *Explanation** ||
 || A || A(69) || Test if the anime for the file has the specified Anime ID ||
 || G || G(1012)|| Group id or 'unknown' ||
 || E || E(67987)|| Episode number ||
 || X || X(13) ,  X(<100) || Total number of episodes, Numerical operators allowed ||
-|| G || G(1012)|| Group id or 'unknown' ||
-|| G || G(1012)|| Group id or 'unknown' ||
-|| G || G(1012)|| Group id or 'unknown' ||
+|| Q || Q(high)|| Quality [unknown, very high, high, med, low, very low, corrupted, eyecancer] ||
+|| R || R(DVD)|| Rip source [Blu-ray, unknown, camcorder, TV, DTV, VHS, VCD, SVCD, LD, DVD, HKDVD, www] ||
+|| T || T(TV)|| Type [unknown, TV, OVA, Movie, Other, web] ||
+|| Y || Y(2008)|| Year first aired, Numerical operators allowed ||
+|| D || D(english)|| Dub language (one of the audio tracks) [japanese, english, ...] ||
+|| S || S(english)|| Sub language (one of the subtitle tracks) [japanese, english, ...] ||
+|| I || I(ann)|| Tag is defined. Do not use %, i.e. I(eng) [eng, kan, rom, ann, ...] ||
+|| C || C(H264)|| Codec (one of the audio/video tracks) [H264, XviD, MP3 CBR, ...] ||
 
 ==== Scripting Basics ====
 
 || *Syntax* || *Example* || *Explanation** ||
-|| // || // This is a comment || This is used to indicate a comment, and everything after this willl be ignored ||
-|| Syntax || Example || Explanation ||
+|| // || `// This is a comment` || This is used to indicate a comment, and everything after this willl be ignored ||
+|| ' ' || `' Version_%ver '` || Everything inside the single quotes will be added to the file name including spaces.||
+|| %tag || `%ann` || Tags are preceded by a % and will be replaced with the metadata.||
 
 ==== Scripting Rules ====
 
@@ -62,15 +75,20 @@ You can have multiple tests on one line by using the AND and OR operators
 
 ==== Sample Script ====
 {{{
-IF A(69),A(1),A(2) DO FAIL //Do not rename file if it is Naruto
+IF A(69) DO FAIL //Do not rename file if it is Naruto
+// Sub groups
 DO ADD '[%grp] ' //sub group name short
+// Anime Name
 IF I(eng) DO ADD '%eng - ' // if the anime has an official/main title english add it to the string
 IF I(ann);I(!eng) DO ADD '%ann - ' //If the anime has a romaji title but not an english title add the romaji anime title
-DO ADD '%enr - ' //Add the base, same for all files
+// Episode number
+DO ADD '%enr - ' //Add the Episode number, same for all files
+// Episode name
 IF I(epr) DO ADD '%epr' //If the episode has an english title add to string
 IF I(epn);I(!epr) DO ADD '%epn' //If the episode has an romaji title but not an english title add the romaji episode title
+// Audio and subtitle languages
 IF I(sub) DO ADD ' (SUB:%sub)'
 IF I(dub) DO ADD ' (LAN:%dub)'
 // FILE Version
-IF F(!1) DO ADD ' [v%ver]' //If the episode has an english title add to string
+IF F(!1) DO ADD ' [v%ver]' //If the file is not version 1, add the file version
 }}}
