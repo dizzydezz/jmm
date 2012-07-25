@@ -68,25 +68,30 @@ Tags will be replaced with the metadata from AniDB
 
 || *Tag* || *Replaced With**  ||
 || %ann || Anime Name - Romaji ||
-|| %ann ||  ||
-|| %ann ||  ||
-|| %ann ||  ||
-|| %ann ||  ||
-|| %ann ||  ||
-|| %ann ||  ||
-|| %ann ||  ||
-|| %ann ||  ||
-|| %ann ||  ||
-|| %ann ||  ||
-|| %ann ||  ||
-|| %ann ||  ||
-|| %ann ||  ||
-|| %ann ||  ||
-|| %ann ||  ||
-|| %ann ||  ||
-|| %ann ||  ||
-|| %ann ||  ||
-|| %ann ||  ||
+|| %kan || Anime Name - Kanji ||
+|| %eng || Anime Name - English ||
+|| %epn || Episode Name - Romaji ||
+|| %epr || Episode Name - English ||
+|| %enr || Episode Number ||
+|| %grp || Group Name - Short ||
+|| %grl || Group Name - Long ||
+|| %ed2/%ED2 || ED2K - Lower/Upper ||
+|| %crc/%CRC || CRC- Lower/Upper ||
+|| %ver || File Version ||
+|| %qua || Video Quality ||
+|| %src || Video Source ||
+|| %res || Video Resolution ||
+|| %yea || Year ||
+|| %eps || Episode Count ||
+|| %typ || Anime Type // [unknown, TV, OVA, Movie, TV Special, Other, web] ||
+|| %fid || File ID ||
+|| %aid || Anime ID ||
+|| %eid || Episode ID ||
+|| %gid || Group ID ||
+|| %dub || Dub Language ||
+|| %sub || Sub Language ||
+|| %vid || Video codec (tracks separated with ' ||
+|| %aud || Audio codec (tracks separated with ' ||
 
 ==== Scripting Basics ====
 
