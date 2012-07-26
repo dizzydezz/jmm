@@ -53,7 +53,6 @@ IF I(epn);I(!epr) DO ADD '%epn' //If the episode has an romaji title but not an 
 || E || E(67987)|| Episode number ||
 || H || H(S)|| Episode Type [E=episode, S=special, T=trailer, C=credit, P=parody, O=other] ||
 || X || X(13) ,  X(<100) || Total number of episodes, Numerical operators allowed, only for normal episodes not specials, credits etc ||
-|| Q || Q(high)|| Quality [unknown, very high, high, med, low, very low, corrupted, eyecancer] ||
 || R || R(DVD)|| Rip source [Blu-ray, unknown, camcorder, TV, DTV, VHS, VCD, SVCD, LD, DVD, HKDVD, www] ||
 || T || T(TV)|| Type [unknown, TV, OVA, Movie, Other, web] ||
 || Y || Y(2008)|| Year first aired, Numerical operators allowed ||
