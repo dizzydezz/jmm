@@ -51,7 +51,8 @@ IF I(epn);I(!epr) DO ADD '%epn' //If the episode has an romaji title but not an 
 || A || A(69) || Test if the anime for the file has the specified Anime ID ||
 || G || G(1012)|| Group id or 'unknown' ||
 || E || E(67987)|| Episode number ||
-|| X || X(13) ,  X(<100) || Total number of episodes, Numerical operators allowed ||
+|| H || H(S)|| Episode Type [E=episode, S=special, T=trailer, C=credit, P=parody, O=other] ||
+|| X || X(13) ,  X(<100) || Total number of episodes, Numerical operators allowed, only for normal episodes not specials, credits etc ||
 || Q || Q(high)|| Quality [unknown, very high, high, med, low, very low, corrupted, eyecancer] ||
 || R || R(DVD)|| Rip source [Blu-ray, unknown, camcorder, TV, DTV, VHS, VCD, SVCD, LD, DVD, HKDVD, www] ||
 || T || T(TV)|| Type [unknown, TV, OVA, Movie, Other, web] ||
@@ -107,7 +108,9 @@ Tags will be replaced with the metadata from AniDB
  * Scripts are not validated so you must make sure they conform to the rules
  * You can only have one action `DO ADD` per line
 
-==== Sample Script ====
+=== Sample Scripts ===
+
+==== General Example ====
 {{{
 IF A(69) DO FAIL //Do not rename file if it is Naruto
 // Sub groups
