@@ -59,7 +59,8 @@ IF I(epn);I(!epr) DO ADD '%epn' //If the episode has an romaji title but not an 
 || D || D(english)|| Dub language (one of the audio tracks) [japanese, english, ...] ||
 || S || S(english)|| Sub language (one of the subtitle tracks) [japanese, english, ...] ||
 || I || I(ann)|| Tag is defined. Do not use %, i.e. I(eng) [eng, kan, rom, ann, ...] ||
-|| C || C(H264)|| Codec (one of the audio/video tracks) [H264, XviD, MP3 CBR, ...] ||
+|| C || C(H264/AVC)|| Video Codec (one of the video tracks) [H264/AVC, DivX5/6, unknown, VP Other, WMV9 (also WMV3), XviD, ...] ||
+|| J || J(FLAC)|| Audio Codec (one of the audio tracks) [AC3, FLAC, MP3 CBR, MP3 VBR, Other, unknown, Vorbis (Ogg Vorbis)  ...] ||
 || Z || Z(10)|| Video Bit Depth, Numerical operators allowed [8,10] ||
 
 ==== Tags ====
@@ -156,19 +157,27 @@ DO ADD '[%CRC]'
 
 // Replacement rules (cleanup)
 DO REPLACE ' ' '_' // replace spaces with underscores
-DO REPLACE 'H264/AVC' 'H264'
 DO REPLACE '0x0' ''
 DO REPLACE '__' '_'
 DO REPLACE '__' '_'
 
+// Replacement rules (codecs)
+DO REPLACE 'H264/AVC' 'H264'
+DO REPLACE 'DivX5/6' 'DivX'
+DO REPLACE 'WMV9' 'WMV9'
+
+DO REPLACE 'MP3 CBR' 'MP3'
+DO REPLACE 'MP3 VBR' 'MP3'
+DO REPLACE 'Vorbis (Ogg Vorbis)' 'Vorbis'
+
 // Replace all illegal file name characters
 DO REPLACE '<' '(' 
-DO REPLACE '>' ')'
+DO REPLACE '>' ')' 
 DO REPLACE ':' ';' 
 DO REPLACE '"' '`'
 DO REPLACE '/' '_'
-DO REPLACE '\' '_'
-DO REPLACE '|' '_'
-DO REPLACE '?' '_'
-DO REPLACE '*' '_' 
+DO REPLACE '\' '_' 
+DO REPLACE '|' '_' 
+DO REPLACE '?' '_' 
+DO REPLACE '*' '_'
 }}}
