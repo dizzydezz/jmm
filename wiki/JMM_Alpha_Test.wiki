@@ -14,6 +14,7 @@ http://jmmanager.wordpress.com/support/installation-and-setup-2/
  * Issue #237: Single-series group displays group name instead of series name (!MyAnime3)
  * When renaming a series in JMM Desktop it will also ask you if you want to apply changes to the parent group as well.
  * Issue #239: Option to only have one instance of JMM Server
+ * Implement missing relations window for mustayaluca skin
 
 === Version 3.1.8 (July 23 2012) ===
 
