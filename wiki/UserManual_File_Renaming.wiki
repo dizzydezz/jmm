@@ -62,6 +62,8 @@ IF I(epn);I(!epr) DO ADD '%epn' //If the episode has an romaji title but not an 
 || C || C(H264/AVC)|| Video Codec (one of the video tracks) [H264/AVC, DivX5/6, unknown, VP Other, WMV9 (also WMV3), XviD, ...] ||
 || J || J(FLAC)|| Audio Codec (one of the audio tracks) [AC3, FLAC, MP3 CBR, MP3 VBR, Other, unknown, Vorbis (Ogg Vorbis)  ...] ||
 || Z || Z(10)|| Video Bit Depth, Numerical operators allowed [8,10] ||
+|| W || W(>=1280) || Video Resolution Width, Numerical operators allowed, [720, 1280, 1920, ...] ||
+|| U || U(>=1080) || Video Resolution Height, Numerical operators allowed, [576, 720, 1080, ...] ||
 
 ==== Tags ====
 
