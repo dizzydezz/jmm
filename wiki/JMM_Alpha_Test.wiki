@@ -8,6 +8,11 @@ http://jmmanager.wordpress.com/support/installation-and-setup-2/
 
 == Change Log ==
 
+=== Version 3.1.11 () ===
+
+ * Issue #247: Added two new tests for file renaming: Video Resolution Width and Video Resolution height
+ * File renaming replacement change: if video resolution info does not exist in AniDB data try the MediaInfo generated data instead
+
 === Version 3.1.9 (August 6 2012) ===
 
  * Issue #238: Year isn't always shown correctly in !MyAnime3 and JMM Desktop
