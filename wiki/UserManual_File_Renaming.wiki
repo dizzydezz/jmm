@@ -277,3 +277,14 @@ DO REPLACE '|' '_'
 DO REPLACE '?' '_' 
 DO REPLACE '*' '_'
 }}}
+
+
+==== Format:  Sample 4 - Original File Name ====
+
+*Output:* `[Coalgirls] Highschool of the Dead - 06 [1920x1080 Blu-Ray FLAC] [00AF0C10].mkv`<br>
+*Script*<br>
+
+{{{
+// Use the file name as original specified by the release group
+DO ADD '%sna'
+}}}
