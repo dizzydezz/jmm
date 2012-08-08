@@ -97,6 +97,7 @@ Tags will be replaced with the metadata from AniDB
 || %vid || Video codec (tracks separated with ' ||
 || %aud || Audio codec (tracks separated with ' ||
 || %bit || Video Bit Depth (8bit, 10bit) ||
+|| %sna || The original file name as specified by the sub group ||
 
 ==== Scripting Basics ====
 
