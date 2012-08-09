@@ -8,13 +8,14 @@ http://jmmanager.wordpress.com/support/installation-and-setup-2/
 
 == Change Log ==
 
-=== Version 3.1.11 () ===
+=== Version 3.1.11 (August 9 2012) ===
 
  * File renaming is now enabled
  * Issue #247: Added two new tests for file renaming: Video Resolution Width and Video Resolution height
  * File renaming replacement change: if video resolution info does not exist in AniDB data try the MediaInfo generated data instead
  * File renaming: add tag for original file name by release group
  * File renaming: allow a rename script to be set as the default for automatic renaming when a file is added to the collection
+ * Issue #244: Clear queue button for each of the operations in JMM Desktop and Server
 
 === Version 3.1.9 (August 6 2012) ===
 
