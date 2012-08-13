@@ -11,6 +11,7 @@ http://jmmanager.wordpress.com/support/installation-and-setup-2/
 === Version 3.1.12 () ===
 
  * New utility to update local AniDB File data with a fresh copy from AniDB
+ * Issue #253: New Scheduled task: update anidb file info
 
 === Version 3.1.11 (August 9 2012) ===
 
