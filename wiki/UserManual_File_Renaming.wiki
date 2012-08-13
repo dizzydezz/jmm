@@ -99,7 +99,7 @@ Tags will be replaced with the metadata from AniDB
 || %bit || Video Bit Depth (8bit, 10bit) ||
 || %sna || The original file name as specified by the sub group ||
 || %cen || Censored ||
-|| %dpe || Deprecated ||
+|| %dep || Deprecated ||
 
 ==== Scripting Basics ====
 
