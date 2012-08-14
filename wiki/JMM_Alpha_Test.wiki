@@ -14,6 +14,7 @@ http://jmmanager.wordpress.com/support/installation-and-setup-2/
  * Issue #253: New Scheduled task: update anidb file info
  * File Renaming: add censored tag and associated test
  * File Renaming: add deprecated tag and associated test
+ * Added the option to automatically mark a file as watched in JMM Desktop when you watch a certain percentage (Configured via a new 'Video Player' setting page, only Media Player Classic is currently supported)
 
 === Version 3.1.11 (August 9 2012) ===
 
