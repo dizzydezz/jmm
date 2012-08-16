@@ -13,6 +13,7 @@ http://jmmanager.wordpress.com/support/installation-and-setup-2/
  * Fix hashing of files under 9MB
  * Issue #262: Options for Multiple Files utility
  * Multiple files utility no longer automatically loads data when you first click on it
+ * Issue #263: Options for viewing and sorting file summary for an anime
 
 === Version 3.1.13 (August 16 2012) ===
 
