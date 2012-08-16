@@ -10,6 +10,7 @@ http://jmmanager.wordpress.com/support/installation-and-setup-2/
 
 === Version 3.1.14 () ===
 
+ * Fix hashing of files under 9MB
  * Issue #262: Options for Multiple Files utility
  * Multiple files utility no longer automatically loads data when you first click on it
 
