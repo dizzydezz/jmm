@@ -14,6 +14,7 @@ http://jmmanager.wordpress.com/support/installation-and-setup-2/
  * Issue #262: Options for Multiple Files utility
  * Multiple files utility no longer automatically loads data when you first click on it
  * Issue #263: Options for viewing and sorting file summary for an anime
+ * Fix issue in auto setting files to watched with MPC, when user completely watches the file
 
 === Version 3.1.13 (August 16 2012) ===
 
