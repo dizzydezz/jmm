@@ -11,6 +11,7 @@ http://jmmanager.wordpress.com/support/installation-and-setup-2/
 === Version 3.1.14 () ===
 
  * Fix hashing of files under 9MB
+ * Issue #278: Bug in ED2K Calculation when hasher.dll not found
  * Issue #262: Options for Multiple Files utility
  * Multiple files utility no longer automatically loads data when you first click on it
  * Issue #263: Options for viewing and sorting file summary for an anime
