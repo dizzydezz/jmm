@@ -21,6 +21,7 @@ http://jmmanager.wordpress.com/support/installation-and-setup-2/
  * Issue #274: Ability to rename entire collection
  * Allow white space in between tests for file renamer
  * Add missing episodes control as another tab in downloads
+ * Issue #269: Add recommended anime to downloads
 
 === Version 3.1.13 (August 16 2012) ===
 
