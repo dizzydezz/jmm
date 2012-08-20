@@ -19,6 +19,7 @@ http://jmmanager.wordpress.com/support/installation-and-setup-2/
  * Added the option to automatically play one file based on user settings, when an episode has more than one file available
  * Issue #270: File renaming Episode test NOT operator seems buggy
  * Issue #274: Ability to rename entire collection
+ * Allow white space in between tests for file renamer
 
 === Version 3.1.13 (August 16 2012) ===
 
