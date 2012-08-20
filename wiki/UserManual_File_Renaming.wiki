@@ -87,7 +87,7 @@ Tags will be replaced with the metadata from AniDB
 || %res || Video Resolution ||
 || %yea || Year ||
 || %eps || Episode Count ||
-|| %typ || Anime Type // [unknown, TV, OVA, Movie, TV Special, Other, web] ||
+|| %typ || Anime Type // [unknown, TV Series, OVA, Movie, TV Special, Other, web] ||
 || %fid || File ID ||
 || %aid || Anime ID ||
 || %eid || Episode ID ||
