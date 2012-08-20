@@ -18,6 +18,7 @@ http://jmmanager.wordpress.com/support/installation-and-setup-2/
  * Added support to JMM Desktop to send multiple episodes to a playlist file (.pls) and open in the default windows association. Supported in Continue Watching widget on dashboard, and Playlists tab
  * Added the option to automatically play one file based on user settings, when an episode has more than one file available
  * Issue #270: File renaming Episode test NOT operator seems buggy
+ * Issue #274: Ability to rename entire collection
 
 === Version 3.1.13 (August 16 2012) ===
 
