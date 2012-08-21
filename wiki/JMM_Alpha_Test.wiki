@@ -24,6 +24,7 @@ http://jmmanager.wordpress.com/support/installation-and-setup-2/
  * Add missing episodes control as another tab in downloads
  * Issue #269: Add recommended anime to downloads
  * Issue #276: Support for Animebyt.es in downloads
+ * Fix handling of torrent search results from Nyaa, when only one result is returned
 
 === Version 3.1.13 (August 16 2012) ===
 
