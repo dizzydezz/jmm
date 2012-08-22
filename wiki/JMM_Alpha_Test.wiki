@@ -26,6 +26,7 @@ http://jmmanager.wordpress.com/support/installation-and-setup-2/
  * Issue #276: Support for Animebyt.es in downloads
  * Fix handling of torrent search results from Nyaa, when only one result is returned
  * Issue #267: Combine tv sources on file summary (DTV, HDTV and www are now just shown as TV)
+ * Issue #266: Fix delete button on file summary
 
 === Version 3.1.13 (August 16 2012) ===
 
