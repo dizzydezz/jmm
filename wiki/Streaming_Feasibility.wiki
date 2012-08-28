@@ -1,0 +1,49 @@
+#summary One-sentence summary of this page.
+
+= Introduction =
+
+This is a developer page to investigate the possibility of streaming video
+
+
+= Basic Streaming Requirements =
+
+ * HTTP Streaming (not just RTSP)
+ * Ability to pause and seek (fast forward)
+
+= Streaming Bonus Requirements =
+
+ * HDS (HTTP Dynamic Streaming) / Adaptive bit rate streaming
+
+= Possible Solutions =
+
+== VLC ==
+
+ * Streaming over HTTP works
+ * Cannot pause or seek
+ * Slow to start streaming
+
+== VLC VoD ==
+ 
+ * Only works over RTSP
+
+== FFMpeg ==
+
+ * Requires ffserver to do seek (ffserver only runs on linux)
+
+== Wowza ==
+
+ * Seems to support everything
+ * Costs $1,000
+
+== TVersity ==
+
+ * Seems to be very hard to setup
+ * Very slow at encoding
+ * Costs $4
+
+== Transcode Files ==
+
+Instead of streaming, just transcode the files and then copy them over WCF to the device<br>
+
+ * Requires a lot of disk space
+ * A long time between deciding to watch something and then watching it
