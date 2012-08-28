@@ -41,6 +41,12 @@ This is a developer page to investigate the possibility of streaming video
  * Very slow at encoding
  * Costs $4
 
+== Microsoft Smooth Streaming ==
+
+http://learn.iis.net/page.aspx/89/serving-media-content/<br>
+
+ * Very hard to setup
+
 == Transcode Files ==
 
 Instead of streaming, just transcode the files and then copy them over WCF to the device<br>
