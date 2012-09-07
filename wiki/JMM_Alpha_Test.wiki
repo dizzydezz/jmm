@@ -12,6 +12,7 @@ http://jmmanager.wordpress.com/support/installation-and-setup-2/
 
  * Improved performance getting groups in MyAnime3 (especially with larger collections)
  * Improved auto grouping of series, by only using some relationship types
+ * Fixed detection of missing of 'missing episodes' for movies
 
 === Version 3.1.14 () ===
 
