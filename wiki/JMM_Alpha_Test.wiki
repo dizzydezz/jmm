@@ -8,6 +8,11 @@ http://jmmanager.wordpress.com/support/installation-and-setup-2/
 
 == Change Log ==
 
+=== Version 3.1.15 () ===
+
+ * Improved performance getting groups in MyAnime3 (especially with larger collections)
+ * Improved auto grouping of series, by only using some relationship types
+
 === Version 3.1.14 () ===
 
  * Fix hashing of files under 9MB
