@@ -15,6 +15,7 @@ http://jmmanager.wordpress.com/support/installation-and-setup-2/
  * Fixed detection of missing of 'missing episodes' for movies
  * Issue #284: Auto login to JMM Desktop using last user (only where password is blank)
  * Issue #282: Stop reloading of playlists in JMM Desktop every time you switch tabs
+ * Issue #288: File renamer doesn't work for manually linked files
 
 === Version 3.1.14 () ===
 
