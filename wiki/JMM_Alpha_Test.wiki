@@ -8,6 +8,11 @@ http://jmmanager.wordpress.com/support/installation-and-setup-2/
 
 == Change Log ==
 
+=== Version 3.1.18 () ===
+
+ * Alternative metro themed dashboard (beta)
+ * Close window for multiple videos on an episode when user plays a video
+
 === Version 3.1.17 (September 18 2012) ===
 
  * Improved performance getting groups in MyAnime3 (especially with larger collections)
