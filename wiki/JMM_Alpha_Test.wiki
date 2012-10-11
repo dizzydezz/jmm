@@ -11,6 +11,7 @@ http://jmmanager.wordpress.com/support/installation-and-setup-2/
 === Version 3.1.18 () ===
 
  * File Renamer - will always pad episode number with a zero, where the episode number is less than 10
+ * Workaround for performance issue in Utilities - Multiple files when using MySQL
  * Alternative metro themed dashboard (beta)
  * Close window for multiple videos on an episode when user plays a video
 
