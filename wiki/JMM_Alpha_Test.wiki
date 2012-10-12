@@ -14,6 +14,7 @@ http://jmmanager.wordpress.com/support/installation-and-setup-2/
  * Workaround for performance issue in Utilities - Multiple files when using MySQL
  * Alternative metro themed dashboard (beta)
  * Close window for multiple videos on an episode when user plays a video
+ * New Utility - My Votes: view all your votes in one screen
 
 === Version 3.1.17 (September 18 2012) ===
 
