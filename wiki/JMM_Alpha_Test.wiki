@@ -11,6 +11,7 @@ http://jmmanager.wordpress.com/support/installation-and-setup-2/
 === Version 3.1.19 () ===
 
  * Issue #296: Variations exists on Anime Files, add Mark as variation in Multiple files
+ * Issue #295: Utilities - Multiple Files (Enable delete Manual-Links and No Group Info series)
 
 === Version 3.1.18 (October 12 2012) ===
 
