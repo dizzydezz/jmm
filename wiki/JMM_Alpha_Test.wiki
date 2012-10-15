@@ -8,6 +8,10 @@ http://jmmanager.wordpress.com/support/installation-and-setup-2/
 
 == Change Log ==
 
+=== Version 3.1.19 () ===
+
+Issue #296: Variations exists on Anime Files, add Mark as variation in Multiple files
+
 === Version 3.1.18 (October 12 2012) ===
 
  * File Renamer - will always pad episode number with a zero, where the episode number is less than 10
