@@ -21,6 +21,7 @@ http://jmmanager.wordpress.com/support/installation-and-setup-2/
  * JMM Desktop - Much improved memory usage for series with large number of episodes
  * JMM Desktop - Images tab loads much more quickly for series with large number of images
  * JMM Desktop - More consistent display of images on dashboard
+ * JMM Desktop - Fix server image download icon and queue count
 
 === Version 3.1.18 (October 12 2012) ===
 
