@@ -13,6 +13,7 @@ http://jmmanager.wordpress.com/support/installation-and-setup-2/
  * JMM Desktop - Issue #296: Variations exists on Anime Files, add Mark as variation in Multiple files
  * JMM Desktop - Issue #295: Utilities - Multiple Files (Enable delete Manual-Links and No Group Info series)
  * JMM Desktop - Issue #69: Toolbar for episode list always stays at the top
+ * JMM Desktop - Issue #312: Unrecognized Files Sorted Alphabetically
  * JMM Desktop - Toolbar on dashboard always stays at the top
  * JMM Desktop - Toolbar on Series will no longer be cut off in a smaller window
  * JMM Desktop - Episode List loads much more quickly for series with large number of episodes
