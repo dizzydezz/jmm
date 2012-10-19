@@ -24,6 +24,9 @@ http://jmmanager.wordpress.com/support/installation-and-setup-2/
  * JMM Desktop - More consistent display of images on dashboard
  * JMM Desktop - Fix server image download icon and queue count
  * Various performance improvements for sqlite and mysql
+ * Add recommendations from AniDB Users to Series display on Metro Dashboard
+ * Allow JMM Desktop to run in Full Screen mode
+ * Minor Metro dashboard changes - Mouse wheel now works, Display loading status for what people are saying, large scroll bars
 
 === Version 3.1.18 (October 12 2012) ===
 
