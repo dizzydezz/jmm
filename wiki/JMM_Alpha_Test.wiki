@@ -8,7 +8,7 @@ http://jmmanager.wordpress.com/support/installation-and-setup-2/
 
 == Change Log ==
 
-=== Version 3.1.19 () ===
+=== Version 3.1.19 (October 19 2012) ===
 
  * JMM Desktop - Issue #296: Variations exists on Anime Files, add Mark as variation in Multiple files
  * JMM Desktop - Issue #295: Utilities - Multiple Files (Enable delete Manual-Links and No Group Info series)
