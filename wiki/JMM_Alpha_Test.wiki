@@ -8,6 +8,10 @@ http://jmmanager.wordpress.com/support/installation-and-setup-2/
 
 == Change Log ==
 
+=== Version 3.1.20 () ===
+
+ * Add a refresh button for trakt shouts/anidb recommendations in Metro dashboard
+
 === Version 3.1.19 (October 19 2012) ===
 
  * JMM Desktop - Issue #296: Variations exists on Anime Files, add Mark as variation in Multiple files
