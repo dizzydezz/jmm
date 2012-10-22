@@ -11,6 +11,7 @@ http://jmmanager.wordpress.com/support/installation-and-setup-2/
 === Version 3.1.20 () ===
 
  * Add a refresh button for trakt shouts/anidb recommendations in Metro dashboard
+ * Issue #314: Ignored Files Sorted Alphabetically
 
 === Version 3.1.19 (October 19 2012) ===
 
