@@ -13,6 +13,7 @@ http://jmmanager.wordpress.com/support/installation-and-setup-2/
  * Add a refresh button for trakt shouts/anidb recommendations in Metro dashboard
  * Issue #314: Ignored Files Sorted Alphabetically
  * Issue #309: Fanart changes in MA3 when moving the mouse
+ * Issue #324: Continue Watching in MA3 and JMM desktop not respecting user categories
 
 === Version 3.1.19 (October 19 2012) ===
 
