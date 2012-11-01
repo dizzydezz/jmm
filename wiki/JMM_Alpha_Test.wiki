@@ -14,6 +14,7 @@ http://jmmanager.wordpress.com/support/installation-and-setup-2/
  * Issue #314: Ignored Files Sorted Alphabetically
  * Issue #309: Fanart changes in MA3 when moving the mouse
  * Issue #324: Continue Watching in MA3 and JMM desktop not respecting user categories
+ * Fix incorrect categories/genres being returned for an anime, and fix sorting to display in correctly weighted order
 
 === Version 3.1.19 (October 19 2012) ===
 
