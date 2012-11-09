@@ -17,6 +17,7 @@ http://jmmanager.wordpress.com/support/installation-and-setup-2/
  * Issue #324: Continue Watching in MA3 and JMM desktop not respecting user categories
  * Fix incorrect categories/genres being returned for an anime, and fix sorting to display in correctly weighted order
  * More fixes to normal dashboard
+ * Make sure that Picture is updated for seiyuus when the anime data is updated
 
 === Version 3.1.19 (October 19 2012) ===
 
