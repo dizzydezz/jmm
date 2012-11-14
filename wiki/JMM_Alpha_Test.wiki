@@ -11,6 +11,7 @@ http://jmmanager.wordpress.com/support/installation-and-setup-2/
 === Version 3.1.22 () ===
 
  * Fix web cache not being used for tvdb/mal and trakt in some cases
+ * Fix performance of new episodes section on Metro dashboard for sqlite
 
 === Version 3.1.21 (November 12 2012) ===
 
