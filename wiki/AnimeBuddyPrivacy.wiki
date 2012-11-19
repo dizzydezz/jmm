@@ -6,5 +6,12 @@ Anime Buddy does not store, share or publish any of your personal information.
 
 == Connecting to the internet ==
 
-Anime Buddy connects to the following sources to get Information
- - 
+Anime Buddy connects to the following sources to get Information<br>
+
+ * Azure - calendar and search information - http://jmm.azurewebsites.net/
+ * AniDB - detailed information about an anime - http://anidb.net
+ * TheTvDB - fanart backgrounds (images only) - http://thetvdb.com/
+
+== Connecting to local network ==
+
+If you chosen to connect to JMM Server, Anime Buddy will use this connection to display information from your local database.
