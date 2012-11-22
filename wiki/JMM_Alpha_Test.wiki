@@ -11,6 +11,9 @@ http://jmmanager.wordpress.com/support/installation-and-setup-2/
 === Version 3.1.23 () ===
 
  * Delete entries from database for posters, fanart and banners which no longer exist on TvDB
+ * Greater control over which images and how many are downloaded for Characters, Creators, Trakt, TvDB and MovieDB
+ * Issue #304: Ability to limit the amount of wide-banner and posters automatically downloaded
+ * Issue #306: Prevent character/creator images being download when they are not required
 
 === Version 3.1.22 (November 19 2012) ===
 
