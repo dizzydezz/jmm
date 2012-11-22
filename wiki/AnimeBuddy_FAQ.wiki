@@ -6,6 +6,12 @@
 
 JMM Server allows you to keep track of files/episodes in your own collection.
 
+=== Can Anime Buddy connect to JMM Server over the internet? ===
+
+Yes, all aspects of Anime Buddy will work over the internet.<br>
+Note that images are quite large, and initially loading them can take a quite a while over a slow connection<br>
+Downloading of episode files will also work since the files are transferred via JMM server rather than directly accessing the local network<br>
+
 == Playing an episode/video ==
 
 To play an episode in Anime Buddy, it first downloads the file to your local folders. The reason for this is that Windows Store apps are not allowed to access the network, or local machine folders without manually using the File Picker.<br>
