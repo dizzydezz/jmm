@@ -1,0 +1,14 @@
+= Anime Buddy Release Notes  =
+
+<wiki:toc max_depth="3" />
+
+== Change Log ==
+
+=== Version 1.0.0.3 () ===
+
+ * You can now mark an episode as watched (JMM Server Required)
+ * You can now download and play an episode (JMM Server Required)
+
+=== Version 1.0.0.2 (November 25 2012) ===
+
+ * Initial Release
