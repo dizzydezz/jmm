@@ -8,6 +8,10 @@ http://jmmanager.wordpress.com/support/installation-and-setup-2/
 
 == Change Log ==
 
+=== Version 3.1.23 () ===
+
+ * Delete entries from database for posters, fanart and banners which no longer exist on TvDB
+
 === Version 3.1.22 (November 19 2012) ===
 
  * Fix web cache not being used for tvdb/mal and trakt in some cases
