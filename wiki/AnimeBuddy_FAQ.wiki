@@ -1,0 +1,21 @@
+= Anime Buddy Frequently Asked Questions  =
+
+<wiki:toc max_depth="3" />
+
+== JMM Server ==
+
+JMM Server allows you to keep track of files/episodes in your own collection.
+
+== Playing an episode/video ==
+
+To play an episode in Anime Buddy, it first downloads the file to your local folders. The reason for this is that Windows Store apps are not allowed to access the network, or local machine folders without manually using the File Picker.<br>
+
+The file is downloaded into your temporary folder, and you can play it again later.<br>
+You can also delete the temp file after you have finished watching it, or delete all temp files from the options charm<br>
+
+=== Why won't the episode play? ===
+
+If you are on a Windows RT machine, you can only play videos which are supported by Windows Store apps. At the time of writing the Video app only supports avi/xvid files.<br>
+Hopefully in the future an app will be released which supports MKV<br>
+
+If you are on Windows 8 Pro, you can download desktops apps like Media Player Class, VLC etc which will allow you to play most files.<br>
