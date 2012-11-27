@@ -22,6 +22,9 @@ You can also delete the temp file after you have finished watching it, or delete
 === Why won't the episode play? ===
 
 If you are on a Windows RT machine, you can only play videos which are supported by Windows Store apps. At the time of writing the Video app only supports avi/xvid files.<br>
-Hopefully in the future an app will be released which supports MKV<br>
+Hopefully in the future an app will be released which fully supports MKV<br>
+
+Update - The PressPlay app on windows store partially supports MKV (only H264 video, and MP3/AAC/ACE audio)<br>
+http://apps.microsoft.com/webpdp/en-us/app/pressplay-video/14524998-116a-406f-994b-fefc4caa91dc<br>
 
 If you are on Windows 8 Pro, you can download desktops apps like Media Player Class, VLC etc which will allow you to play most files.<br>
