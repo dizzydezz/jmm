@@ -16,6 +16,7 @@ http://jmmanager.wordpress.com/support/installation-and-setup-2/
  * Issue #306: Prevent character/creator images being download when they are not required
  * Issue #340: Ability to play a file from Utilities - Unrecognised, Manually Linked, Ignored and Duplicates
  * Better handling to make sure a file is marked watched when the file was not added to AniDB originally.
+ * Issue #297: Manual linked file do not get updated when real AniDB file info exists
 
 === Version 3.1.22 (November 19 2012) ===
 
