@@ -8,6 +8,10 @@ http://jmmanager.wordpress.com/support/installation-and-setup-2/
 
 == Change Log ==
 
+=== Version 3.1.24 () ===
+
+ * File Renaming - make sure CRC's from local file info is used properly
+
 === Version 3.1.23 (November 28 2012) ===
 
  * Delete entries from database for posters, fanart and banners which no longer exist on TvDB
