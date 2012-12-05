@@ -47,6 +47,11 @@ https://github.com/MPExtended/MPExtended<br>
 http://mpextended.github.com/<br>
 http://forum.team-mediaportal.com/threads/mpextended-service-0-5-0.114105/<br>
 
+== Plex ==
+
+http://www.plexapp.com/getplex/<br>
+http://dev.plexapp.com/docs/index.html<br>
+
 == Microsoft Smooth Streaming ==
 
 http://learn.iis.net/page.aspx/89/serving-media-content/<br>
