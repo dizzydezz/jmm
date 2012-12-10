@@ -8,7 +8,7 @@ http://jmmanager.wordpress.com/support/installation-and-setup-2/
 
 == Change Log ==
 
-=== Version 3.1.24 () ===
+=== Version 3.1.24 (December 10 2012) ===
 
  * File Renaming - make sure CRC's from local file info is used properly
  * Issue #349: Missing episodes utility- add release group to column options
