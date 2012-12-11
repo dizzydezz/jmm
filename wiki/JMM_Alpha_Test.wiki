@@ -8,10 +8,11 @@ http://jmmanager.wordpress.com/support/installation-and-setup-2/
 
 == Change Log ==
 
-=== Version 3.1.25 () ===
+=== Version 3.1.25 (December 12 2012) ===
 
  * Issue #354: Autolink settings are lost, TVDB info keeps populating
  * Issue #338: Support !PotPlayer for marking files as watched
+ * Issue #355: Crashing if "User" button is clicked
 
 === Version 3.1.24 (December 10 2012) ===
 
