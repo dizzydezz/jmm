@@ -46,6 +46,15 @@ Depending on your version of MPC, you should enable the following options<br>
 You should enable the following setting<br>
 
 <table>
+
+<tr>
+<td>
+<a href="http://jmm.googlecode.com/svn/trunk/Screenshots/VideoPlayers/PotPlayer_02.jpg">
+<img src="http://jmm.googlecode.com/svn/trunk/Screenshots/VideoPlayers/PotPlayer_02.jpg" />
+</a>
+</td>
+</tr>
+
 <tr>
 <td>
 <a href="http://jmm.googlecode.com/svn/trunk/Screenshots/VideoPlayers/PotPlayer_01.jpg">
