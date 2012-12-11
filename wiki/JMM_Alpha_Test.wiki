@@ -11,7 +11,7 @@ http://jmmanager.wordpress.com/support/installation-and-setup-2/
 === Version 3.1.25 () ===
 
  * Issue #354: Autolink settings are lost, TVDB info keeps populating
- * Issue #338: Support PotPlayer for marking files as watched
+ * Issue #338: Support !PotPlayer for marking files as watched
 
 === Version 3.1.24 (December 10 2012) ===
 
