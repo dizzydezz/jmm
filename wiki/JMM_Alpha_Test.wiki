@@ -10,7 +10,7 @@ http://jmmanager.wordpress.com/support/installation-and-setup-2/
 
 === Version 3.1.26 () ===
 
- * Make sure that the 'Remove Missing Files' utility also updates the user's AniDB MyList
+ * Make sure that the 'Remove Missing Files' utility also updates the user's AniDB !MyList
 
 === Version 3.1.25 (December 12 2012) ===
 
