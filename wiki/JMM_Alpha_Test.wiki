@@ -11,6 +11,7 @@ http://jmmanager.wordpress.com/support/installation-and-setup-2/
 === Version 3.1.26 () ===
 
  * Make sure that the 'Remove Missing Files' utility also updates the user's AniDB !MyList
+ * Issue #138: Option for JMM Server to change state to deleted rather than removing files from MyList when deleted from HDD
 
 === Version 3.1.25 (December 12 2012) ===
 
