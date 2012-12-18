@@ -15,6 +15,8 @@ http://jmmanager.wordpress.com/support/installation-and-setup-2/
  * Cache some AniDB info for use during file imports to prevent chances of a ban
  * Log all API calls to AniDB into a new database table for debugging when a ban occurs
  * Issue #352: Slightly off-resolution files will now be grouped together, e.g. 1272x720 will be shown in same group as 1280x720
+ * Issue #176: Empty folders are deleted from the drop folder automatically
+ * Issue #359: Subtitle files are not moved from drop folder
  * File Renamer - test that Video Resolution info exists now works - I(res)
 
 === Version 3.1.25 (December 12 2012) ===
