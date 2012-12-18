@@ -14,6 +14,7 @@ http://jmmanager.wordpress.com/support/installation-and-setup-2/
  * Issue #138: Option for JMM Server to change state to deleted rather than removing files from MyList when deleted from HDD
  * Cache some AniDB info for use during file imports to prevent chances of a ban
  * Log all API calls to AniDB into a new database table for debugging when a ban occurs
+ * Issue #352: Slightly off-resolution files will now be grouped together, e.g. 1272x720 will be shown in same group as 1280x720
 
 === Version 3.1.25 (December 12 2012) ===
 
