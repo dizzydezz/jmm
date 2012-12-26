@@ -8,6 +8,10 @@ http://jmmanager.wordpress.com/support/installation-and-setup-2/
 
 == Change Log ==
 
+=== Version 3.1.27 () ===
+
+ * File Renamer: Make sure VideoInfo record is use for Resolution on manually linked files
+
 === Version 3.1.26 (December 21 2012) ===
 
  * Make sure that the 'Remove Missing Files' utility also updates the user's AniDB !MyList
