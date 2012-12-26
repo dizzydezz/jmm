@@ -11,6 +11,7 @@ http://jmmanager.wordpress.com/support/installation-and-setup-2/
 === Version 3.1.27 () ===
 
  * File Renamer: Make sure !VideoInfo record is use for Resolution on manually linked files
+ * Issue #366: Metro dash doesn't hide anime correctly
 
 === Version 3.1.26 (December 21 2012) ===
 
