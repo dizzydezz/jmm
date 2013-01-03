@@ -14,6 +14,7 @@ http://jmmanager.wordpress.com/support/installation-and-setup-2/
  * Issue #366: Metro dash doesn't hide anime correctly
  * Issue #370: JMM Desktop crashes when rating a series after watching last episode
  * Issue #368: Non-existing unrecognized file cannot be deleted
+ * Issue #212: The "new series" dialog in the unrecognised files utility is confusing at first
 
 === Version 3.1.26 (December 21 2012) ===
 
