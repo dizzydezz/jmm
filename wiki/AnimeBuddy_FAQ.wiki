@@ -12,6 +12,23 @@ Yes, all aspects of Anime Buddy will work over the internet.<br>
 Note that images are quite large, and initially loading them can take a quite a while over a slow connection<br>
 Downloading of episode files will also work since the files are transferred via JMM server rather than directly accessing the local network<br>
 
+=== JMM Server Not Responding Errors ===
+
+You may get an error when trying to connect to JMM Server along the lines of <br>
+* JMM Server is not responding.. *<br>
+
+Possible issues<br>
+1. JMM Server is not running<br>
+2. You have not entered the JMM Server details correcly<br>
+3. Loopback issues when trying to connect Anime Buddy to JMM server on the same machine<br>
+
+In regards to #3, this is a common issue where Metro applications are forbidden from sending network traffic to the local machine. You can over-ride this (and get a full explanation) from the following page<br>
+
+http://blogs.msdn.com/b/fiddler/archive/2011/12/10/fiddler-windows-8-apps-enable-loopback-network-isolation-exemption.aspx
+
+Simply install the loopback utility and add Anime Buddy as an exemption<br>
+
+
 == Playing an episode/video ==
 
 To play an episode in Anime Buddy, it first downloads the file to your local folders. The reason for this is that Windows Store apps are not allowed to access the network, or local machine folders without manually using the File Picker.<br>
