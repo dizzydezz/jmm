@@ -15,6 +15,7 @@ http://jmmanager.wordpress.com/support/installation-and-setup-2/
  * Issue #370: JMM Desktop crashes when rating a series after watching last episode
  * Issue #368: Non-existing unrecognized file cannot be deleted
  * Issue #212: The "new series" dialog in the unrecognised files utility is confusing at first
+ * Hasher.dll now runs at low priority, to make system more responsive when multi-tasking  (thanks a lot gibwar)
 
 === Version 3.1.26 (December 21 2012) ===
 
