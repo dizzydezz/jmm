@@ -17,6 +17,7 @@ http://jmmanager.wordpress.com/support/installation-and-setup-2/
  * Issue #212: The "new series" dialog in the unrecognised files utility is confusing at first
  * Hasher.dll now runs at low priority, to make system more responsive when multi-tasking  (thanks a lot gibwar)
  * Issue #369: Various File renamer problems
+ * Issue #363: File Renamer - two news tests for manually linked files, and checking if a file has any episodes attached
 
 === Version 3.1.26 (December 21 2012) ===
 
