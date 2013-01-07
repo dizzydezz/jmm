@@ -64,6 +64,8 @@ IF I(epn);I(!epr) DO ADD '%epn' //If the episode has an romaji title but not an 
 || Z || Z(10)|| Video Bit Depth, Numerical operators allowed [8,10] ||
 || W || W(>=1280) || Video Resolution Width, Numerical operators allowed, [720, 1280, 1920, ...] ||
 || U || U(>=1080) || Video Resolution Height, Numerical operators allowed, [576, 720, 1080, ...] ||
+|| M || M() or M(!) || Test if the file is manually linked ||
+|| N || N() or N(!) || Test if the file has any episodes attached (for check if unrecognized) ||
 
 ==== Tags ====
 
