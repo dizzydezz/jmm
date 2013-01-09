@@ -8,6 +8,10 @@ http://jmmanager.wordpress.com/support/installation-and-setup-2/
 
 == Change Log ==
 
+=== Version 3.1.29 (January 10 2013) ===
+
+ * More fixes to MAL searching
+
 === Version 3.1.28 (January 9 2013) ===
 
  * File Renamer: Make sure !VideoInfo record is use for Resolution on manually linked files
