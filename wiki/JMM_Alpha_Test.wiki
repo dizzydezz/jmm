@@ -18,6 +18,8 @@ http://jmmanager.wordpress.com/support/installation-and-setup-2/
  * Hasher.dll now runs at low priority, to make system more responsive when multi-tasking  (thanks a lot gibwar)
  * Issue #369: Various File renamer problems
  * Issue #363: File Renamer - two news tests for manually linked files, and checking if a file has any episodes attached
+ * Fix issue with MyAnimeList search and associations
+ * Better handling of multiple folder creation events for watched import folders
 
 === Version 3.1.26 (December 21 2012) ===
 
