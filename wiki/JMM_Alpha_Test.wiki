@@ -8,6 +8,10 @@ http://jmmanager.wordpress.com/support/installation-and-setup-2/
 
 == Change Log ==
 
+=== Version 3.1.32 () ===
+
+ * Issue #388: Missing Episodes - Additional Filter - Currently Airing
+
 === Version 3.1.31 (Januray 29 2013) ===
 
  * Fix for JMM Server importer failing when trying to scan system folders
