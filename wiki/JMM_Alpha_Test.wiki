@@ -10,6 +10,8 @@ http://jmmanager.wordpress.com/support/installation-and-setup-2/
 
 === Version 3.1.32 () ===
 
+ * Search in JMM Desktop now allows up to 100 results (instead of 40)
+ * Search in JMM Desktop now allows a choice between searching by title only and by everything (title, category, tag)
  * Issue #388: Missing Episodes - Additional Filter - Currently Airing
 
 === Version 3.1.31 (Januray 29 2013) ===
