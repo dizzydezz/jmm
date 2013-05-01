@@ -17,6 +17,7 @@ http://jmmanager.wordpress.com/support/installation-and-setup-2/
  * Issue #388: Missing Episodes - Additional Filter - Currently Airing
  * Prevent ping command from being issued while JMM Server is still waiting on a response from AniDB udp api
  * Show visual indicator of AniDB udp communications activity on JMM Server window
+ * Better handling for AniDB Errors  506 (Invalid Session) and 505 (illegal Input)
 
 === Version 3.1.31 (Januray 29 2013) ===
 
