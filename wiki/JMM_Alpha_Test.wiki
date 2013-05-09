@@ -20,6 +20,7 @@ http://jmmanager.wordpress.com/support/installation-and-setup-2/
  * Better handling for AniDB Errors  506 (Invalid Session) and 505 (illegal Input)
  * Better handling for AniDB Errors  600, 601, 602 and 604 - Pause for extended period when AniDB is not responding
  * Issue #432: Auto setting files to watched in latest MPC is no longer working
+ * Issue #418: Rating star count on mouseover
 
 === Version 3.1.31 (Januray 29 2013) ===
 
