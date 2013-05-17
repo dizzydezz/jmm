@@ -21,6 +21,7 @@ http://jmmanager.wordpress.com/support/installation-and-setup-2/
  * Better handling for AniDB Errors  600, 601, 602 and 604 - Pause for extended period when AniDB is not responding
  * Issue #432: Auto setting files to watched in latest MPC is no longer working
  * Issue #418: Rating star count on mouseover
+ * Continue Watching (windows/widgets) In JMM Desktop and MyAnime3 is now based of a system created Group Filter which the user can customise.
 
 === Version 3.1.31 (Januray 29 2013) ===
 
