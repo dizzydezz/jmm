@@ -9,6 +9,7 @@ using OMMWebCache.Entities;
 using OMMWebCache.Contracts;
 using System.Xml;
 using System.IO;
+using JMMWebCache;
 
 namespace OMMWebCache
 {
@@ -36,6 +37,10 @@ namespace OMMWebCache
 				{
 					repCrossRef.Delete(xref.CrossRef_AniDB_TvDBID);
 				}
+
+				// now send to mirror
+				string uri = string.Format("http://{0}/DeleteCrossRef_AniDBTvDBAll.aspx", Constants.MirrorWAIX);
+				XMLService.SendData(uri, xmlData);
 			}
 			catch (Exception ex)
 			{

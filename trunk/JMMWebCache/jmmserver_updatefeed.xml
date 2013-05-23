@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:appcast="http://www.adobe.com/xml-namespaces/appcast/1.0">
+  <channel>
+    <title>JMM Server Update Feed</title>
+    <link>http://code.google.com/p/jmm/downloads/list</link>
+    <description>JMM Server</description>
+    <item>
+      <title>JMM Server</title>
+      <link>http://code.google.com/p/jmm/downloads/list</link>
+      <description>Generic JMM Server Update</description>
+      <pubDate>Sunday, 27 December 2009 00:35:00 GMT</pubDate>
+      <appcast:version>3.0.38</appcast:version>
+      <enclosure url="http://jmm.googlecode.com/files/JMMServer_3.0.38.zip" length="17612230" type="application/octet-stream" />
+    </item>
+  </channel>
+</rss>

@@ -8,6 +8,7 @@ using OMMWebCache.Repositories;
 using System.IO;
 using System.Xml;
 using OMMWebCache.Entities;
+using JMMWebCache;
 
 namespace OMMWebCache
 {
@@ -45,6 +46,10 @@ namespace OMMWebCache
 				aniUpdated.UpdateTime = updateTime;
 				aniUpdated.DateTimeCreated = DateTime.Now;
 				repUpdates.Save(aniUpdated);
+
+				// now send to mirror
+				string uri = string.Format("http://{0}/AddUpdatedList.aspx", Constants.MirrorWAIX);
+				XMLService.SendData(uri, xmlData);
 
 			}
 			catch (Exception ex)

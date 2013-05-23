@@ -23,6 +23,9 @@ namespace JMMWebCache
 
 			try
 			{
+				Response.Write(Constants.ERROR_XML);
+				return;
+
 				AniDB_FileRepository rep = new AniDB_FileRepository();
 
 				StreamReader reader = new StreamReader(this.Request.InputStream);

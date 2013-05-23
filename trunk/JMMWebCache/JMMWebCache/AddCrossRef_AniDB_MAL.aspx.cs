@@ -73,6 +73,10 @@ namespace JMMWebCache
 				xref.StartEpisodeNumber = epNumber;
 				repCrossRef.Save(xref);
 
+				// now send to mirror
+				string uri = string.Format("http://{0}/AddCrossRef_AniDB_MAL.aspx", Constants.MirrorWAIX);
+				XMLService.SendData(uri, xmlData);
+
 			}
 			catch (Exception ex)
 			{

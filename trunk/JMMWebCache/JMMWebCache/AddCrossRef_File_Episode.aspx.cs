@@ -19,6 +19,9 @@ namespace OMMWebCache
 
 			try
 			{
+				Response.Write(Constants.ERROR_XML);
+				return;
+
 				CrossRef_File_Episode_Rep repCrossRef = new CrossRef_File_Episode_Rep();
 
 				StreamReader reader = new StreamReader(this.Request.InputStream);

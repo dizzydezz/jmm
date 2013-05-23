@@ -13,6 +13,7 @@
     <RootNamespace>JMMWebCache</RootNamespace>
     <AssemblyName>JMMWebCache</AssemblyName>
     <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <UseIISExpress>false</UseIISExpress>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
     <DebugSymbols>true</DebugSymbols>
@@ -305,6 +306,7 @@
     <Compile Include="Repositories\FileNameHash_Rep.cs" />
     <Compile Include="Utils.cs" />
     <Compile Include="WebCache.cs" />
+    <Compile Include="XMLService.cs" />
   </ItemGroup>
   <ItemGroup />
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />

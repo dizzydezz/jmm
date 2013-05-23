@@ -19,6 +19,9 @@ namespace OMMWebCache
 
 			try
 			{
+				Response.Write(Constants.ERROR_XML);
+				return;
+
 				FileNameHash_Rep repHash = new FileNameHash_Rep();
 
 				StreamReader reader = new StreamReader(this.Request.InputStream);
