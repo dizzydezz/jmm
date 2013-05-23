@@ -8,6 +8,7 @@ using OMMWebCache.Repositories;
 using System.IO;
 using System.Xml;
 using OMMWebCache.Entities;
+using JMMWebCache;
 namespace OMMWebCache
 {
 	public partial class AddCrossRef_AniDB_Trakt : System.Web.UI.Page
@@ -67,6 +68,10 @@ namespace OMMWebCache
 				xref.Username = uname;
 				xref.ShowName = sname;
 				repCrossRef.Save(xref);
+
+				// now send to mirror
+				string uri = string.Format("http://{0}/AddCrossRef_AniDB_Trakt.aspx", Constants.MirrorWAIX);
+				XMLService.SendData(uri, xmlData);
 
 			}
 			catch (Exception ex)

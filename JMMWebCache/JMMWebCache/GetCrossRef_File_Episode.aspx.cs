@@ -18,6 +18,9 @@ namespace OMMWebCache
 
 			try
 			{
+				Response.Write(Constants.ERROR_XML);
+				return;
+
 				string hash = Utils.GetParam("hash");
 				if (hash.Trim().Length == 0)
 				{

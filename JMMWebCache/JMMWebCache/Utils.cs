@@ -6,6 +6,8 @@ using System.Xml;
 using System.Xml.Serialization;
 using System.Text;
 using System.Text.RegularExpressions;
+using System.Collections.Specialized;
+using System.Configuration;
 
 namespace OMMWebCache
 {
@@ -29,6 +31,22 @@ namespace OMMWebCache
 			serializer.Serialize(writer, data, ns);
 
 			return sb.ToString();
+		}
+
+		public static bool IsPrimaryCache()
+		{
+			try
+			{
+				NameValueCollection appSettings = ConfigurationManager.AppSettings;
+				bool val = false;
+				if (!bool.TryParse(appSettings["IsPrimary"], out val))
+					val = false;
+				return val;
+			}
+			catch
+			{
+				return false;
+			}
 		}
 
 		public static string TryGetProperty(string id, XmlDocument doc, string propertyName)

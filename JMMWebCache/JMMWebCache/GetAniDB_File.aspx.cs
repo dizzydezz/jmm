@@ -22,6 +22,9 @@ namespace JMMWebCache
 
 			try
 			{
+				Response.Write(Constants.ERROR_XML);
+				return;
+
 				string sfsize = Utils.GetParam("fsize");
 				long fsize = 0;
 				long.TryParse(sfsize, out fsize);

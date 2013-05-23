@@ -54,6 +54,10 @@ namespace JMMWebCache
 					repCrossRef.Delete(xref.CrossRef_AniDB_MALID);
 				}
 
+				// now send to mirror
+				string uri = string.Format("http://{0}/DeleteCrossRef_AniDB_MAL.aspx", Constants.MirrorWAIX);
+				XMLService.SendData(uri, xmlData);
+
 			}
 			catch (Exception ex)
 			{
