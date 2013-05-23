@@ -7,8 +7,8 @@
 ; (To generate a new GUID, click Tools | Generate GUID inside the IDE.)
 AppId={{898530ED-CFC7-4744-B2B8-A8D98A2FA06C}
 AppName=JMM Server
-AppVersion=3.0.41
-;AppVerName=JMM Server 3.0.41
+AppVersion=3.1.17
+;AppVerName=JMM Server 3.1.17s
 AppPublisher=JMM
 AppPublisherURL=http://jmmanager.wordpress.com/
 AppSupportURL=http://jmmanager.wordpress.com/
