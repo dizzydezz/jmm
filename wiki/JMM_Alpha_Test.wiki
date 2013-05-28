@@ -24,7 +24,7 @@ http://jmmanager.wordpress.com/support/installation-and-setup-2/
  * Continue Watching (windows/widgets) In JMM Desktop and MyAnime3 is now based of a system created Group Filter which the user can customise.
  * Issue #433: Double episodes showing as missing in JMM Desktop
  * Issue #434: After hashing files some files don't exist
- * Issue #437: Support for MediaPortal 1.4 (convert ToggleButtons to CheckButtons)
+ * Issue #437: Support for !MediaPortal 1.4 (convert !ToggleButtons to !CheckButtons)
  * Fix font heading issues in Titan skin
 
 === Version 3.1.31 (Januray 29 2013) ===
