@@ -23,6 +23,7 @@ http://jmmanager.wordpress.com/support/installation-and-setup-2/
  * Issue #418: Rating star count on mouseover
  * Continue Watching (windows/widgets) In JMM Desktop and MyAnime3 is now based of a system created Group Filter which the user can customise.
  * Issue #433: Double episodes showing as missing in JMM Desktop
+ * Issue #434: After hashing files some files don't exist
 
 === Version 3.1.31 (Januray 29 2013) ===
 
