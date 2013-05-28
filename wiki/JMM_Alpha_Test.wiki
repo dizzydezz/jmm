@@ -27,6 +27,7 @@ http://jmmanager.wordpress.com/support/installation-and-setup-2/
  * Issue #437: Support for !MediaPortal 1.4 (convert !ToggleButtons to !CheckButtons)
  * Fix font heading issues in Titan skin in MyAnime3
  * Dropped support for Mustayaluca skin in MyAnime3
+ * Issue #438: Issue with PlayCurrentThumb in MediaPortal
 
 === Version 3.1.31 (Januray 29 2013) ===
 
