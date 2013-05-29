@@ -7,8 +7,8 @@
 ; (To generate a new GUID, click Tools | Generate GUID inside the IDE.)
 AppId={{AD24689F-020C-4C53-B649-99BB49ED6238}
 AppName=JMM Desktop
-AppVersion=3.1.17
-;AppVerName=JMM Desktop 3.1.17
+AppVersion=3.1.32
+;AppVerName=JMM Desktop 3.1.32
 AppPublisher=JMM
 AppPublisherURL=http://jmmanager.wordpress.com/
 AppSupportURL=http://jmmanager.wordpress.com/
@@ -31,17 +31,37 @@ Name: "quicklaunchicon"; Description: "{cm:CreateQuickLaunchIcon}"; GroupDescrip
 Source: "C:\Projects\SVN\JMM\[ JMM Binaries No Configs ]\JMMDesktop\JMMDesktop.exe"; DestDir: "{app}"; Flags: ignoreversion
 Source: "C:\Projects\SVN\JMM\[ JMM Binaries No Configs ]\JMMDesktop\AutomaticUpdaterWPF.dll"; DestDir: "{app}"; Flags: ignoreversion
 Source: "C:\Projects\SVN\JMM\[ JMM Binaries No Configs ]\JMMDesktop\client.wyc"; DestDir: "{app}"; Flags: ignoreversion
+Source: "C:\Projects\SVN\JMM\[ JMM Binaries No Configs ]\JMMDesktop\DevExpress.Data.v12.2.dll"; DestDir: "{app}"; Flags: ignoreversion
+Source: "C:\Projects\SVN\JMM\[ JMM Binaries No Configs ]\JMMDesktop\DevExpress.PivotGrid.v12.2.Core.dll"; DestDir: "{app}"; Flags: ignoreversion
+Source: "C:\Projects\SVN\JMM\[ JMM Binaries No Configs ]\JMMDesktop\DevExpress.Printing.v12.2.Core.dll"; DestDir: "{app}"; Flags: ignoreversion
+Source: "C:\Projects\SVN\JMM\[ JMM Binaries No Configs ]\JMMDesktop\DevExpress.Xpf.Core.v12.2.dll"; DestDir: "{app}"; Flags: ignoreversion
+Source: "C:\Projects\SVN\JMM\[ JMM Binaries No Configs ]\JMMDesktop\DevExpress.Xpf.Core.v12.2.Extensions.dll"; DestDir: "{app}"; Flags: ignoreversion
+Source: "C:\Projects\SVN\JMM\[ JMM Binaries No Configs ]\JMMDesktop\DevExpress.Xpf.Grid.v12.2.Core.dll"; DestDir: "{app}"; Flags: ignoreversion
+Source: "C:\Projects\SVN\JMM\[ JMM Binaries No Configs ]\JMMDesktop\DevExpress.Xpf.Grid.v12.2.dll"; DestDir: "{app}"; Flags: ignoreversion
+Source: "C:\Projects\SVN\JMM\[ JMM Binaries No Configs ]\JMMDesktop\DevExpress.Xpf.Layout.v12.2.Core.dll"; DestDir: "{app}"; Flags: ignoreversion
+Source: "C:\Projects\SVN\JMM\[ JMM Binaries No Configs ]\JMMDesktop\DevExpress.Xpf.LayoutControl.v12.2.dll"; DestDir: "{app}"; Flags: ignoreversion
+Source: "C:\Projects\SVN\JMM\[ JMM Binaries No Configs ]\JMMDesktop\DevExpress.Xpf.PivotGrid.v12.2.dll"; DestDir: "{app}"; Flags: ignoreversion
+Source: "C:\Projects\SVN\JMM\[ JMM Binaries No Configs ]\JMMDesktop\DevExpress.Xpf.Printing.v12.2.Core.dll"; DestDir: "{app}"; Flags: ignoreversion
+Source: "C:\Projects\SVN\JMM\[ JMM Binaries No Configs ]\JMMDesktop\DevExpress.Xpf.Printing.v12.2.dll"; DestDir: "{app}"; Flags: ignoreversion
 Source: "C:\Projects\SVN\JMM\[ JMM Binaries No Configs ]\JMMDesktop\GongSolutions.Wpf.DragDrop.dll"; DestDir: "{app}"; Flags: ignoreversion
 Source: "C:\Projects\SVN\JMM\[ JMM Binaries No Configs ]\JMMDesktop\Infralution.Localization.Wpf.dll"; DestDir: "{app}"; Flags: ignoreversion
 Source: "C:\Projects\SVN\JMM\[ JMM Binaries No Configs ]\JMMDesktop\JMMDesktop.pdb"; DestDir: "{app}"; Flags: ignoreversion
 Source: "C:\Projects\SVN\JMM\[ JMM Binaries No Configs ]\JMMDesktop\JMMDesktop.vshost.exe"; DestDir: "{app}"; Flags: ignoreversion
 Source: "C:\Projects\SVN\JMM\[ JMM Binaries No Configs ]\JMMDesktop\JMMDesktop.vshost.exe.manifest"; DestDir: "{app}"; Flags: ignoreversion
+Source: "C:\Projects\SVN\JMM\[ JMM Binaries No Configs ]\JMMDesktop\MahApps.Metro.dll"; DestDir: "{app}"; Flags: ignoreversion
+Source: "C:\Projects\SVN\JMM\[ JMM Binaries No Configs ]\JMMDesktop\MahApps.Metro.pdb"; DestDir: "{app}"; Flags: ignoreversion
+Source: "C:\Projects\SVN\JMM\[ JMM Binaries No Configs ]\JMMDesktop\MahApps.Metro.Resources.dll"; DestDir: "{app}"; Flags: ignoreversion
+Source: "C:\Projects\SVN\JMM\[ JMM Binaries No Configs ]\JMMDesktop\MahApps.Metro.Resources.pdb"; DestDir: "{app}"; Flags: ignoreversion
 Source: "C:\Projects\SVN\JMM\[ JMM Binaries No Configs ]\JMMDesktop\NLog.dll"; DestDir: "{app}"; Flags: ignoreversion
 Source: "C:\Projects\SVN\JMM\[ JMM Binaries No Configs ]\JMMDesktop\ReuxablesLegacy.dll"; DestDir: "{app}"; Flags: ignoreversion
+Source: "C:\Projects\SVN\JMM\[ JMM Binaries No Configs ]\JMMDesktop\System.Windows.Interactivity.dll"; DestDir: "{app}"; Flags: ignoreversion
 Source: "C:\Projects\SVN\JMM\[ JMM Binaries No Configs ]\JMMDesktop\WPFToolkit.Extended.dll"; DestDir: "{app}"; Flags: ignoreversion
 Source: "C:\Projects\SVN\JMM\[ JMM Binaries No Configs ]\JMMDesktop\wyUpdate.exe"; DestDir: "{app}"; Flags: ignoreversion
 Source: "C:\Projects\SVN\JMM\[ JMM Binaries No Configs ]\JMMDesktop\de\*"; DestDir: "{app}"; Flags: ignoreversion recursesubdirs createallsubdirs
 Source: "C:\Projects\SVN\JMM\[ JMM Binaries No Configs ]\JMMDesktop\en-gb\*"; DestDir: "{app}"; Flags: ignoreversion recursesubdirs createallsubdirs
+Source: "C:\Projects\SVN\JMM\[ JMM Binaries No Configs ]\JMMDesktop\es\*"; DestDir: "{app}"; Flags: ignoreversion recursesubdirs createallsubdirs
+Source: "C:\Projects\SVN\JMM\[ JMM Binaries No Configs ]\JMMDesktop\ja\*"; DestDir: "{app}"; Flags: ignoreversion recursesubdirs createallsubdirs
+Source: "C:\Projects\SVN\JMM\[ JMM Binaries No Configs ]\JMMDesktop\ru\*"; DestDir: "{app}"; Flags: ignoreversion recursesubdirs createallsubdirs
 Source: "C:\Projects\SVN\JMM\[ JMM Binaries No Configs ]\JMMDesktop.exe.Config"; DestDir: "{app}"; Flags: ignoreversion onlyifdoesntexist
 ; NOTE: Don't use "Flags: ignoreversion" on any shared system files
 
