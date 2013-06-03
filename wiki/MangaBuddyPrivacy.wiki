@@ -1,0 +1,11 @@
+= MangaBuddy Privacy Policy =
+
+== Your Personal Information ==
+
+MangaBuddy does not store, share or publish any of your personal information.
+
+== Connecting to the internet ==
+
+MangaBuddy connects to the following sources to get Information<br>
+
+ * MangaFox - source of manga - http://www.mangafox.me/
