@@ -8,6 +8,14 @@ http://jmmanager.wordpress.com/support/installation-and-setup-2/
 
 == Change Log ==
 
+=== Version 3.3.32.3 (December 28 2013) ===
+
+ * Issue #473.
+ * Added support for Plex Media Server
+ * Upgraded mediainfo.dll to latest version.
+ * Added support to Plex Home Theater. (Direct Play, support for HEAD and OPTIONS verb in http, ip redirection)
+ * Added Support for Http Range to File Streaming.
+
 === Version 3.1.32 (June 3 2013) ===
 
  * Issue #192: Multiple tvdb links for series
