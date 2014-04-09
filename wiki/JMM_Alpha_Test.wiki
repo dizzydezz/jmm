@@ -8,6 +8,19 @@ http://jmmanager.wordpress.com/support/installation-and-setup-2/
 
 == Change Log ==
 
+=== Version 3.3.32.5 ===
+
+ * Fixed bug in Date Serialization (Broke Android version)
+ * Updated SQLite libraries to .NET 4.5
+ * Adding caching to group retrievals. (Group retrievals are blazing fast now).
+ * Fixed About Requester bug
+
+=== Version 3.3.32.4 ===
+
+ * SmartTV Support. (There is some limitation on embedded subtitles, please check https://forums.plex....samsung-client/ )
+ * Updated back framework from 3.5 to 4.5. httplistener seems to be bandwidth limited on external ips, on 3.5.
+ * Updated mediainfo.dll to the lastest version 0.7.67.0
+
 === Version 3.3.32.3 (December 28 2013) ===
 
  * Issue #473.
