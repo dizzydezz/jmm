@@ -2,6 +2,14 @@
 
 == Change Log ==
 
+=== Version 0.9.5  ===
+
+ * Fixed Uppercase/lowercase icon link for linux.
+
+=== Version 0.9.4  ===
+
+ * Fixed ip redirection when the player is external (outside your house) groups don't show, etc
+
 === Version 0.9.3 (December 28 2013) ===
 
  * Added search and prefs icon
