@@ -7,12 +7,12 @@
 ; (To generate a new GUID, click Tools | Generate GUID inside the IDE.)
 AppId={{898530ED-CFC7-4744-B2B8-A8D98A2FA06C}
 AppName=JMM Server
-AppVersion=3.1.32
+AppVersion=3.4.1
 ;AppVerName=JMM Server 3.1.32
 AppPublisher=JMM
-AppPublisherURL=http://jmmanager.wordpress.com/
-AppSupportURL=http://jmmanager.wordpress.com/
-AppUpdatesURL=http://jmmanager.wordpress.com/
+AppPublisherURL=https://github.com/japanesemediamanager
+AppSupportURL=https://github.com/japanesemediamanager
+AppUpdatesURL=https://github.com/japanesemediamanager
 DefaultDirName={pf}\JMM Server
 DefaultGroupName=JMM Server
 AllowNoIcons=yes
@@ -65,7 +65,7 @@ Source: "C:\Projects\SVN\JMM\[ JMM Binaries No Configs ]\JMMServer\NLog.dll"; Co
 Source: "C:\Projects\SVN\JMM\[ JMM Binaries No Configs ]\JMMServer\Remotion.Data.Linq.dll"; Components: main; DestDir: "{app}"; Flags: ignoreversion
 Source: "C:\Projects\SVN\JMM\[ JMM Binaries No Configs ]\JMMServer\System.Data.SQLite.dll"; Components: main; DestDir: "{app}"; Flags: ignoreversion
 Source: "C:\Projects\SVN\JMM\[ JMM Binaries No Configs ]\JMMServer\wyUpdate.exe"; Components: main; DestDir: "{app}"; Flags: ignoreversion
-Source: "C:\Projects\SVN\JMM\[ JMM Binaries No Configs ]\JMMServer.exe.Config"; Components: main; DestDir: "{app}"; Flags: ignoreversion onlyifdoesntexist
+Source: "C:\Projects\SVN\JMM\[ JMM Binaries No Configs ]\Config\JMMServer.exe.Config"; Components: main; DestDir: "{app}"; Flags: ignoreversion onlyifdoesntexist
 ; NOTE: Don't use "Flags: ignoreversion" on any shared system files
 
 [Icons]

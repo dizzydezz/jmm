@@ -7,12 +7,12 @@
 ; (To generate a new GUID, click Tools | Generate GUID inside the IDE.)
 AppId={{AD24689F-020C-4C53-B649-99BB49ED6238}
 AppName=JMM Desktop
-AppVersion=3.1.32
+AppVersion=3.4.1
 ;AppVerName=JMM Desktop 3.1.32
 AppPublisher=JMM
-AppPublisherURL=http://jmmanager.wordpress.com/
-AppSupportURL=http://jmmanager.wordpress.com/
-AppUpdatesURL=http://jmmanager.wordpress.com/
+AppPublisherURL=https://github.com/japanesemediamanager
+AppSupportURL=https://github.com/japanesemediamanager
+AppUpdatesURL=https://github.com/japanesemediamanager
 DefaultDirName={pf}\JMM Desktop
 DefaultGroupName=JMM Desktop
 AllowNoIcons=yes
@@ -62,7 +62,7 @@ Source: "C:\Projects\SVN\JMM\[ JMM Binaries No Configs ]\JMMDesktop\en-gb\*"; De
 Source: "C:\Projects\SVN\JMM\[ JMM Binaries No Configs ]\JMMDesktop\es\*"; DestDir: "{app}"; Flags: ignoreversion recursesubdirs createallsubdirs
 Source: "C:\Projects\SVN\JMM\[ JMM Binaries No Configs ]\JMMDesktop\ja\*"; DestDir: "{app}"; Flags: ignoreversion recursesubdirs createallsubdirs
 Source: "C:\Projects\SVN\JMM\[ JMM Binaries No Configs ]\JMMDesktop\ru\*"; DestDir: "{app}"; Flags: ignoreversion recursesubdirs createallsubdirs
-Source: "C:\Projects\SVN\JMM\[ JMM Binaries No Configs ]\JMMDesktop.exe.Config"; DestDir: "{app}"; Flags: ignoreversion onlyifdoesntexist
+Source: "C:\Projects\SVN\JMM\[ JMM Binaries No Configs ]\Config\JMMDesktop.exe.Config"; DestDir: "{app}"; Flags: ignoreversion onlyifdoesntexist
 ; NOTE: Don't use "Flags: ignoreversion" on any shared system files
 
 [Icons]
