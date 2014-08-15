@@ -8,6 +8,10 @@ http://jmmanager.wordpress.com/support/installation-and-setup-2/
 
 == Change Log ==
 
+=== Version 3.4.1 ===
+
+ * Proper Error handling on UI threads to prevent JMM Desktop crashing
+
 === Version 3.3.32.5 ===
 
  * Fixed bug in Date Serialization (Broke Android version)
